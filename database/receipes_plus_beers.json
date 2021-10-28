@@ -1,0 +1,100 @@
+{"vk_id":1,"name":"Hocus Pocus","style id":116,"recipes":{"og" : 1.055, "fg" : 1.013, "color" : 4.83, "boil time" : 75}}
+{"vk_id":2,"name":"Grimbergen Blonde","style id":51,"recipes":{"og" : 1.083, "fg" : 1.021, "color" : 15.64, "boil time" : 60}}
+{"vk_id":3,"name":"Widdershins Barleywine","style id":107,"recipes":{"og" : 1.063, "fg" : 1.018, "color" : 8.98, "boil time" : 60}}
+{"vk_id":4,"name":"Lucifer","style id":76,"recipes":{"og" : 1.061, "fg" : 1.017, "color" : 8.5, "boil time" : 60}}
+{"vk_id":5,"name":"Bitter","style id":133,"recipes":{"og" : 1.06, "fg" : 1.01, "color" : 4.57, "boil time" : 90}}
+{"vk_id":6,"name":"Winter Warmer","style id":13,"recipes":{"og" : 1.055, "fg" : 1.013, "color" : 8, "boil time" : 70}}
+{"vk_id":8,"name":"Oatmeal Stout","style id":42,"recipes":{"og" : 1.054, "fg" : 1.014, "color" : 5.94, "boil time" : 75}}
+{"vk_id":9,"name":"Espresso Porter","style id":103,"recipes":{"og" : 1.06, "fg" : 1.016, "color" : 34.76, "boil time" : 75}}
+{"vk_id":10,"name":"Chocolate Stout","style id":42,"recipes":{"og" : 1.08, "fg" : 1.017, "color" : 8.29, "boil time" : 60}}
+{"vk_id":11,"name":"Hitachino Nest Real Ginger Brew","style id":156,"recipes":{"og" : 1.064, "fg" : 1.014, "color" : 7.78, "boil time" : 90}}
+{"vk_id":12,"name":"JuJu Ginger","style id":90,"recipes":{"og" : 1.066, "fg" : 1.015, "color" : 14.26, "boil time" : 90}}
+{"vk_id":13,"name":"The Kidd Lager","style id":86,"recipes":{"og" : 1.073, "fg" : 1.019, "color" : 6.28, "boil time" : 60}}
+{"vk_id":14,"name":"Imperial Stout","style id":42,"recipes":{"og" : 1.066, "fg" : 1.017, "color" : 10.54, "boil time" : 60}}
+{"vk_id":16,"name":"Ultrablonde","style id":36,"recipes":{"og" : 1.051, "fg" : 1.013, "color" : 3.61, "boil time" : 60}}
+{"vk_id":17,"name":"Wiesen Edel Weisse","style id":50,"recipes":{"og" : 1.073, "fg" : 1.015, "color" : 6.25, "boil time" : 60}}
+{"vk_id":18,"name":"Old Foghorn 2001","style id":81,"recipes":{"og" : 1.073, "fg" : 1.018, "color" : 8.1, "boil time" : 60}}
+{"vk_id":19,"name":"Framboise","style id":48,"recipes":{"og" : 1.046, "fg" : 1.01, "color" : 12.56, "boil time" : 90}}
+{"vk_id":20,"name":"Cow Palace Scotch Ale 1998","style id":15,"recipes":{"og" : 1.062, "fg" : 1.013, "color" : 5.2, "boil time" : 60}}
+{"vk_id":21,"name":"Pilsner Urquell BYO clone","style id":152,"recipes":{"og" : 1.065, "fg" : 1.015, "color" : 9.47, "boil time" : 60}}
+{"vk_id":22,"name":"White IPA","style id":66,"recipes":{"og" : 1.084, "fg" : 1.02, "color" : 6.26, "boil time" : 60}}
+{"vk_id":23,"name":"Brooklyn Sorachi Ace","style id":149,"recipes":{"og" : 1.082, "fg" : 1.013, "color" : 4.1, "boil time" : 60}}
+{"vk_id":24,"name":"Bigfoot 2004","style id":78,"recipes":{"og" : 1.061, "fg" : 1.014, "color" : 5.85, "boil time" : 60}}
+{"vk_id":25,"name":"Chocolate Vanilla Porter","style id":23,"recipes":{"og" : 1.062, "fg" : 1.014, "color" : 5.21, "boil time" : 70}}
+{"vk_id":26,"name":"Winter Ale","style id":13,"recipes":{"og" : 1.067, "fg" : 1.017, "color" : 11.69, "boil time" : 60}}
+{"vk_id":27,"name":"Full Moon Winter Ale","style id":72,"recipes":{"og" : 1.058, "fg" : 1.017, "color" : 3.98, "boil time" : 60}}
+{"vk_id":28,"name":"Odell IPA","style id":31,"recipes":{"og" : 1.065, "fg" : 1.018, "color" : 16.66, "boil time" : 90}}
+{"vk_id":29,"name":"Ornery Amber Lager","style id":95,"recipes":{"og" : 1.052, "fg" : 1.012, "color" : 5.82, "boil time" : 60}}
+{"vk_id":30,"name":"Cutthroat Porter","style id":25,"recipes":{"og" : 1.058, "fg" : 1.014, "color" : 38.71, "boil time" : 60}}
+{"vk_id":31,"name":"Maple Nut Brown Ale Ale","style id":38,"recipes":{"og" : 1.049, "fg" : 1.008, "color" : 3.3, "boil time" : 90}}
+{"vk_id":32,"name":"Cocoa Porter","style id":91,"recipes":{"og" : 1.074, "fg" : 1.018, "color" : 7.68, "boil time" : 60}}
+{"vk_id":33,"name":"Jenlain Blonde","style id":106,"recipes":{"og" : 1.071, "fg" : 1.018, "color" : 6.82, "boil time" : 60}}
+{"vk_id":34,"name":"Blonde","style id":118,"recipes":{"og" : 1.065, "fg" : 1.018, "color" : 6.93, "boil time" : 60}}
+{"vk_id":37,"name":"Winter Cheer","style id":38,"recipes":{"og" : 1.049, "fg" : 1.009, "color" : 3.79, "boil time" : 60}}
+{"vk_id":38,"name":"Canaster Winter Scotch","style id":144,"recipes":{"og" : 13.9618, "fg" : 3.4853, "color" : 4.96, "boil time" : 90}}
+{"vk_id":39,"name":"Breck Vanilla Porter Clone","style id":76,"recipes":{"og" : 1.079, "fg" : 1.019, "color" : 29.4, "boil time" : 60}}
+{"vk_id":40,"name":"Quelque Chose","style id":70,"recipes":{"og" : 1.07, "fg" : 1.015, "color" : 5.67, "boil time" : 60}}
+{"vk_id":41,"name":"Kriek","style id":69,"recipes":{"og" : 1.043, "fg" : 1.007, "color" : 3.82, "boil time" : 90}}
+{"vk_id":43,"name":"Maracaibo Especial","style id":38,"recipes":{"og" : 1.055, "fg" : 1.014, "color" : 10.08, "boil time" : 60}}
+{"vk_id":45,"name":"Calabaza Blanca","style id":72,"recipes":{"og" : 1.05, "fg" : 1.013, "color" : 9.89, "boil time" : 60}}
+{"vk_id":46,"name":"Porter","style id":25,"recipes":{"og" : 1.056, "fg" : 1.014, "color" : 20.59, "boil time" : 60}}
+{"vk_id":47,"name":"Cardinal Pale Ale","style id":26,"recipes":{"og" : 1.059, "fg" : 1.019, "color" : 42.09, "boil time" : 90}}
+{"vk_id":48,"name":"Zinnebir Xmas","style id":117,"recipes":{"og" : 1.096, "fg" : 1.024, "color" : 40, "boil time" : 60}}
+{"vk_id":49,"name":"Bridal Ale 2005","style id":151,"recipes":{"og" : 1.075, "fg" : 1.009, "color" : 8.48, "boil time" : 90}}
+{"vk_id":50,"name":"Zinnebir","style id":26,"recipes":{"og" : 1.046, "fg" : 1.009, "color" : 2.85, "boil time" : 90}}
+{"vk_id":51,"name":"Saison Imperiale","style id":76,"recipes":{"og" : 1.051, "fg" : 1.012, "color" : 3.67, "boil time" : 60}}
+{"vk_id":52,"name":"La Moneuse","style id":61,"recipes":{"og" : 1.058, "fg" : 1.011, "color" : 11.45, "boil time" : 60}}
+{"vk_id":53,"name":"Red Sled Winter Ale","style id":111,"recipes":{"og" : 1.052, "fg" : 1.013, "color" : 4.05, "boil time" : 60}}
+{"vk_id":54,"name":"Christmas Ale 2007","style id":52,"recipes":{"og" : 1.053, "fg" : 1.012, "color" : 3.6, "boil time" : 90}}
+{"vk_id":55,"name":"Equinox Dark Belgian Winter","style id":6,"recipes":{"og" : 1.064, "fg" : 1.015, "color" : 8.23, "boil time" : 60}}
+{"vk_id":56,"name":"Serafijn Christmas Angel","style id":126,"recipes":{"og" : 1.041, "fg" : 1.011, "color" : 3.73, "boil time" : 60}}
+{"vk_id":57,"name":"Obovoid Empirical Stout","style id":43,"recipes":{"og" : 1.067, "fg" : 1.015, "color" : 5.59, "boil time" : 70}}
+{"vk_id":58,"name":"Furious Beer","style id":31,"recipes":{"og" : 1.068, "fg" : 1.016, "color" : 6.81, "boil time" : 60}}
+{"vk_id":59,"name":"Bender Beer","style id":38,"recipes":{"og" : 1.098, "fg" : 1.025, "color" : 50, "boil time" : 90}}
+{"vk_id":60,"name":"Oak Aged Ebenezer","style id":147,"recipes":{"og" : 1.06, "fg" : 1.016, "color" : 29.6, "boil time" : 60}}
+{"vk_id":61,"name":"Killer Penguin","style id":35,"recipes":{"og" : 1.066, "fg" : 1.018, "color" : 4.82, "boil time" : 60}}
+{"vk_id":62,"name":"Oatmeal Stout","style id":42,"recipes":{"og" : 1.062, "fg" : 1.016, "color" : 6.97, "boil time" : 60}}
+{"vk_id":63,"name":"Isolation Ale","style id":141,"recipes":{"og" : 1.062, "fg" : 1.015, "color" : 40, "boil time" : 90}}
+{"vk_id":64,"name":"Festive Ale 2007","style id":144,"recipes":{"og" : 1.063, "fg" : 1.015, "color" : 33.24, "boil time" : 60}}
+{"vk_id":65,"name":"Bourbon County Stout 2007","style id":71,"recipes":{"og" : 1.044, "fg" : 1.011, "color" : 3.65, "boil time" : 90}}
+{"vk_id":66,"name":"Twelve Days","style id":42,"recipes":{"og" : 1.078, "fg" : 1.025, "color" : 7.06, "boil time" : 60}}
+{"vk_id":67,"name":"Seriously Bad Elf","style id":56,"recipes":{"og" : 1.072, "fg" : 1.013, "color" : 6.24, "boil time" : 60}}
+{"vk_id":68,"name":"Big Shot Seasonal Ale","style id":25,"recipes":{"og" : 1.056, "fg" : 1.014, "color" : 18.8, "boil time" : 90}}
+{"vk_id":70,"name":"Harvest Ale 2007","style id":26,"recipes":{"og" : 1.05, "fg" : 1.013, "color" : 6.79, "boil time" : 60}}
+{"vk_id":71,"name":"Nut Cracker Ale","style id":141,"recipes":{"og" : 1.056, "fg" : 1.014, "color" : 3.99, "boil time" : 60}}
+{"vk_id":72,"name":"Goosinator Smoked Doppelbock 2007","style id":95,"recipes":{"og" : 1.062, "fg" : 1.012, "color" : 4.26, "boil time" : 60}}
+{"vk_id":73,"name":"Snow Bound Winter Ale","style id":170,"recipes":{"og" : 1.054, "fg" : 1.015, "color" : 35.08, "boil time" : 60}}
+{"vk_id":74,"name":"Warrior IPA","style id":31,"recipes":{"og" : 1.068, "fg" : 1.013, "color" : 7.77, "boil time" : 60}}
+{"vk_id":75,"name":"Petrus Oud Bruin","style id":54,"recipes":{"og" : 1.057, "fg" : 1.012, "color" : 3.11, "boil time" : 90}}
+{"vk_id":76,"name":"Petrus Gouden Tripel Ale","style id":29,"recipes":{"og" : 1.087, "fg" : 1.022, "color" : 24.85, "boil time" : 60}}
+{"vk_id":77,"name":"Petrus Blond Ale","style id":86,"recipes":{"og" : 1.05, "fg" : 1.013, "color" : 3.33, "boil time" : 90}}
+{"vk_id":78,"name":"Petrus Dubbel Bruin Ale","style id":60,"recipes":{"og" : 1.102, "fg" : 1.023, "color" : 6.34, "boil time" : 90}}
+{"vk_id":79,"name":"Petrus Speciale","style id":26,"recipes":{"og" : 1.07, "fg" : 1.008, "color" : 4.28, "boil time" : 90}}
+{"vk_id":80,"name":"Weizengold Hefefein","style id":50,"recipes":{"og" : 1.066, "fg" : 1.021, "color" : 41.27, "boil time" : 60}}
+{"vk_id":81,"name":"Never Summer Ale","style id":141,"recipes":{"og" : 1.072, "fg" : 1.014, "color" : 7.3, "boil time" : 90}}
+{"vk_id":82,"name":"Modern Monks Belgian Blonde","style id":26,"recipes":{"og" : 1.052, "fg" : 1.013, "color" : 4.31, "boil time" : 90}}
+{"vk_id":83,"name":"Grand Cru","style id":47,"recipes":{"og" : 1.092, "fg" : 1.017, "color" : 5.14, "boil time" : 90}}
+{"vk_id":85,"name":"OSB Premium Ale","style id":144,"recipes":{"og" : 1.072, "fg" : 1.016, "color" : 9.3, "boil time" : 60}}
+{"vk_id":86,"name":"Morocco Ale","style id":101,"recipes":{"og" : 1.07, "fg" : 1.02, "color" : 5.93, "boil time" : 60}}
+{"vk_id":87,"name":"Glacier Ale","style id":33,"recipes":{"og" : 1.079, "fg" : 1.014, "color" : 8.08, "boil time" : 60}}
+{"vk_id":88,"name":"Bent Nail IPA","style id":31,"recipes":{"og" : 1.046, "fg" : 1.013, "color" : 3.99, "boil time" : 0}}
+{"vk_id":89,"name":"Espresso Porter","style id":103,"recipes":{"og" : 1.05, "fg" : 1.013, "color" : 3.5, "boil time" : 90}}
+{"vk_id":90,"name":"Harvest Ale","style id":26,"recipes":{"og" : 1.049, "fg" : 1.012, "color" : 3.79, "boil time" : 90}}
+{"vk_id":91,"name":"Stillwater Rye","style id":105,"recipes":{"og" : 1.043, "fg" : 1.011, "color" : 17.67, "boil time" : 90}}
+{"vk_id":92,"name":"Sharptail Pale Ale","style id":26,"recipes":{"og" : 1.054, "fg" : 1.011, "color" : 5.66, "boil time" : 60}}
+{"vk_id":93,"name":"Fat Belly Amber","style id":33,"recipes":{"og" : 1.083, "fg" : 1.02, "color" : 15.51, "boil time" : 60}}
+{"vk_id":94,"name":"Whitetail Wheat","style id":95,"recipes":{"og" : 1.044, "fg" : 1.01, "color" : 31.4, "boil time" : 60}}
+{"vk_id":95,"name":"Sandbagger Gold","style id":124,"recipes":{"og" : 1.052, "fg" : 1.011, "color" : 3.26, "boil time" : 90}}
+{"vk_id":96,"name":"Brunette Nut Brown Ale","style id":38,"recipes":{"og" : 1.056, "fg" : 1.012, "color" : 9.94, "boil time" : 60}}
+{"vk_id":97,"name":"Irish Red","style id":138,"recipes":{"og" : 1.058, "fg" : 1.015, "color" : 5.6, "boil time" : 60}}
+{"vk_id":98,"name":"Belgian Wit","style id":1,"recipes":{"og" : 1.055, "fg" : 1.014, "color" : 2.84, "boil time" : 60}}
+{"vk_id":99,"name":"EOS Hefeweizen","style id":50,"recipes":{"og" : 1.075, "fg" : 1.019, "color" : 11.3, "boil time" : 75}}
+{"vk_id":100,"name":"India Pale Ale","style id":26,"recipes":{"og" : 1.066, "fg" : 1.019, "color" : 19.42, "boil time" : 60}}
+{"vk_id":101,"name":"Winter Ale","style id":13,"recipes":{"og" : 1.096, "fg" : 1.01, "color" : 20.93, "boil time" : 90}}
+{"vk_id":103,"name":"Robert the Bruce Scottish Ale","style id":15,"recipes":{"og" : 1.04, "fg" : 1.009, "color" : 2.1, "boil time" : 60}}
+{"vk_id":104,"name":"Lump of Coal Dark Holiday Stout","style id":42,"recipes":{"og" : 1.06, "fg" : 1.017, "color" : 8.87, "boil time" : 50}}
+{"vk_id":105,"name":"Warm Welcome Nut Browned Ale","style id":38,"recipes":{"og" : 1.062, "fg" : 1.007, "color" : 13, "boil time" : 60}}
+{"vk_id":106,"name":"Pendle Witches Brew","style id":26,"recipes":{"og" : 1.069, "fg" : 1.02, "color" : 40, "boil time" : 60}}
+{"vk_id":108,"name":"Harvest Ale 2002","style id":13,"recipes":{"og" : 1.053, "fg" : 1.015, "color" : 3.59, "boil time" : 60}}
+{"vk_id":109,"name":"Woody Organic IPA","style id":31,"recipes":{"og" : 1.051, "fg" : 1.012, "color" : 3.66, "boil time" : 90}}
+{"vk_id":110,"name":"Adriaan","style id":88,"recipes":{"og" : 1.058, "fg" : 1.009, "color" : 3.69, "boil time" : 60}}

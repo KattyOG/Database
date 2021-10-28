@@ -1,0 +1,5 @@
+{"id":1,"style":"Altbier", "beers":[{"id":98,"name":"Belgian Wit","style":1,"abv":4,"ibu":44}, {"id":879,"name":"5 Barrel Pale Ale","style":1,"abv":11,"ibu":98}, {"id":946,"name":"Brilliant Barstool","style":1,"abv":4,"ibu":57}]}
+{"id":2,"style":"Alternative Grain Beer", "beers":[{"id":867,"name":"Hitachino Nest Japanese Classic Ale","style":2,"abv":2,"ibu":53}, {"id":1312,"name":"Empire India Pale Ale","style":2,"abv":2,"ibu":39}]}
+{"id":3,"style":"Alternative Sugar Beer", "beers":[{"id":711,"name":"Nebraska Bitter","style":3,"abv":2,"ibu":68}]}
+{"id":4,"style":"American Amber Ale", "beers":[{"id":1795,"name":"Black Cider","style":4,"abv":7,"ibu":51}, {"id":2734,"name":"Beacon Barleywine","style":4,"abv":10,"ibu":37}, {"id":2892,"name":"White Ale","style":4,"abv":11,"ibu":31}, {"id":3653,"name":"Hercules Stong Ale","style":4,"abv":1,"ibu":49}]}
+{"id":5,"style":"American Barleywine", "beers":[{"id":1010,"name":"Anvil Ale","style":5,"abv":4,"ibu":54}, {"id":2296,"name":"Beast Bitter","style":5,"abv":12,"ibu":91}, {"id":2359,"name":"Golden Pheasant","style":5,"abv":7,"ibu":10}, {"id":3629,"name":"Bachelor ESB","style":5,"abv":8,"ibu":3}]}

@@ -1,0 +1,176 @@
+{"id":1,"style":"Altbier"}
+{"id":2,"style":"Alternative Grain Beer"}
+{"id":3,"style":"Alternative Sugar Beer"}
+{"id":4,"style":"American Amber Ale"}
+{"id":5,"style":"American Barleywine"}
+{"id":6,"style":"American Brown Ale"}
+{"id":7,"style":"American IPA"}
+{"id":8,"style":"American Lager"}
+{"id":9,"style":"American Light Lager"}
+{"id":10,"style":"American Pale Ale"}
+{"id":11,"style":"American Porter"}
+{"id":12,"style":"American Stout"}
+{"id":13,"style":"American Strong Ale"}
+{"id":14,"style":"American Wheat Beer"}
+{"id":15,"style":"American Wheat or Rye Beer"}
+{"id":16,"style":"Apple Wine"}
+{"id":17,"style":"Australian Sparkling Ale"}
+{"id":18,"style":"Autumn Seasonal Beer"}
+{"id":19,"style":"Baltic Porter"}
+{"id":20,"style":"Belgian Blond Ale"}
+{"id":21,"style":"Belgian Dark Strong Ale"}
+{"id":22,"style":"Belgian Dubbel"}
+{"id":23,"style":"Belgian Golden Strong Ale"}
+{"id":24,"style":"Belgian Pale Ale"}
+{"id":25,"style":"Belgian Specialty Ale"}
+{"id":26,"style":"Belgian Tripel"}
+{"id":27,"style":"Berliner Weisse"}
+{"id":28,"style":"Best Bitter"}
+{"id":30,"style":"Blonde Ale"}
+{"id":31,"style":"Bohemian Pilsener"}
+{"id":32,"style":"Braggot"}
+{"id":33,"style":"Brett Beer"}
+{"id":34,"style":"British Brown Ale"}
+{"id":35,"style":"British Golden Ale"}
+{"id":36,"style":"British Strong Ale"}
+{"id":37,"style":"Brown Porter"}
+{"id":38,"style":"California Common"}
+{"id":39,"style":"California Common Beer"}
+{"id":40,"style":"Classic American Pilsner"}
+{"id":41,"style":"Classic Rauchbier"}
+{"id":42,"style":"Classic Style Smoked Beer"}
+{"id":43,"style":"Clone Beer"}
+{"id":44,"style":"Common Cider"}
+{"id":45,"style":"Cream Ale"}
+{"id":46,"style":"Cyser (Apple Melomel)"}
+{"id":47,"style":"Czech Amber Lager"}
+{"id":48,"style":"Czech Dark Lager"}
+{"id":49,"style":"Czech Pale Lager"}
+{"id":50,"style":"Czech Premium Pale Lager"}
+{"id":51,"style":"Dusseldorf Altbier"}
+{"id":52,"style":"Dark American Lager"}
+{"id":53,"style":"Dark Mild"}
+{"id":54,"style":"Doppelbock"}
+{"id":55,"style":"Dortmunder Export"}
+{"id":56,"style":"Double IPA"}
+{"id":57,"style":"Dry Mead"}
+{"id":58,"style":"Dry Stout"}
+{"id":59,"style":"Dunkelweizen"}
+{"id":60,"style":"Dunkles Bock"}
+{"id":61,"style":"Dunkles Weissbier"}
+{"id":62,"style":"Eisbock"}
+{"id":63,"style":"English Barleywine"}
+{"id":64,"style":"English Cider"}
+{"id":65,"style":"English IPA"}
+{"id":66,"style":"English Porter"}
+{"id":67,"style":"Experimental Beer"}
+{"id":68,"style":"Extra Special/Strong Bitter (ESB)"}
+{"id":69,"style":"Festbier"}
+{"id":70,"style":"Flanders Brown Ale/Oud Bruin"}
+{"id":71,"style":"Flanders Red Ale"}
+{"id":72,"style":"Foreign Extra Stout"}
+{"id":73,"style":"French Cider"}
+{"id":74,"style":"Fruit and Spice Beer"}
+{"id":75,"style":"Fruit Beer"}
+{"id":76,"style":"Fruit Cider"}
+{"id":77,"style":"Fruit Lambic"}
+{"id":78,"style":"German Helles Exportbier"}
+{"id":79,"style":"German Leichtbier"}
+{"id":80,"style":"German Pils"}
+{"id":81,"style":"German Pilsner (Pils)"}
+{"id":82,"style":"Gose"}
+{"id":83,"style":"Gueuze"}
+{"id":84,"style":"Helles Bock"}
+{"id":85,"style":"Holiday/Winter Special Spiced Beer"}
+{"id":86,"style":"Imperial IPA"}
+{"id":87,"style":"Imperial Stout"}
+{"id":88,"style":"International Amber Lager"}
+{"id":89,"style":"International Dark Lager"}
+{"id":90,"style":"International Pale Lager"}
+{"id":91,"style":"Irish Extra Stout"}
+{"id":92,"style":"Irish Red Ale"}
+{"id":93,"style":"Irish Stout"}
+{"id":95,"style":"Kellerbier: Amber Kellerbier"}
+{"id":96,"style":"Kellerbier: Pale Kellerbier"}
+{"id":97,"style":"Kentucky Common"}
+{"id":98,"style":"Lambic"}
+{"id":99,"style":"Lichtenhainer"}
+{"id":100,"style":"Light American Lager"}
+{"id":101,"style":"London Brown Ale"}
+{"id":103,"style":"Maibock/Helles Bock"}
+{"id":104,"style":"Metheglin"}
+{"id":105,"style":"Mild"}
+{"id":106,"style":"Mixed-Fermentation Sour Beer"}
+{"id":107,"style":"Mixed-Style Beer"}
+{"id":108,"style":"Munich Dunkel"}
+{"id":109,"style":"Munich Helles"}
+{"id":110,"style":"New England Cider"}
+{"id":111,"style":"N/A"}
+{"id":112,"style":"North German Altbier"}
+{"id":113,"style":"Northern English Brown"}
+{"id":114,"style":"Oatmeal Stout"}
+{"id":116,"style":"Old Ale"}
+{"id":117,"style":"Open Category Mead"}
+{"id":118,"style":"Ordinary Bitter"}
+{"id":119,"style":"Other Fruit Melomel"}
+{"id":120,"style":"Other Smoked Beer"}
+{"id":121,"style":"Other Specialty Cider or Perry"}
+{"id":122,"style":"Oud Bruin"}
+{"id":123,"style":"Piwo Grodziskie"}
+{"id":124,"style":"Premium American Lager"}
+{"id":125,"style":"Pre-Prohibition Lager"}
+{"id":126,"style":"Pre-Prohibition Porter"}
+{"id":127,"style":"Pyment (Grape Melomel)"}
+{"id":128,"style":"Rauchbier"}
+{"id":129,"style":"Robust Porter"}
+{"id":130,"style":"Roggenbier"}
+{"id":131,"style":"Roggenbier (German Rye Beer)"}
+{"id":132,"style":"Russian Imperial Stout"}
+{"id":133,"style":"Sahti"}
+{"id":134,"style":"Saison"}
+{"id":135,"style":"Schwarzbier"}
+{"id":136,"style":"Scottish Export"}
+{"id":137,"style":"Scottish Export 80/-"}
+{"id":138,"style":"Scottish Heavy"}
+{"id":139,"style":"Scottish Heavy 70/-"}
+{"id":140,"style":"Scottish Light"}
+{"id":141,"style":"Scottish Light 60/-"}
+{"id":142,"style":"Semi-Sweet Mead"}
+{"id":143,"style":"Southern English Brown"}
+{"id":144,"style":"Special/Best/Premium Bitter"}
+{"id":145,"style":"Specialty Beer"}
+{"id":146,"style":"Specialty Fruit Beer"}
+{"id":147,"style":"Specialty IPA: Belgian IPA"}
+{"id":148,"style":"Specialty IPA: Black IPA"}
+{"id":149,"style":"Specialty IPA: Brown IPA"}
+{"id":150,"style":"Specialty IPA: Red IPA"}
+{"id":151,"style":"Specialty IPA: Rye IPA"}
+{"id":152,"style":"Specialty IPA: White IPA"}
+{"id":153,"style":"Specialty Smoked Beer"}
+{"id":154,"style":"Specialty Wood-Aged Beer"}
+{"id":94,"style":"Kolsch"}
+{"id":102,"style":"Marzen"}
+{"id":115,"style":"Oktoberfest/Marzen"}
+{"id":155,"style":"Spice  Herb  or Vegetable Beer"}
+{"id":156,"style":"Standard American Lager"}
+{"id":157,"style":"Standard/Ordinary Bitter"}
+{"id":158,"style":"Straight (Unblended) Lambic"}
+{"id":159,"style":"Strong Bitter"}
+{"id":160,"style":"Strong Scotch Ale"}
+{"id":161,"style":"Sweet Mead"}
+{"id":162,"style":"Sweet Stout"}
+{"id":163,"style":"Traditional Bock"}
+{"id":164,"style":"Traditional Perry"}
+{"id":165,"style":"Trappist Single"}
+{"id":166,"style":"Tropical Stout"}
+{"id":167,"style":"Vienna Lager"}
+{"id":168,"style":"Wee Heavy"}
+{"id":169,"style":"Weissbier"}
+{"id":170,"style":"Weizen/Weissbier"}
+{"id":171,"style":"Weizenbock"}
+{"id":172,"style":"Wheatwine"}
+{"id":173,"style":"Wild Specialty Beer"}
+{"id":174,"style":"Winter Seasonal Beer"}
+{"id":175,"style":"Witbier"}
+{"id":176,"style":"Wood-Aged Beer"}
+{"id":29,"style":"Biere de Garde"}

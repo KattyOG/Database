@@ -1,0 +1,5158 @@
+id,name,style id,abv,ibu
+1,Hocus Pocus,116,4,94
+2,Grimbergen Blonde,51,1,15
+3,Widdershins Barleywine,107,0,77
+4,Lucifer,76,1,9
+5,Bitter,133,5,19
+6,Winter Warmer,13,7,38
+8,Oatmeal Stout,42,0,56
+9,Espresso Porter,103,7,8
+10,Chocolate Stout,42,7,13
+11,Hitachino Nest Real Ginger Brew,156,2,84
+12,JuJu Ginger,90,2,89
+13,The Kidd Lager,86,7,72
+14,Imperial Stout,42,5,7
+16,Ultrablonde,36,2,100
+17,Wiesen Edel Weisse,50,1,83
+18,Old Foghorn 2001,81,6,6
+19,Framboise,48,3,50
+20,Cow Palace Scotch Ale 1998,15,1,32
+21,Pilsner Urquell BYO clone,152,2,75
+22,White IPA,66,5,99
+23,Brooklyn Sorachi Ace,149,12,56
+24,Bigfoot 2004,78,6,3
+25,Chocolate Vanilla Porter,23,2,100
+26,Winter Ale,13,6,42
+27,Full Moon Winter Ale,72,7,61
+28,Odell IPA,31,4,22
+29,Ornery Amber Lager,95,8,87
+30,Cutthroat Porter,25,8,66
+31,Maple Nut Brown Ale Ale,38,8,54
+32,Cocoa Porter,91,9,81
+33,Jenlain Blonde,106,10,74
+34,Blonde,118,0,81
+37,Winter Cheer,38,0,45
+38,Canaster Winter Scotch,144,10,21
+39,Breck Vanilla Porter Clone,76,11,60
+40,Quelque Chose,70,5,23
+41,Kriek,69,10,100
+43,Maracaibo Especial,38,11,29
+45,Calabaza Blanca,72,0,31
+46,Porter,25,0,17
+47,Cardinal Pale Ale,26,8,77
+48,Zinnebir Xmas,117,12,73
+49,Bridal Ale 2005,151,1,81
+50,Zinnebir,26,12,54
+51,Saison Imperiale,76,6,89
+52,La Moneuse,61,4,33
+53,Red Sled Winter Ale,111,9,90
+54,Christmas Ale 2007,52,2,35
+55,Equinox Dark Belgian Winter,6,0,8
+56,Serafijn Christmas Angel,126,3,4
+57,Obovoid Empirical Stout,43,0,96
+58,Furious Beer,31,2,12
+59,Bender Beer,38,5,30
+60,Oak Aged Ebenezer,147,6,48
+61,Killer Penguin,35,4,14
+62,Oatmeal Stout,42,7,6
+63,Isolation Ale,141,11,13
+64,Festive Ale 2007,144,3,45
+65,Bourbon County Stout 2007,71,4,58
+66,Twelve Days,42,0,20
+67,Seriously Bad Elf,56,9,49
+68,Big Shot Seasonal Ale,25,11,32
+70,Harvest Ale 2007,26,6,25
+71,Nut Cracker Ale,141,2,62
+72,Goosinator Smoked Doppelbock 2007,95,4,58
+73,Snow Bound Winter Ale,170,3,69
+74,Warrior IPA,31,1,51
+75,Petrus Oud Bruin,54,11,90
+76,Petrus Gouden Tripel Ale,29,9,67
+77,Petrus Blond Ale,86,11,36
+78,Petrus Dubbel Bruin Ale,60,8,69
+79,Petrus Speciale,26,9,26
+80,Weizengold Hefefein,50,8,23
+81,Never Summer Ale,141,10,1
+82,Modern Monks Belgian Blonde,26,4,0
+83,Grand Cru,47,7,53
+85,OSB Premium Ale,144,11,54
+86,Morocco Ale,101,4,74
+87,Glacier Ale,33,7,8
+88,Bent Nail IPA,31,0,55
+89,Espresso Porter,103,3,79
+90,Harvest Ale,26,11,88
+91,Stillwater Rye,105,9,43
+92,Sharptail Pale Ale,26,9,60
+93,Fat Belly Amber,33,7,18
+94,Whitetail Wheat,95,3,75
+95,Sandbagger Gold,124,3,61
+96,Brunette Nut Brown Ale,38,9,87
+97,Irish Red,138,2,2
+98,Belgian Wit,1,4,44
+99,EOS Hefeweizen,50,2,97
+100,India Pale Ale,26,10,95
+101,Winter Ale,13,11,91
+103,Robert the Bruce Scottish Ale,15,3,54
+104,Lump of Coal Dark Holiday Stout,42,3,96
+105,Warm Welcome Nut Browned Ale,38,7,47
+106,Pendle Witches Brew,26,9,12
+108,Harvest Ale 2002,13,3,48
+109,Woody Organic IPA,31,3,17
+110,Adriaan,88,8,16
+111,Leute Bok Bier,90,11,92
+112,La Folie Falling Rock,20,5,56
+113,Oak Aged IPA,174,11,43
+114,Tikka Gold,26,4,23
+115,La Divine Double Blond,155,8,28
+116,La Divine Tripel Amber,118,11,39
+117,Ename Tripel,164,7,49
+118,Triple Dipsea Belgian,138,12,66
+119,Oktoberfest Weizen,92,9,10
+120,Imperial Hefeweizen,5,12,24
+121,Triple Exultation Old Ale,13,8,46
+122,Organic Gingerbread Ale,69,1,28
+123,Falcon Pale Ale,26,5,8
+124,Buzzsaw Brown,38,1,100
+126,Geist Bock,90,1,10
+127,Troll Porter,25,4,12
+128,Dark Ale,10,6,16
+129,Cinder Cone Red,33,5,58
+130,LTD 02 Lager,90,1,61
+131,Saison Vielle Provision,99,12,24
+132,Organic Barley Wine Ale 2005,41,3,12
+133,Old Boardhead 2006,120,4,4
+134,Blue Dot Double India Pale Ale,32,9,48
+135,Nugget,33,3,92
+136,American Pale Ale,26,10,46
+137,471 Extra ESB,146,10,91
+138,Odell Red Ale,33,12,77
+139,Long Leg English Fuggles Hop Ale,161,12,53
+140,Summer Lightning,86,7,36
+141,Haymaker Extra Pale Ale,173,11,83
+142,Pale Ale,26,1,10
+143,Silk Lady,26,11,96
+144,Danger Ale,38,2,88
+145,Irish Style Ale,58,3,51
+146,Yeti Special Export,95,0,2
+147,Steelie Brown Ale,38,8,78
+148,Bond Street 19th Anniversary,126,10,53
+149,Trumpeter,42,12,71
+150,Nitro Porter,25,0,29
+151,Fourteen,32,7,26
+152,Old Stock Ale 2007,13,3,53
+153,Cold Hop,2,0,4
+154,Hitachino Nest Espresso Stout,95,10,22
+155,Witte,117,7,16
+156,Slaapmutske Triple Nightcap,163,9,87
+157,Biere de Mars,13,5,66
+158,Kerst Pater Special Christmas Beer,126,0,99
+159,Zoetzuur Flemish Ale,52,9,70
+161,Smoked Hefe,95,8,31
+162,The Unforgiven Amber Ale,33,11,15
+163,Strange Ghost,8,4,33
+164,Duke IPA,31,5,91
+165,Broad Axe Stout,42,5,26
+166,Northern Light Lager,95,8,93
+167,Podge Belgian Imperial Stout,42,6,67
+168,Okocim Porter,25,11,90
+169,Pineapple Pale,106,9,47
+170,Pannepot,8,1,40
+171,Samurai,86,11,80
+172,Crystal Ale,118,10,12
+173,Gavroche French Red Ale,120,0,36
+174,Coney Island Lager,168,3,98
+179,Beer Geek Breakfast,43,4,82
+181,Bock,90,8,76
+182,Double India Pale Ale,26,7,49
+183,Old Bawdy 2006,168,0,65
+184,Extra Strong Vintage Ale,56,9,46
+185,Certified Organic India Pale Ale,26,1,63
+186,Certified Organic Porter,25,1,79
+187,Certified Organic Extra Pale Ale,144,10,6
+188,Certified Organic Amber Ale,33,8,50
+189,Farm House Ale,155,12,62
+190,Beer Town Brown,38,1,85
+191,Tanners Jack,79,1,95
+192,Mephistopheles Stout,42,3,80
+195,Ringwood Brewery Old Thumper Extra Special Ale,40,6,2
+196,Export Ale,26,6,34
+197,Bourbon Barrel Porter,67,11,11
+198,Old Guardian Barley Wine 2007,153,12,17
+199,White Christmas,123,3,82
+200,Winter,97,7,74
+202,Harvest Ale 2006,13,7,53
+203,Classic Gueuze,70,0,10
+206,Sawtooth Ale,26,2,12
+207,Pole Star Pilsner,167,7,75
+208,90 Shilling,7,9,90
+209,Sunshine Wheat,116,3,21
+210,Grand Cru,148,3,99
+211,Der Weisse Bock,55,12,4
+213,Black Jack Porter,25,5,1
+214,Lunar Ale,38,5,85
+216,Grotten Flemish Ale,72,12,59
+217,Grand Cru,103,0,90
+218,Summer Common,15,1,37
+219,Golden Ale,120,12,78
+220,Ambree,157,3,28
+221,Pater 6,60,5,78
+222,Blanche de Namur,111,9,84
+223,Skinny Dip,37,11,82
+224,Blanche Double,174,8,62
+225,Summer Bright Ale,22,11,38
+226,Mothership Wit,74,11,56
+227,Lia Fail Stone of Destiny Ale,70,7,12
+228,Premium XB Bluebird Bitter,16,5,5
+229,IPA,31,10,67
+230,Houblon,96,5,64
+231,Double Pilsner,95,11,67
+232,Creamy Dark,95,7,91
+233,Premium Pils Edelherb,84,4,71
+235,Jack of Spades Schwarzbier,86,11,72
+236,Shiner Hefeweizen,50,10,42
+237,Sapporo Premium Beer,95,6,13
+238,Dark German Lager,151,5,6
+239,Spring Heat Spiced Wheat,143,11,41
+240,Gose,45,3,53
+241,Pils,33,6,80
+242,New,95,4,41
+243,Eisenbahn Defumada,19,0,14
+244,Eisenbahn Escura,86,8,43
+245,Eisenbahn Dourada,99,4,55
+246,Fallen Angel Sweet Stout,42,4,61
+247,Hot Shot ESB,5,12,23
+248,Porter,25,12,9
+252,Eccentric Belgian Wheat,86,0,58
+253,Oatmeal Stout,42,11,14
+254,Amber Light,95,3,52
+255,New World Wheat,95,11,28
+256,Maibock,90,10,50
+257,Ironwood Dark,38,1,0
+258,Cascade Amber,33,7,100
+259,Alpine Gold,52,2,83
+260,Illuminator Doppelbock,90,9,9
+261,Old Princeton Landing IPA,31,2,68
+262,Paddle Out Stout,42,3,57
+263,Pillar Point Pale Ale,26,0,82
+264,Sandy Beach Blonde Hefeweizen,50,4,68
+265,Mavericks Amber Ale,33,8,36
+266,Harbor Light Ale,105,10,36
+267,Leroy Barleywine,86,4,72
+268,Oatmeal Stout,42,3,72
+269,Amber,33,2,87
+270,Blur IPA,31,12,68
+271,Pelican Pale,26,6,85
+272,Brew Ribbon,95,8,80
+273,Casey Jones Imperial IPA,31,0,15
+274,Fairfax Coffee Porter,164,6,20
+275,Epiphany Ale,33,8,9
+276,IPA,31,1,17
+277,Chazz Cat Rye,95,3,16
+278,Shining Star Pale Ale,26,9,83
+279,Honey Bunny Blonde Ale,95,0,91
+280,Kent Lake Kolsch,65,1,58
+281,Old Blarney Barleywine,92,2,94
+282,Irish Dry Stout,42,5,83
+283,Kilt Lifter Scottish Ale,15,12,17
+284,India Pale Ale,26,8,77
+285,Blonde Bock,90,5,54
+286,Schwarzbier,86,5,64
+287,Czech Lager,134,7,41
+288,Yule Tide,61,12,37
+289,Pilsner,164,11,51
+290,Warka Strong,95,6,20
+291,Porter,25,11,83
+292,ESB,24,5,19
+293,Pale Ale,26,5,30
+294,Kristall Weizen,95,6,36
+296,Paint the Town Red,33,0,3
+297,Golden Ale,90,12,12
+298,Train Wreck IPA,31,3,37
+299,Zone 7 Porter,25,0,48
+300,Pleasanton Pale,26,7,36
+301,Island Wheat,95,4,100
+302,Hefeweizen,50,8,3
+303,Red Ale,147,11,9
+304,Penalty Shot Porter,25,7,39
+305,India Pale Ale,26,7,90
+306,Grid Iron Amber Ale,33,7,36
+307,Boys of Summer Wheat,95,12,100
+308,Pale Ale,26,6,13
+309,Red Ale,33,3,58
+310,Hefeweizen,95,11,40
+311,Bitter,163,7,29
+312,Double IPA,31,7,67
+313,Tatonka Stout,43,12,87
+315,Jeremiah Red,22,5,63
+316,Piranha Pale Ale,26,0,34
+317,Harvest Hefeweizen,50,4,30
+318,Brewhouse Blonde,40,2,14
+319,Nutty Brewnette,38,8,28
+321,Belgian Tripel,49,5,66
+322,Belgian Abbey,173,1,59
+323,Stout,42,2,25
+324,Pale Ale,26,11,65
+325,Best Bitter,9,5,39
+326,Hefe Weizen,50,9,42
+327,Pilsner,110,8,74
+332,Old Crustacean Barleywine 2006,60,6,64
+333,Avalanche Amber,33,9,66
+334,Hefe Proper Ale,95,4,23
+335,Levity Amber Ale,33,6,34
+336,Easy Street Wheat,116,7,13
+337,Boulevard Pale Ale,26,0,90
+339,Bovine Belgian Winter Ale,116,7,57
+340,XX Black Angus Stout,42,9,69
+341,Blarney Stone Stout,42,7,48
+342,Bison Brown Ale,38,3,79
+343,Prairie Pale,26,2,54
+344,Wildcat Wheat,95,1,26
+345,Boulevard Dry Stout,42,6,10
+347,Amber,161,5,47
+348,Blanche des Moines,28,1,69
+349,Triple Moine,167,4,71
+350,Arabier,65,3,70
+351,Bos Keun,65,9,48
+352,Grand Cru,38,12,48
+353,Oerbier,17,12,92
+355,Vuuve,145,6,25
+356,Gouden Carolus Tripel,110,12,32
+357,Gouden Carolus Ambrio 1471,144,1,54
+358,Pauwel Kwak,173,6,38
+360,Rochefort 10,62,0,69
+361,McChouffe,29,10,77
+362,471 Double IPA,31,0,34
+363,La Chouffe Golden Ale,65,2,4
+364,Saison Voisin,72,8,39
+365,Olde Expensive Ale,13,4,62
+366,Quadrupel,49,9,81
+367,Tripel,131,7,68
+368,Dubbel,133,2,43
+369,Old Growler,25,5,67
+370,Urthel Vlaemse Bock,90,3,29
+371,Watou Tripel,61,3,19
+372,Matilda,106,10,33
+374,Imperial Stout,42,8,4
+375,EKU 28,90,11,23
+376,Eisbock,90,1,1
+377,Doppelbock Dunkel,92,1,6
+378,Special London Ale,13,2,100
+379,Oatmeal Stout,42,4,39
+380,Super,66,1,45
+381,Wayan,13,3,63
+382,GABF 25th Year Beer,5,11,74
+383,Old Foghorn 2006,107,1,35
+384,Grand Cru 2006,64,11,79
+385,Cerveza Negra,42,8,86
+386,Cerveza Diablo,95,7,81
+387,Cerveza Roja,84,9,6
+388,Buffalo Belgian Stout,37,10,48
+390,Rader Blonde,175,12,21
+391,Toleration,148,6,75
+392,English Ale,26,8,86
+393,Ripon Jewel Ale,26,11,87
+394,XTra,73,3,25
+396,Samichlaus Bier 2005,90,1,39
+397,Barleywine,35,9,43
+398,Old Godfather,152,6,54
+401,New Belgium Trippel Belgian Style Ale,61,11,9
+402,Hennepin Farmhouse Ale,143,5,18
+403,Abbey Belgian Style Ale,60,11,20
+404,India Pale Ale,26,12,38
+405,Bigfoot 2006,82,2,34
+406,Iron Fist Pale Ale,26,4,87
+407,Demolition,95,10,58
+408,Oro de Calabaza,65,4,11
+409,La Roja,33,4,11
+410,Brother Thelonious,171,10,7
+411,Hop Trip Fresh Hop Pale Ale,26,10,83
+412,Organic Belgian Ale,138,11,61
+413,Nieuw Ligt Grand Cru 2006,164,8,19
+414,Hibernation Ale,13,8,95
+415,Wee Heavy Winter Ale,15,10,75
+417,Monkey Wrench Dark Ale,25,7,51
+418,Old Legover,176,11,27
+419,Hercules Double IPA,31,4,77
+420,Fresh Hop Pale Ale,26,12,88
+421,Twisted Thistle India Pale Ale,26,4,72
+422,Espresso Stout,52,6,79
+423,Inversion IPA,31,6,9
+424,India Pale Ale,26,0,24
+425,London Porter,25,4,17
+426,Hitachino Nest Celebration Ale 2006,18,5,61
+427,Rubia,95,5,11
+428,Session Premium Lager,95,7,38
+430,La Rossa,90,3,64
+431,Blue Paddle Pilsener,77,5,73
+432,Lager,95,9,68
+433,Hell,77,8,23
+434,Pilsner,95,3,4
+435,Ungespundet Lager Hefetrub,164,2,21
+437,Imperial Porter,25,1,5
+438,Amber Ale,33,4,11
+439,La Folie,159,6,1
+440,Abt 12,62,1,35
+441,Nostradamus,85,9,59
+442,Triple,127,2,26
+443,Ultrabrune,31,5,55
+445,Bah Humbug,13,0,53
+447,Harvest Ale 2005,13,10,4
+448,Moonraker,30,1,37
+449,Old Engine Oil,25,6,26
+450,Pitchfork Rebellious Bitter,42,3,45
+451,Bitter and Twisted,118,12,95
+452,India Pale Ale,26,11,38
+453,Old Slug Porter,25,8,41
+454,Golden Abbot Lager,51,7,84
+455,Porter,25,8,30
+457,Nightmare,25,3,75
+459,Schlenkerla Helles Lagerbier,56,12,12
+460,Ondineke Oilsjtersen Tripel,140,2,64
+461,Ale Mary,26,3,78
+462,Jan de Lichte,28,1,96
+463,Bigfoot 2000,98,4,2
+464,Rauchbier Lager,50,7,71
+465,Bourbon Imperial Stout,169,8,9
+466,Witbier,75,0,68
+467,Bavarian Bock,90,7,66
+468,Heater,33,2,48
+469,Harvest Brown,38,10,56
+470,Brout,173,9,55
+472,Aecht Schlenkerla Rauchbier Weizen,95,4,16
+474,Christmas Bock,90,11,28
+475,Prior 8,60,7,43
+476,Old Man Ale,88,8,13
+477,Criminally Bad Elf,28,5,93
+478,Very Bad Elf Special Reserve Ale,22,3,21
+479,Weisse,50,9,14
+483,Wychcraft,82,6,6
+484,Double Bastard Ale,26,1,85
+485,Rochefort 6,29,1,90
+486,Guldenberg,66,1,17
+487,Westmalle Trappist Tripel,61,10,85
+489,Cow Palace Scotch Ale,15,11,4
+491,Abtskelder Tripel,115,7,72
+493,Curator Dunkler Doppelbock,90,4,12
+494,Kloster Dunkel,138,5,77
+496,Teton Ale,33,12,99
+497,Pilsener,141,12,11
+498,Nickelbier,90,9,62
+501,Zwickelbier,19,9,52
+502,Pils,106,11,15
+503,Spezial,15,1,12
+505,Schwarzbier,86,1,1
+506,Pils,86,5,77
+508,Schwarze,86,1,98
+509,Blonde,88,11,23
+511,Spezial,123,2,63
+512,Pils,75,12,27
+513,Coronator Helle Doppelbock,90,8,52
+515,Kellerpils,11,10,38
+516,Pils,137,9,26
+517,Kronenbier,22,1,50
+518,Dunkles Weissbier,32,6,74
+519,Festbier,84,6,28
+520,Dunkles Lager,74,11,55
+521,Weizen,50,10,81
+524,Altbairisch Dunkel,34,0,11
+525,Pickled Santa,155,1,22
+526,Manchester Star Ale,13,5,90
+527,Moinette Brune,38,3,2
+528,Chocolat,105,6,28
+533,Dark White,126,12,49
+534,Festive Ale 2006,46,4,69
+535,Green Valley Stone Mill Pale Ale,26,2,16
+536,Green Valley Wild Hop Lager,95,7,60
+538,Herbstbier,86,5,82
+539,Altbier,38,3,34
+540,Huusbier,148,1,52
+541,Leermond Bier,169,9,20
+543,Huusbier Schwarz,25,5,9
+544,Oktoberfest,55,12,65
+545,Weizentrumpf,50,11,20
+546,Honey Brown Ale,95,6,99
+547,Huusbier Hell,129,3,69
+549,Gambrinus,139,10,86
+551,Stout,42,6,61
+552,Weizen,50,2,0
+553,Spezial,166,2,45
+554,Naturtrubes,86,11,15
+556,Maisbier,171,2,82
+557,Weizenbier,50,4,69
+558,Dunkel,53,8,5
+559,Hell,176,6,69
+560,Spezial,136,12,1
+564,Hanf,174,0,16
+565,Dunkel,16,2,30
+566,Hell,87,6,46
+567,Blond,10,1,69
+568,Dunkle Weisse,92,0,94
+573,Edelweiss,50,12,26
+575,Hofgutsbier,33,4,31
+577,Hefeweizen,50,2,4
+578,Spezial,95,3,92
+579,Kellerpils,18,11,23
+580,Sanwald Dunkelweizen,15,5,82
+582,Hecker Dunkel,162,5,11
+583,Kristall Weizen,114,6,75
+584,Hefe Weizen Dunkel,162,0,28
+585,Schimmele Hefe Pils,97,3,38
+586,Hefe Weizen Hell,50,1,30
+589,Herbstbeer,84,0,79
+590,Weizen,50,7,49
+591,Kupfer,95,4,26
+592,Messing,7,8,52
+593,Saison,155,7,79
+594,Duinen Dubbel,94,4,7
+596,Red Racer India Pale Ale,31,7,89
+597,Steelhead Stout,42,12,99
+598,Iceberg Copper Bock,90,9,80
+599,Boomers Red Ale,53,9,78
+600,Springboard Lager,95,3,60
+601,Light Lager,95,3,95
+602,Old Sullivan Porter,25,5,43
+604,Clover Pale Ale,26,7,19
+605,Lager,95,1,47
+606,Red Truck Ale,33,5,39
+607,Dry Stout,42,5,66
+608,Extra Special Bitter,99,11,47
+609,Nut Brown Ale,38,10,10
+610,Pale Ale,26,4,95
+611,Vienna Lager,95,1,63
+612,Pilsner,53,3,68
+613,Blonde Ale,148,6,77
+614,Cream Ale,10,2,96
+615,Blonde Ale,68,10,50
+616,Special Lager,95,0,55
+617,Pale Ale,26,2,27
+618,Pale Ale,26,0,37
+619,Beacon India Pale Ale,26,0,43
+620,Traditional India Pale Ale,26,9,20
+621,Mad Scow Stout,42,8,23
+622,Red Truck Ale,33,4,48
+623,Two Lions Pale Ale,26,5,39
+624,Baden Powell Cream Ale,95,0,74
+625,Dominion Lager,95,6,85
+626,Yippee IPA,31,1,43
+627,Downtown Brown,38,12,24
+628,Tropical Lager,95,11,79
+629,Honey Brown,95,2,87
+630,IPA,31,6,77
+631,Game Day,47,2,75
+632,Red Truck Ale,33,3,64
+633,Red Truck Lager,25,1,56
+634,Pale Ale,26,11,43
+635,Premium Gold,95,4,46
+636,India Pale Ale,26,11,37
+637,Oatmeal Stout,42,2,54
+638,Cream Ale,95,1,33
+639,Blonde Draft,32,1,60
+640,Hefeweizen,50,0,27
+641,Island Lager,95,6,56
+642,English Bay Pale Ale,26,8,18
+643,Kitsilano Maple Cream Ale,95,12,49
+644,Cypress Honey Lager,95,4,52
+645,Pelican Bay Brown,38,11,86
+646,Marina Light Lager,61,10,53
+647,Haupenthal Hefeweizen,50,4,67
+648,Old Bridge Dark Lager,95,1,76
+649,Johnston Pilsener,68,2,48
+650,Cartwright Pale Ale,26,6,10
+651,Hungarian HopLager,21,12,95
+653,Hopluia,26,9,57
+654,Czech Premium Lager,10,2,93
+655,Bobby,134,12,17
+656,1916 Irish Stout,42,2,31
+658,Wilsteraner Altbier,38,8,20
+660,Dark Lager,51,10,26
+661,Lager Beer,124,5,0
+662,Premium Light Lager Beer,95,2,38
+663,Trademark English Pale,26,3,39
+664,Jolly Roger,35,4,69
+665,Firkin IPA,31,10,98
+666,Portage Bay Pilsener,176,9,70
+667,Old Seattle Lager,95,8,61
+668,Nightwatch Dark Ale,25,12,73
+669,Islander Pale Ale,26,8,87
+671,Clipper Gold Hefeweizen,95,10,100
+672,Flagship Red Alt Ale,33,12,59
+673,Slam Dunkelweizen,128,4,51
+674,Trombipulator,59,1,88
+675,Faux Paddy Irish Ale,43,0,13
+676,Black Mulligan Dublin Stout,42,9,89
+677,Coal Creek Porter,25,0,82
+678,Atlas Amber Ale,33,6,40
+679,Prime Time Pale Ale,26,6,12
+680,Snow Melt Nitrogen Pale,26,3,77
+681,Old Rip Oatmeal Stout,42,2,54
+682,Scarlet Fire IPA,31,3,55
+683,The Immortal IPA,31,9,5
+684,Whoville Weizenbock,55,1,68
+685,Warminster Special Bitter,58,11,29
+687,Foster Child Australian Lager,95,2,80
+688,Avatar Jasmine IPA,158,7,51
+690,Elysian Fields Pale Ale,26,8,32
+691,Loki,174,5,41
+692,Zephyrus Pilsner,100,2,66
+693,Perseus Porter,25,9,35
+694,The Wise ESB,5,12,94
+695,Ambrosia Maibock,90,6,15
+697,Auld Acquaintance Spiced Ale,42,5,3
+698,India Pale Ale,26,12,55
+699,Oatmeal Stout,42,5,3
+700,Kilt Lifter Scotch Ale,15,4,20
+701,Pale Ale,26,6,9
+702,Weisse,95,4,32
+703,Imperial Stout,42,1,46
+705,India Pale Ale,26,11,91
+707,Bock,90,8,59
+708,Weissbier,95,11,3
+709,Saison,156,10,86
+710,Pilsner,176,4,79
+711,Nebraska Bitter,3,2,68
+712,Irish Stout,42,8,79
+714,Wheat Beer,95,2,80
+715,Golden,75,8,95
+716,Porter,25,0,27
+717,Terminator Stout,42,12,21
+718,India Pale Ale,26,7,31
+719,Hammerhead Ale,26,11,87
+720,Icebreaker Barley Wine,127,11,85
+721,Industrial IPA,32,0,80
+722,IPA,31,4,31
+723,Possession Porter,25,0,90
+724,Steamer Glide Stout,42,1,71
+726,Brown Ale,38,9,29
+727,Golden Ale,105,4,87
+729,Lighthouse Ale,26,12,52
+730,Golden,97,3,16
+731,Gale Force IPA,31,7,49
+732,Porter,25,2,27
+733,Nut Brown,38,2,21
+734,Amber Ale,38,0,92
+735,Hefe Weizen,95,5,100
+736,Maibock,90,9,11
+737,Sequoia Red,33,0,95
+738,Homeport Blonde,79,6,1
+739,Skibbereen Stout,42,9,6
+740,Red Card Lager,64,12,15
+741,Navidad,33,10,53
+742,Free Bike Amber,33,3,6
+743,Highwater Porter,25,10,62
+744,Skagit Brown Ale,38,10,76
+745,Yellowjacket Pale Ale,26,10,62
+746,Dutch Girl Lager,40,10,70
+747,Del Rio Lager,95,10,88
+748,Barleywine,59,7,83
+749,Imperial Pale,26,9,12
+750,Spring Bock,90,5,62
+751,Irish Stout,42,2,50
+752,India Pale Ale,26,0,73
+753,Porter,25,7,74
+754,Firehouse Red,33,1,89
+755,Tacoma Brew,15,4,37
+756,Hefeweizen,50,11,16
+757,Belgian White,6,4,36
+758,Poseidon Imperial Stout,42,7,91
+759,Thornton Creel Ale,53,8,69
+760,Blonde Ale,163,7,55
+761,Light,142,1,64
+762,WinterFish Ale,26,12,76
+763,Mudshark Porter,25,3,5
+764,Organic India Pale Ale,31,10,18
+765,Wild Salmon Pale Ale,26,12,72
+766,Organic Amber Ale,33,6,12
+767,Blind Pig Dunkelweizen,95,0,16
+768,Whistling Pig Hefeweizen,95,0,95
+769,Snow Cap,13,7,23
+770,DPA,26,11,78
+771,Krystal Weizen,95,0,93
+772,Thunder Head IPA,31,3,48
+773,Amber Weizen,95,5,45
+774,Hefeweizen,95,0,49
+775,Curve Ball,9,4,62
+776,Bourbon Barrel Stout,86,1,31
+777,Oak Stout,34,4,74
+778,Two Frog Dubbel,79,7,80
+779,Farm Frog,39,1,43
+780,Frosty Frog,26,10,6
+781,Dry Hopped IPA,31,1,67
+782,No Doubt Stout,42,1,10
+783,Riot Ale,26,3,88
+784,IPA,31,6,47
+785,Alembic Pale,26,9,53
+786,Luna Weizen,95,2,51
+787,Castaway Barley Wine Winter Ale,150,1,15
+788,Blacktop Porter,25,2,4
+789,Puget Porter,25,0,34
+790,Rat City IPA,31,11,28
+791,Fauntleroy Stout,42,2,22
+792,Alki Ale,26,7,0
+793,Vashon Old Stock Ale,131,0,36
+794,Admiral ESB,174,7,55
+795,Driftwood Ale,26,12,92
+796,Kataja Olut IVB,122,7,47
+797,Cream Stout,42,2,91
+798,Leviathan 2004,157,8,81
+799,MoJo India Pale Ale,31,3,34
+800,Old Woody 2005,13,0,18
+801,Weisse,119,4,61
+803,Super Natural Oatmeal Stout,42,0,78
+805,Andelot Cuvee Diabolique,148,4,34
+806,Lozen Boer Abt,156,1,63
+807,Imperial Gold Malt Liquor,95,6,37
+808,Double Daddy,26,7,51
+809,Old Crustacean Barleywine 2005,19,7,55
+810,Fred,106,4,35
+811,Wee Heavy,15,0,97
+812,Porter,25,12,25
+813,Horn Dog,35,12,77
+814,Nut Brown Ale,38,4,12
+815,Chaser Pale,149,2,33
+816,Trappist Extra,119,9,99
+817,Brune,99,11,36
+818,Olde School Barleywine,35,3,43
+820,Double Diamond Winter,147,5,64
+821,Stone IPA,31,4,54
+822,Scaldis Prestige,75,1,78
+824,Red Menace Big Amber,33,3,8
+825,Blonde,130,1,26
+827,Pils,33,1,32
+829,Xingu,86,9,84
+830,Slip Knot Imperial IPA 2006,31,4,11
+831,Bottleworks IPA,31,0,87
+832,Old Rasputin Russian Imperial Stout,43,10,58
+833,Yeti Imperial Stout,43,4,98
+836,Poperings Hommel Ale,26,3,31
+837,Smoked Rye Bock,95,4,55
+838,Russian Imperial Stout,42,8,61
+839,Jenlain St Druon de Sebourg,9,10,100
+840,Les Sans Culottes,34,2,58
+841,Bruocsella 1900 Grand Cru,70,5,56
+843,Princess of Darkness Porter,25,2,2
+844,Impromptu Pale Ale,26,5,73
+845,Steinworthy Oktoberfest,84,4,39
+847,Bugeater Brown Ale,38,3,64
+848,Tin Lizzie Hefeweizen,50,10,60
+850,Heavenly Helles,6,5,19
+851,Orval Trappist Ale,72,6,92
+853,Rochefort 8,148,5,57
+854,Satan Red,17,4,87
+855,Entire Stout,42,6,81
+856,Ivanhoe,26,9,36
+857,XX Bitter,83,5,72
+858,Moza,90,7,23
+859,Negra,86,4,57
+860,Stout,42,4,68
+861,Porter,25,11,46
+862,Oktoberfest,84,9,46
+863,Tip Top Pale Ale,26,9,68
+864,DoppelSticke,90,8,73
+865,Sticke,38,10,20
+866,Alt,38,10,86
+867,Hitachino Nest Japanese Classic Ale,2,2,53
+868,9th Anniversary IPA,31,9,23
+869,Adam,13,11,91
+870,Rose,144,2,86
+872,Urthel Samaranth Quadrium Ale,49,6,84
+873,Andelot Mystique,58,4,82
+874,Andelot Angelique,80,7,80
+875,Andelot Euphorique,52,5,63
+876,Terrible,72,6,54
+877,Deus Brut des Flandres,150,8,14
+878,Kentucky Ale,26,0,38
+879,5 Barrel Pale Ale,1,11,98
+880,Spruce Ale,67,9,41
+882,Avec Les Bons Voeux,102,11,84
+883,Blonde,72,4,85
+884,Oatmeal Cream Stout,42,4,2
+885,Augustinian Ale,24,5,22
+886,Butty Bach,49,8,93
+887,Pale Ale,26,11,91
+888,De Horste Vermeer Traditional Dutch Ale,10,8,7
+889,Troublette,47,8,68
+890,Blonde Tradition,40,3,77
+892,Yeti,95,9,70
+894,Pere Jacques,57,8,89
+895,1784 Anniversary Beer,140,11,18
+896,Baltas Alus,50,9,24
+897,El Jefe Weizen Ale,50,2,73
+898,Hefeweizen,95,5,45
+899,Dancing Trout Ale,103,6,50
+900,Untouchable Pale Ale,26,9,84
+901,X Extra Pale Ale,26,1,75
+902,Chehalem Mountain IPA,31,9,2
+903,Moylander Double IPA,32,2,17
+904,Indica India Pale Ale,26,11,46
+905,Vichtenaar,84,6,86
+906,Zatte Amsterdamse Tripel,43,0,68
+907,Old Stock Ale 2004,13,4,67
+908,Old Ruffian,35,10,18
+909,Talon,150,2,1
+914,Neuschwansteiner Bavarian Lager,58,8,31
+915,Wooly Bully,84,5,19
+916,Mongoose IPA,31,3,35
+917,Big Daddy IPA,31,10,96
+918,Titan IPA,31,6,23
+923,Speedway Stout,43,0,52
+924,Cream Stout,42,8,46
+925,Grand Cru,174,11,30
+927,Quail Springs IPA,31,10,50
+928,IPA,31,8,76
+929,Cambonator Doppelbock,90,3,32
+930,Best Bitter,35,10,46
+932,Oak Aged Yeti Imperial Stout,43,4,63
+933,Riverboat Rye,68,7,94
+934,Masterpiece Porter,25,5,77
+935,Stout,42,8,25
+936,Pioneer Black River Red,33,12,68
+937,Pilsner,129,10,66
+938,Double IPA,31,0,42
+939,Dundee Export 90 Scotch Ale,60,7,87
+940,Blackstone Stout,42,1,26
+941,Red Ale,33,1,91
+942,Schuylkill Punch,121,4,98
+943,Nokdechiloff,35,4,60
+944,California Dreaming,32,4,31
+945,Manayunk Lager,84,0,70
+946,Brilliant Barstool,1,4,57
+947,Krooks Mill,26,1,53
+948,Summer Gold,119,10,18
+949,Bohemian Blonde,77,8,18
+950,Trompe La Mort,90,1,42
+951,3C Extreme,26,9,86
+953,Ich Bin Ein Berliner Weisse,39,12,92
+954,Wee Heavier,15,11,54
+955,Tart,163,0,54
+956,Spring Ale,19,5,38
+958,Oude Gueuze Vielle,70,1,60
+959,Lambic 2002,70,12,58
+960,Gueuze 1882,70,11,34
+961,Oatmeal Stout,42,12,48
+962,Belgian Singel,47,7,11
+963,IPA,31,12,44
+964,Kolsch,166,2,5
+965,Dunkelweizen,119,3,8
+966,Regiment Pale Ale,26,1,37
+967,Red Coat Ale,33,11,10
+968,Instigator Doppelbock,90,1,70
+969,Piketown Pils,139,12,11
+970,Seamus Irish Red,155,2,55
+971,Helles Bock,90,11,10
+972,Burns Scottish Ale,52,4,78
+973,Anniversary IPA Ahtanum,31,8,57
+974,Anniversary IPA Glacier,31,9,43
+975,Route 113 IPA,31,6,26
+976,Featherweight Lager,95,4,86
+977,Royal Weisse,50,0,84
+978,Phoenix Pale Ale,26,7,63
+979,Helles Golden Lager,75,7,49
+980,Golden Treasure,37,5,70
+982,Calico Jack Amber Ale,33,9,43
+983,Pale Ale,26,12,97
+984,Summer Lager,95,10,72
+985,Irish Stout,42,1,91
+986,Hop Hazard,26,11,5
+987,Indian Red Ale,89,8,56
+988,Lager,95,6,100
+989,Special Ale,33,4,18
+990,Irish Red Ale,153,4,23
+991,Abbey 8,95,3,55
+992,Farmhouse Saison,25,1,67
+993,East Kent IPA,31,6,64
+994,French Country Spring Beer,103,1,57
+995,Black Lab Stout,42,5,97
+996,Old Rogue Pale Ale,26,5,25
+997,Unicorn Amber Ale,33,5,95
+998,Light Lager,95,8,89
+999,Half Again Bock,90,1,30
+1000,Winterfest Lager,84,7,36
+1001,Scottish Ale,119,12,85
+1002,Pale Ale,26,6,86
+1003,Light Lager,95,8,50
+1004,Russian Imperial Stout,42,1,23
+1005,Irish Red Ale,36,7,1
+1006,Iron Hill Belgian Tripel,82,5,18
+1007,Pig Iron Porter,25,12,98
+1008,Ironbound Ale,26,12,16
+1009,Lodestone Lager,160,8,9
+1010,Anvil Ale,5,4,54
+1011,Light Lager,95,11,98
+1012,Brau Light,95,5,63
+1013,Dirty Bastard Scotch Style Ale,15,0,99
+1014,Eagle Lake Pale Ale,26,8,5
+1015,Rapidan Brown,38,10,84
+1016,Saint Peter Red,33,12,21
+1017,Mankato Gold,6,8,64
+1018,Anniversary Ale,13,8,47
+1019,Kasota IPA,31,3,80
+1020,The Beast Grand Cru,66,5,22
+1021,Four,66,11,47
+1022,Special Extra Export Stout,28,3,46
+1023,Pilsner,136,9,89
+1024,Lemon Wheat,116,12,18
+1025,Stout,42,11,26
+1026,Bock,90,6,47
+1027,Long Face Amber,33,11,6
+1028,Marzen Lager,84,1,7
+1029,Off KIL Ter Scottish Ale,11,7,13
+1031,Mild Brown,38,6,85
+1032,Caramel Apple Ale,10,10,81
+1033,Wexford Irish Cream Ale,113,10,29
+1034,Grand Cru,104,10,38
+1035,Old Guardian Barley Wine 2005,134,9,52
+1036,Wee Heavy,15,0,20
+1037,Roza Reserve,171,6,62
+1038,Winterfestival,84,1,35
+1041,Bayrisch Hell,124,3,28
+1042,Sprecher Doppelbock,92,8,65
+1043,Gingered Ale,24,12,1
+1044,Bourbon Barrel Scotch Ale,68,12,48
+1045,Burntwood Black Ale,25,3,72
+1046,Derailed Ale,26,12,61
+1048,1100 Wheat Wine,155,12,42
+1049,Witchtree ESB,72,12,44
+1050,Big Boat Oatmeal Stout,42,10,72
+1051,XXX English Ale,26,10,42
+1053,Starfire Pale Ale,26,7,35
+1054,Farmhouse Reserve,154,2,17
+1055,Lighthouse Ale,95,11,1
+1056,Chocolate Mint Stout,158,9,69
+1057,Porter,25,5,71
+1058,Pale Ale,26,7,47
+1059,Nut Brown Ale,38,10,84
+1060,Honey Pilsner,95,10,10
+1061,Cream Ale,95,11,91
+1064,Christmas Ale,21,8,49
+1067,Grotten Brown,29,1,54
+1068,Barley Wine Ale,39,2,56
+1069,Doggie Claws 2004,131,1,22
+1070,Imperial Stout,42,6,40
+1072,Wee Beast,15,10,17
+1073,Bloesem Bink,165,10,11
+1074,Loterbol,122,10,60
+1075,IPA,31,9,95
+1076,Ruth,95,11,60
+1077,Mojave Gold,95,12,59
+1078,Eastern Sierra Lager,59,3,72
+1079,Princess of Darkness Porter,25,7,94
+1080,Mojave Red,95,0,5
+1081,Desert Pale Ale,26,1,52
+1082,Plaid Bastard,15,1,67
+1083,Dos Rios Vienna Lager,95,10,33
+1084,Rye On,95,1,33
+1085,Black Lab Stout,42,5,98
+1086,Loyal Duke Scotch Ale,15,12,48
+1087,Amber,38,8,52
+1088,Jubilee Ale,13,11,22
+1089,Mocha Joe,147,0,28
+1090,Otis Alt,38,11,70
+1091,Weizen,50,10,40
+1092,Kellerbier,173,4,91
+1093,American Pale Ale,26,2,1
+1094,Sled Dog Doppelbock,90,5,96
+1095,Weathertop Doppelbock,90,6,77
+1096,Wheat Wine,172,5,62
+1097,Pioneer Peak Porter,25,6,100
+1098,Wild Banshee Barleywine,124,11,50
+1099,Thundermuck Stout,42,1,44
+1100,Solidarity,42,12,27
+1101,Irish Red,91,5,63
+1102,Buccaneer Brown Ale,38,6,86
+1103,Hoppy Hour IPA,31,6,94
+1104,Sisyphus Barleywine,97,9,33
+1105,Pallavicini Pilsner,44,10,15
+1106,Four Alarm Alt,38,2,77
+1107,Hibernator Doppelbock,90,0,44
+1108,Silver,15,1,84
+1109,IPA,31,7,28
+1110,Thunderhead Amber Ale,33,11,16
+1111,Impale Ale,26,2,51
+1112,Old Town IPA,31,2,13
+1113,Emancipator,90,2,20
+1114,Pale,26,4,47
+1115,Black Sheep Espresso Stout,94,8,28
+1116,Superhop Ale,26,6,83
+1117,Oatmeal Stout,21,12,48
+1118,5 Czars Imperial Stout,42,3,60
+1121,Slam Dunkel,86,0,12
+1122,Irvington Porter,25,2,64
+1123,Marzen,84,8,27
+1124,Big Woody Lager,166,0,52
+1125,Schaumbergfest,84,0,76
+1126,Tannhauser,26,4,87
+1127,Trappist Westvleteren 8,60,12,7
+1128,Peat Smoked Altbier,95,9,73
+1129,Billings IPA,31,9,0
+1130,Peak One Porter,25,6,28
+1131,Old Smoky,95,12,11
+1133,Wild Turkey Bourbon Stout,87,11,4
+1134,Lucky U Denver Special Bitter,101,0,65
+1135,Redwing,33,8,42
+1136,Pale Ale,26,8,56
+1137,Oatmeal Stout,42,7,68
+1138,Nut Brown Ale,38,9,77
+1139,Singletrack Copper Ale,26,4,84
+1140,Buffalo Gold,113,7,43
+1141,Honey Wheat,54,12,6
+1142,Pilsner,95,11,32
+1143,Thunder Stout,42,3,66
+1144,Autumn Ale,38,9,69
+1145,Lucky U Denver Special Bitter,29,12,22
+1146,471 Pilsner,128,1,71
+1147,Mortality Stout,42,10,5
+1148,Big Hoppy Monster,33,4,26
+1149,Sublimator Doppelbock,90,3,46
+1150,Strom Bomb Stout,42,5,58
+1151,Black Sand Porter,25,1,23
+1152,Powell Porter,25,7,43
+1153,Eager Beaver IPA,31,7,61
+1154,IPA,31,0,70
+1155,Black Cat Stout,42,11,32
+1156,Fat Cat,27,4,51
+1157,Arrogant Brit,69,3,82
+1158,Pilsner,12,2,48
+1159,Dogtoberfest Octoberfest,84,2,54
+1160,Lucky U ESB,101,8,17
+1161,Purple Nightie,9,2,27
+1162,Rocktoberfest,84,8,27
+1163,Dark Knight,148,5,1
+1164,Sunny Summer Ale,93,10,88
+1165,Wit,149,11,31
+1166,Old Eight Porter,42,11,99
+1167,Wild Brunette,37,7,68
+1168,Stockyard IPA,31,7,94
+1169,Little Barley Bitter,115,8,52
+1170,Black H2O Oatmeal Stout,21,12,75
+1171,Masala Mama IPA,31,7,23
+1172,Smoked Porter,95,0,70
+1173,Tripel Vision,111,12,73
+1175,West Bank Pub Ale,1,4,84
+1176,Bright Spot Golden Ale,37,5,44
+1177,High Point Dunkel,30,10,41
+1178,Kolsch,49,2,85
+1179,India Pale Ale,26,0,34
+1180,Tusker Premium Lager,95,11,20
+1181,Big Island Porter,25,8,88
+1182,Knockadoon Irish Ale,80,6,88
+1183,Grand Marais Pale Ale,26,5,86
+1184,Kabeelo Lodge Lager,95,2,53
+1185,Gunflint Gold Ale,135,2,23
+1186,Amber Bock,90,0,25
+1187,Cork Brown Ale,25,11,74
+1188,Sligo Red,174,6,62
+1189,Light Amber Ale,33,10,4
+1190,Honey Brown,95,6,37
+1191,Irish Gold,137,7,100
+1192,Maibock,90,6,10
+1193,Malheur Black Chocolate 2003,65,7,2
+1194,Hahn Special Vintage 2000,13,1,81
+1195,Samuel Adams Chocolate Bock,90,4,9
+1196,2004 Symposium Ale,52,12,13
+1197,Benchmark Old Ale,13,9,22
+1198,Czar Imperial Stout,42,4,39
+1199,Guinness Foreign Extra,42,5,84
+1200,Dragonhead Stout,42,11,27
+1201,Dundee Porter,25,7,41
+1202,Lava Rock Porter,25,3,33
+1203,Three Threads Porter,25,7,86
+1205,Porter,86,8,74
+1206,Auburn Ale,33,7,10
+1207,Strong Ox,72,4,24
+1208,Old 95,13,12,60
+1209,Taieri George,95,11,34
+1210,Maibock,90,2,77
+1211,Dunkles,86,12,23
+1212,Golden Export,40,10,4
+1213,Premium Light Lager,95,6,48
+1214,Hop Maniac IPA,31,10,44
+1215,Golden Triangle Triple,110,6,94
+1216,Belgian Double,29,0,79
+1217,Steamroller Stout,42,8,81
+1218,Hazy Daze Hefeweizen,50,6,25
+1219,Patriot Pale Ale,26,8,8
+1221,Horny Devil,37,8,32
+1222,Old Numbskull 2003,127,5,15
+1223,Come About Imperial Stout,43,6,96
+1224,Navigator Doppelbock,92,9,55
+1226,First Anniversary Ale,158,12,96
+1227,Nut Brown,38,11,100
+1228,Amber Ale,33,7,54
+1229,Pale Ale,26,12,3
+1230,Hefeweizen,55,2,11
+1231,India Pale Ale,26,10,31
+1232,Pale Ale,26,5,65
+1233,Amber,33,2,46
+1234,Stout,42,0,69
+1235,Pilsner,113,1,22
+1236,Wheat,50,6,85
+1237,Fire Rock Pale Ale,26,9,42
+1238,Double Barrel Ale,33,4,71
+1240,Point Loma Porter,25,6,61
+1241,Uptown Brown,38,9,47
+1242,Mermaid Red,33,10,11
+1243,Four Brothers Pale Ale,26,12,96
+1244,Coronado Golden Ale,77,4,62
+1245,Old Guardian Barley Wine 2003,42,5,0
+1246,Dorado Double IPA,32,1,40
+1247,Old 395 Barleywine,98,7,85
+1248,Mission Gorge Porter,25,11,77
+1249,Grantville Gold,92,0,72
+1250,Old Town Nut Brown,38,7,55
+1251,Amber,33,4,17
+1252,Friars IPA,31,6,75
+1253,Levitation Ale,33,5,63
+1254,Imperial Stout 2003,42,8,7
+1255,Lil Devil,161,7,26
+1256,Pure Hoppiness,32,0,8
+1257,Smoked Porter,25,6,38
+1258,Stone Pale Ale,26,6,8
+1259,Winter Wheat,44,0,52
+1260,Oatmeal Stout,42,11,70
+1261,Pale Ale,26,4,70
+1262,Amber Ale,33,12,38
+1264,Caber Tossed,20,6,12
+1265,Cinnabarr,171,1,45
+1266,Old English Ale,13,1,5
+1267,Honey Ale,95,8,29
+1268,Premium Golden Ale,18,2,9
+1269,Ding Ding Double IPA,31,11,40
+1270,Irish Stout,42,6,54
+1271,Torrey Pines IPA,31,2,37
+1272,Sunset Amber Ale,33,2,80
+1273,Paradise Pale Ale,26,2,75
+1274,Sweet Spot Hefe,50,1,87
+1275,California Gold,95,4,5
+1276,Skye Strong Ale,160,1,99
+1277,Bombshell Barleywine,124,1,95
+1278,Red Square,42,9,56
+1279,Broken Keg Ice Bock,90,2,32
+1281,Frank Double IPA,31,6,57
+1282,Creamy Stout,42,7,20
+1283,Brown Ale,38,5,30
+1284,India Pale Ale,26,7,51
+1285,Pale Ale,26,5,36
+1286,Red Ale,26,12,67
+1287,Belgian Abbey Red,162,6,89
+1288,Padre Porter,122,1,68
+1289,Star of India Pale Ale,26,3,26
+1290,Downtown After Dark,38,2,71
+1291,Red Trolley Ale,33,6,55
+1292,Amber Lager,95,11,31
+1293,Endless Summer Gold,40,4,43
+1294,Sprecher Russian Imperial Stout,43,5,34
+1295,Sprecher Abbey Triple,61,11,2
+1296,Blackfriar,15,12,82
+1297,Rycerskie,90,11,23
+1298,Van den Vern Grand Cru,8,3,84
+1299,Tripel Krullekop,172,10,95
+1300,Black Diamond Imperial Porter,42,0,54
+1301,Mojo Ale,30,5,78
+1302,Satin Solstice Imperial Stout,43,12,57
+1303,Snake Chaser,42,5,88
+1304,Paddle Me IPA,31,10,6
+1306,Heller Hound Bock Beer,91,6,57
+1307,Sirius,113,6,83
+1308,Troubadour,26,7,56
+1310,Saxo,24,12,26
+1311,Millennium Brew,92,2,11
+1312,Empire India Pale Ale,2,2,39
+1313,Thunder Storm,95,11,79
+1314,Voyageur Extra Pale Ale,26,8,86
+1315,Burly Brown Ale,38,9,55
+1316,Dark Walnut Stout,42,5,11
+1317,Birch Wood Ale,26,11,70
+1318,Red Cedar Red,38,10,81
+1319,Whitetail Wheat,95,0,53
+1320,Half Moon Gold,95,12,87
+1321,Bubba,66,5,91
+1322,Irish Red,33,12,49
+1323,White Weasel Beer,7,6,44
+1325,Hell,21,4,58
+1326,Spring Bock,90,8,91
+1327,Roggenbier,95,2,64
+1331,Prostrator Doppelbock,90,3,77
+1332,Dark Pilsener,95,6,52
+1333,Classic Pilsener,62,4,26
+1335,Northwind Imperial Stout,42,5,9
+1336,Satan Gold,43,7,30
+1337,Wooden Ships ESB,137,4,8
+1338,Imperial Stout,42,0,2
+1339,Old Scratch Barleywine 2002,135,9,13
+1341,Weisse Dunkel,144,11,70
+1342,Pseudo Lambic Framboise,70,11,89
+1343,Geuze Boon,70,11,70
+1345,Iris,70,5,10
+1347,Oude Kriek,70,8,22
+1349,Samichlaus Bier 2003,90,7,53
+1350,Porter IV,42,1,44
+1351,The Hairy Eyeball,87,3,25
+1352,Malheur MM,90,5,97
+1353,India Pale Ale,26,1,20
+1354,Eastside Dark,172,6,98
+1355,Big Easy Beer,90,5,52
+1356,Old Knucklehead 2003,86,7,92
+1358,Bottle Conditioned Porter,25,0,50
+1359,Black Strap Stout,42,12,96
+1361,Celis White,72,2,82
+1362,Bridgeport India Pale Ale,31,12,60
+1363,Blue Heron Pale Ale,146,1,45
+1364,ESB,174,5,24
+1365,Stille Nacht,98,9,42
+1366,Hop Pocket Ale,26,5,86
+1367,Holiday Spice Lager Beer,86,9,66
+1368,Samuel Adams Utopias MMIV,12,12,61
+1369,Grand Cru 2003,134,8,4
+1370,Imperial Stout,42,2,33
+1371,7th Anniversary IPA,31,1,54
+1372,Nora,52,5,11
+1373,Bellegems Bruin,3,9,76
+1375,Porter Boom,25,0,39
+1376,Bajuvator Doppelbock,90,8,10
+1377,Roundabout Oatmeal Stout,21,5,12
+1378,Ale,148,5,10
+1379,Bombardier Premium Ale,68,1,8
+1380,Christmas Ale 2003,79,8,0
+1381,Old Stock Ale 2002,13,10,3
+1382,Ruination IPA,32,2,79
+1384,Salvation,72,2,76
+1385,Schokolade Bock,90,9,51
+1386,Winterkoninkse,3,2,14
+1389,Pumpkin Ale,78,1,44
+1390,Port Washington Old Port Porter,25,5,8
+1392,Maslifter Oktoberfest,84,12,70
+1393,Port Washington Amber Ale,33,0,81
+1394,Port Washington Pier 96 Lager,95,2,92
+1395,Munich Dunkel,45,11,1
+1397,Oktoberfest,84,12,25
+1398,Tripel,109,6,39
+1401,Black Hook Porter,25,1,98
+1402,Downtown Brown,38,10,92
+1403,Autumnal Fire,90,2,1
+1405,Goudenband 2002,2,10,15
+1406,Pale Ale,26,9,4
+1408,Princess of Darkness Porter,25,8,27
+1409,Tyskie Gronie,173,7,63
+1410,Roundhouse Rye,95,9,63
+1411,Oktoberfest,84,8,46
+1412,Oktoberfest,84,12,63
+1414,Edison Light Beer,95,11,78
+1415,James Squire Australian Best Ale Limited Release,100,7,54
+1416,Sprecher Oktoberfest,84,0,92
+1417,Samuel Adams Triplebock 1995,146,10,8
+1418,Hoptoberfest,84,4,96
+1419,Festbier,84,12,9
+1420,Lizard Lager,95,12,93
+1421,William Capen Bitter Ale,41,8,57
+1422,Full Tilt IPA,31,1,75
+1423,Christmas Ale,80,9,48
+1424,Tripel Reserve,141,7,55
+1425,Hop Rod Rye,32,5,21
+1426,Northern Glory Premium Ale,156,8,10
+1427,Riggwelter Yorkshire Ale,76,4,75
+1428,Trappist Blond,127,10,81
+1429,Lucifer,146,10,49
+1430,Tie Die Red,33,11,71
+1431,Saranac Hefeweizen,50,5,68
+1432,Chief Blackhawk Porter,25,7,35
+1433,Dort,90,5,75
+1435,Milkhouse Stout,42,9,3
+1436,Old 47 Ale,26,7,97
+1437,Shawano Gold,33,1,94
+1438,Speciale Reserve Ale,26,9,82
+1439,Scorpion Pale Ale,26,1,72
+1440,Export,65,0,30
+1441,Dry Stout,42,11,31
+1442,Dark Wheat,175,11,87
+1443,Cream Ale,95,10,79
+1444,Porter,25,4,28
+1445,Amber Ale,33,12,73
+1446,Summer Gueuze,70,9,49
+1451,Porter,25,11,10
+1452,Pilsner,168,6,10
+1453,Hefeweizen,50,7,5
+1454,Sherwood Forest IPA,31,4,98
+1455,Cat Tail Pale Ale,26,6,14
+1456,Centennial IPA,31,11,41
+1457,Bill Old Ale,13,6,51
+1458,Stein Bock,90,9,38
+1459,120 Shilling Scotch Ale,15,0,13
+1460,Caramel Rye,95,9,73
+1461,Alt,38,3,92
+1462,Amber Plus,33,6,33
+1463,Dark Star,25,6,70
+1464,American Pale Ale,26,11,26
+1465,Dreadnaught Imperial IPA,32,4,53
+1466,Top Heavy Hefeweizen,50,4,55
+1468,Blonde Bock,90,2,61
+1469,Irish Red Ale,33,5,40
+1470,Scottish Ale,79,6,27
+1471,Old Roundout Pale Ale,26,5,83
+1472,Altbier,38,12,79
+1473,Whiskey Barrel Whitetail Cream Ale,125,6,54
+1474,Artisan Saison,42,5,84
+1475,Oompa Loompa Chocolate Stout,156,0,27
+1476,Dubbel Dragon,72,4,24
+1477,Caramel Bock,65,10,65
+1478,London Banker ESB,120,2,1
+1479,Red Lager,95,10,91
+1480,Pale Ale,26,0,61
+1481,Blackburn Doppelbock,90,7,96
+1482,Hopfenkopf,26,7,38
+1483,Porter,25,3,56
+1484,Oak Aged Single Malt,140,12,8
+1485,Old Skeezer Barley Wine,33,4,28
+1486,Hemp Ale,138,9,81
+1487,Evolutionary IPA,31,6,56
+1488,Bitter Woman From Hell Extra IPA,31,11,23
+1489,India Pale Ale,26,3,8
+1490,Madelia Mild,10,12,36
+1492,2nd Street Amber,33,5,83
+1493,Imperial Stout,42,4,94
+1494,Pale Ale,26,3,16
+1495,Scottish Ale,15,4,66
+1496,Salmon Tail Pale Ale,26,7,47
+1497,Poplar Porter,25,8,46
+1498,Red,33,1,53
+1499,Griesendiech Pilsner,161,4,60
+1500,Colony Oatmeal Stout,42,7,26
+1502,Coffee Ale,101,3,10
+1503,Foxy Brown,38,8,73
+1504,Maibock,90,1,15
+1505,Augsburger Dark,95,1,65
+1506,Augsburger Golden,93,4,42
+1507,Left Hand Milk Stout,20,1,13
+1508,Gritstone Premium Ale,38,12,76
+1509,Het Kapittel Pater,74,0,43
+1510,Bock,90,2,26
+1511,Special Amber,95,1,91
+1512,Luna Stout,159,1,55
+1513,Malteser Weissbier,50,7,15
+1516,Export Premium,91,0,31
+1517,Doppelbock Dunkel,90,1,26
+1518,Export,89,1,42
+1519,Urthel Novicius Vertus,57,4,35
+1520,Urthel Tonicum Finiboldhus,25,3,29
+1521,Double Hop Premium Ale,6,6,9
+1522,Original,59,1,18
+1523,Schwarzbier,86,1,39
+1524,Wittekerke,83,10,52
+1525,Capital Fest Beer,84,5,5
+1526,Mestreechs Aajt,49,5,53
+1527,Bee Sting Honey Ale,26,8,50
+1528,Yorkshire Terrier Premium Cask Bitter,86,4,37
+1529,The Iron Tankard,33,0,47
+1530,Classic Oatmeal Stout,42,2,13
+1532,Oatmeal Stout,42,6,4
+1533,Genuine Irish Stout,42,5,78
+1534,Liefmans Kriekbier,70,11,92
+1535,Amber Lager,95,6,1
+1536,Pub Ale Draught,119,4,61
+1537,Mile Rock Amber Ale,33,2,22
+1538,John Courage Amber,104,12,65
+1539,Fuggles IPA,31,11,49
+1540,PranQster Belgian Ale,40,2,6
+1541,Coniston Bluebird Bitter,155,12,34
+1542,Saison,57,5,16
+1543,Imperial IPA,31,12,11
+1546,Beer,6,10,91
+1548,Third Coast Ale,26,2,35
+1549,Manifesto Pale Ale,26,6,27
+1550,Dark,42,3,24
+1551,Ale,57,10,35
+1552,Harvest Ale 2000,13,6,81
+1553,Racer 5 IPA,31,9,36
+1554,Old Stock Ale 2001,13,9,18
+1555,Beer Line 2000,112,6,93
+1556,Bigfoot 1998,95,0,35
+1557,Big Bear Black Stout,43,8,1
+1558,Tripel Crown,61,3,2
+1559,Monkfish Tripel,93,1,27
+1560,Old Hooky,75,7,52
+1561,Best Bitter,66,11,42
+1562,Generation,66,11,50
+1563,Prize Old Ale,13,6,80
+1564,Meister Pilsener,6,2,21
+1565,Weissbier Dunkel,53,9,36
+1566,Kasseler Premium Pils,74,5,34
+1567,Weissbier Hell,50,1,74
+1568,Angel Ale,10,4,58
+1569,Northumbrian Brown Ale,38,8,51
+1570,Luxus Pils,7,1,32
+1571,Maifest,84,12,29
+1572,Porter,42,0,32
+1573,Hitachino Nest White Ale,59,11,36
+1574,Old Devil,10,11,94
+1575,Scarecrow Ale,25,9,47
+1576,Old Tom Barley Wine,70,2,97
+1577,Hitachino Nest Sweet Stout,42,3,36
+1578,Southern Blonde,9,5,38
+1580,Urthel Hibernius Quentum Ale,102,12,34
+1581,Vintage Ale 1999,13,0,49
+1583,Ertvelds Wit,124,2,65
+1584,Jeffrey Hudson Bitter,24,7,98
+1585,Old Scratch Barleywine 1996,171,3,47
+1586,Cattail Ale,139,7,55
+1587,Helles Bock,90,12,39
+1588,Premium Ale,26,2,71
+1589,Pilsener,77,4,96
+1592,SunRye,95,10,13
+1593,Weiss Beer,50,2,32
+1594,Black Forest,175,3,65
+1595,Steam,171,9,5
+1596,Red Stallion,95,9,10
+1597,Pilsner,138,3,3
+1598,Black Wych Stout,42,10,29
+1599,Abby Road Belgian Ale,140,11,10
+1602,Ponchartrain Porter,25,8,33
+1603,Category 5 Strong Ale,26,8,41
+1604,Lager,95,7,71
+1605,Clearview Light,10,11,82
+1606,Alt,38,2,22
+1608,Malt Mac Winter Ale,73,9,72
+1609,Pale Ale,95,10,5
+1610,Reinaert Flemish Wild Ale,92,7,8
+1611,Goat Toppler Mai Bock,90,12,6
+1612,ESB,36,10,95
+1613,Winter Porter,25,10,25
+1615,Stite Golden Pilsner,95,5,71
+1616,Cream City Pale Ale,26,7,47
+1617,Swede Saw Red Ale,33,0,24
+1618,Lager,95,7,35
+1619,Bower City Pale Ale,26,10,64
+1622,Czech Mate Pilsner,103,2,77
+1623,Bak,90,6,49
+1624,Pale Ale,26,10,46
+1625,Original Berliner Weisse,13,12,63
+1626,Lager,92,5,53
+1627,Premium Pils,40,6,90
+1628,Ratskeller,9,5,100
+1629,Pils,40,3,74
+1634,Altbairisch Dunkel,159,2,2
+1636,Stationsweizen,50,6,55
+1637,Kristall Weissbier,50,9,17
+1638,Pilsener,52,7,75
+1641,Pils,121,3,62
+1644,Kupfer,103,12,29
+1645,Messing,25,3,16
+1646,Pils,2,10,24
+1647,Helles Naturtrub,26,6,73
+1648,Alt,38,2,67
+1649,Alt,38,10,27
+1650,Altbier,38,7,36
+1651,Alt,38,5,75
+1654,Edel,92,7,56
+1655,Astra Urtyp,155,7,12
+1656,Pilsener,168,7,72
+1657,Meranier Schwarzbier,86,10,14
+1658,Kellerbier,79,2,74
+1659,Premium Pilsener,175,9,34
+1660,Weissbier,50,11,94
+1661,Dunkel,154,6,10
+1662,Kellerbier,175,4,5
+1664,Weizen,50,7,85
+1665,Lagerbier,84,2,39
+1667,Braunbier,84,10,4
+1668,Bamberger Gold,131,12,61
+1669,Bockbier,90,2,14
+1671,Weissbier,50,10,40
+1672,Bamberger Herren Pils,69,8,76
+1673,Pils,84,6,57
+1674,Rauchbier Weissbier,95,10,90
+1676,Ungespundetes,45,4,42
+1677,Lagerbier,90,7,24
+1678,Zwergla,139,8,50
+1680,Weizla Hell,50,0,47
+1681,Benediktiner Dunkel,27,0,83
+1682,Eine Bamberger Weisse Hell,50,10,87
+1683,Helles Naturtrub,97,11,13
+1684,Unimator,90,4,17
+1685,Hell,55,8,85
+1687,Hell,16,10,20
+1688,Original,110,9,70
+1690,Starkbier,90,10,94
+1691,Pils,41,3,33
+1692,Dunkel,49,6,40
+1693,Schwarze Weisse,76,8,78
+1694,Triumphator,90,3,83
+1695,Maximator,90,6,68
+1696,Dunkel,68,5,33
+1697,Edelstoff,19,9,96
+1699,Native Ale,33,5,37
+1700,Home Town Blonde,78,6,39
+1701,Capital Brown Ale,38,0,67
+1702,Bavarian Lager,120,0,26
+1704,Maibock,90,12,42
+1705,Malheur 12,62,0,81
+1706,Sweet Stout,42,9,78
+1708,Pale Ale,26,12,76
+1709,Michelob Hefeweizen,95,5,3
+1710,Hefe Weiss,50,12,90
+1711,Winter Brew,90,1,76
+1712,Black Bavarian Lager,86,5,25
+1713,Pale Lager,95,11,76
+1714,Donner Party Porter,25,10,38
+1715,Winter Fest Beer,90,1,40
+1716,Blonde,154,0,22
+1717,Scottish Ale,33,2,62
+1719,Nut Brown Ale,38,2,97
+1720,Esker Alt,38,10,90
+1721,Alpine Glacier Lager,95,12,12
+1722,EKU Pils,47,12,20
+1723,Witbier,50,1,72
+1724,Dark Lager,86,6,27
+1725,Original Dark,95,7,41
+1726,Deep Powder Winter Ale,13,9,47
+1727,Pils,60,5,29
+1728,Beer,95,0,39
+1729,Light,95,6,58
+1730,Pick Axe Pale Ale,26,2,38
+1731,Hefe Weiss,95,3,31
+1733,Green Beer,95,3,39
+1734,Old Man Winter Warmer 2002,16,9,2
+1735,Steam Engine Common,145,0,66
+1736,Bridge Out Stout,42,4,93
+1738,Harvest Ale 2001,13,3,69
+1739,Porter,25,11,47
+1741,Oatmeal Stout,42,9,37
+1742,ESB,141,0,3
+1743,Lazy Jake Porter,25,11,62
+1744,Black River Brown,38,5,79
+1745,German Valley Amber,33,2,53
+1746,Grist Mill Golden,26,6,5
+1747,Packs A Punch Porter,25,3,46
+1748,Old Krogh Oatmeal Stout,42,5,21
+1749,Log Cabin Nut Brown,38,9,4
+1750,Brogen Meadow Pale Ale,26,0,66
+1751,Alpine Glow Red Ale,33,9,4
+1752,Three Sisters Golden Wheat,95,3,50
+1753,Gold,103,10,57
+1754,Oatmeal Stout,42,5,68
+1756,32 Inning Ale,100,12,19
+1757,Station House Red Ale,33,7,92
+1758,Bootlegger Blonde Ale,168,5,39
+1759,Full Moon Barley Wine Ale,166,12,98
+1760,Not Tonight Honey Porter,25,0,98
+1761,Indiana Pale Ale,26,0,58
+1762,Red Rooster Ale,33,0,95
+1763,Harvest Wheat Beer,95,5,83
+1764,Cornhusker Lager,17,6,70
+1765,Blueberry Wheat,116,9,29
+1766,Henry Hudson IPA,31,7,29
+1767,Sunset Red Ale,26,4,16
+1768,Checker Cab Blonde Ale,58,4,39
+1769,Workhorse Porter,25,1,31
+1770,Dark Lager,143,8,89
+1771,Hard Times Lager,130,6,12
+1772,Scottish Ale,15,7,84
+1773,Winter Wonder,62,8,13
+1774,Bengal Gold India Pale Ale,26,0,90
+1775,Imperial Stout,42,0,6
+1776,Helles Lager,34,3,54
+1777,Amber Ale,33,6,22
+1778,Honey Wheat,95,2,15
+1780,Pheasant Plucker,10,12,85
+1781,Golden Wheat Light,95,7,15
+1782,ESB,28,4,9
+1783,Best Bitter,27,3,58
+1784,Apple Ale,116,9,65
+1785,Bad Seed Pumpkin Ale,146,9,14
+1786,Porter,25,4,79
+1787,Pale Ale,26,5,4
+1788,Amber,33,5,65
+1789,Gelande Amber Lager,97,12,87
+1790,Yo Ho Ho Christmas Ale 2001,49,2,26
+1791,Jubel 2000,13,3,9
+1792,Old Foghorn 2002,64,6,45
+1793,IPA,31,3,31
+1794,Anvil Ale,174,9,66
+1795,Black Cider,4,7,51
+1796,Us Heit Dubbel Tarwe Bier,55,11,11
+1797,Whitstable Oyster Stout,42,10,33
+1800,Boss Hog Double IPA,32,0,18
+1802,Moose Juice Stout,42,9,92
+1803,Kelpie Seaweed Ale,65,5,68
+1804,Oude Gueuze,70,8,39
+1805,1554 Enlightened Black Ale,72,12,52
+1806,Dark Ale,95,7,56
+1807,Red Lager,95,8,22
+1808,Deep Shaft Stout,42,2,67
+1809,IPA,31,5,87
+1810,Stout,42,3,39
+1811,Dunkle,168,2,61
+1812,Red,33,4,74
+1813,Pretty Girl Pilsner,156,2,31
+1814,Wheat,95,12,43
+1815,Old Scratch Barleywine 1997,44,8,44
+1816,Black Earth Porter,25,1,43
+1817,New Peculier,13,3,29
+1818,Old Glory American Pale Ale,26,3,61
+1819,Stone of Scone Scotch Ale,15,1,28
+1820,Sugar River ESB,136,12,4
+1821,Crop Circle Wheat,50,6,11
+1823,Landmark Light,95,4,91
+1824,Het Kapittel Abt,149,5,95
+1825,Urbock,90,1,83
+1826,East India Pale Ale,31,9,55
+1828,Pilsner,95,5,67
+1831,Winter Solstice Seasonal Ale 2002,173,5,79
+1832,Winter Gale Spiced Ale,99,0,14
+1837,Echte Kriek,34,2,5
+1838,Golden Lager,95,2,90
+1839,Weizen,50,0,82
+1840,80 Shilling,94,0,91
+1841,Steam Beer,83,1,82
+1842,Pirate Pale,26,1,78
+1843,Perfect Stout,42,11,26
+1844,Bulldog Blonde,65,8,95
+1845,Harvest Ale,84,6,92
+1846,Bison Brown,38,0,44
+1847,Cappa Cappa Crusher,8,12,12
+1849,Hop Garden Pale Ale,26,12,40
+1850,Golden Blonde,111,7,61
+1851,British Nut Brown,38,0,53
+1852,Altruistic American Ale,26,4,13
+1853,Yorkshire Stout,42,2,12
+1854,Blackforest Lager,86,2,86
+1855,Octoberfest,84,4,84
+1856,Hathor Red Lager,95,1,85
+1857,Ghost Pony Helles Lager,154,0,69
+1858,Pacific Coast Ale,108,2,33
+1859,Norfolk Nog Old Dark Ale,13,10,50
+1861,Pilsner,149,5,24
+1862,Premium,13,3,53
+1864,India Pale Ale,26,9,71
+1865,Schwarzbier,86,5,54
+1866,Piva Bohemia,156,8,90
+1867,South of the Border Light,120,3,43
+1868,Munich Helle,139,0,99
+1869,Stout,42,8,68
+1870,Aussie Lager,95,10,92
+1871,Wheat,95,8,66
+1872,Brown,38,3,22
+1873,New Hops Ale,26,4,53
+1874,Oktoberfest,84,12,19
+1875,North of the Border Porter,25,2,68
+1876,Dunkel Lager,24,4,98
+1877,Stout,42,2,36
+1878,Dells Chief Amber Ale,33,4,35
+1879,Weissbier,50,0,17
+1880,Pilsner,95,2,48
+1882,Light Ale,40,5,81
+1883,Weizen,50,6,71
+1884,IPA,31,0,34
+1885,Porter,25,9,99
+1886,Courthouse Copper,95,2,69
+1887,Canadian Light,95,9,77
+1888,Munich Helles,52,10,10
+1889,Mudcat Stout,42,11,72
+1890,Mullin Brown,38,11,75
+1891,Hefeweizen,50,9,51
+1892,Pale Pale Boss Ale,26,10,71
+1893,Bartles and Lager,95,4,15
+1894,Oktoberfest,84,3,34
+1896,Saison,108,2,69
+1897,Royal Challenge Indian Premium Lager,95,10,65
+1901,Old Jock Ale,132,2,18
+1902,Witte Ezel,44,2,36
+1903,Imperial Stout 2002,42,0,70
+1904,James Squire India Pale Ale,26,4,46
+1905,White,124,4,21
+1906,Old Bastard,13,9,29
+1907,Capitol ESB,86,12,45
+1908,Brown Trout Brown,38,9,38
+1909,Honey Wheat,95,0,15
+1910,Golden Prairie Blond,37,5,13
+1911,Saint Peter Pale Ale,26,2,37
+1914,Saison Goux,78,0,94
+1915,Stillwater Stout,42,6,69
+1916,Big Horn Nut Brown Ale,38,6,48
+1917,Eric the Red,33,9,20
+1918,Itasca Extra Pale Ale,10,0,27
+1919,North Star Premium Lager,95,9,98
+1920,Pantown Pale Ale,26,11,46
+1921,Quarry Rock Red,33,9,62
+1922,Golden Honey Wheat,95,5,53
+1923,Duke of Wellington IPA,31,4,12
+1924,Broad Ax Stout,42,4,90
+1925,Oktoberfest,84,2,76
+1926,Pride of Pilsen,24,11,29
+1927,Victory Lager,95,6,68
+1928,Northern Light,95,5,88
+1929,Palace Porter,25,5,87
+1930,Star of India India Pale Ale,26,5,96
+1931,Gold Crown Lager,133,1,90
+1932,Queen Anne Light,112,2,33
+1933,Cologne Golden Ale,147,8,24
+1934,Weizen Bock,55,8,93
+1936,Organic Extra Special Bitter,114,2,59
+1938,Jubilate Special Reserve Anniversary Ale,38,4,50
+1939,Malheur 10,10,3,83
+1940,Gnaw Bone Pale Ale,26,7,4
+1941,Witbier,9,8,75
+1942,Limburgse Witte,56,8,78
+1943,Meridian Street Premium Lager,95,6,72
+1944,Fenway American Pale Ale,26,3,98
+1945,Trafalgar IPA,31,1,27
+1946,Hell for Certain,98,8,85
+1947,India Pale Ale,26,9,5
+1948,Extra Special Bitter,95,0,77
+1949,Bear Ale,62,9,23
+1950,Red Rooster Pale Ale,26,7,51
+1951,Titan Porter,25,3,72
+1952,Woodpecker,59,7,49
+1953,Chocolate Stout,42,7,42
+1954,Kristall Weiss,50,8,17
+1955,Golden Promise Traditional Scottish Ale,84,11,98
+1956,Aspen Meadow Black and Tan,95,5,76
+1957,Framboise,116,7,4
+1958,Old Foghorn 1996,51,9,73
+1959,Oudbeitje,70,10,7
+1960,English ESB,78,9,73
+1963,Grottenbier,118,6,39
+1964,Triple,123,11,20
+1965,Malheur Brut Reserve,115,11,98
+1967,Vanilla Berry Orange,116,10,88
+1968,Vanilla,130,10,61
+1969,Munich Dunkel,168,9,65
+1970,Get Fuggled,162,7,12
+1971,Laughing Ass,95,1,50
+1972,Prairie Thunder Pale Ale,26,8,11
+1973,McBride Porter,25,1,90
+1974,Hawk Rye,95,3,76
+1975,Celtic Stout,42,5,32
+1976,Collapsar Oatmeal Stout,42,7,50
+1977,Dark Side Vanilla Porter,53,1,89
+1978,Third Stone Brown,38,8,43
+1979,Luna Sea Amber,58,10,5
+1980,Chaco Canyon Honey Gold,140,4,37
+1981,Burning Skye Scottish Ale,144,1,56
+1982,Solar Flare Summer Ale,57,6,34
+1983,Discombobulator Maibock,90,0,60
+1984,Boxcar Brown Ale,38,10,36
+1985,Pale Ale,26,4,71
+1986,Golden Gate Amber Ale,33,2,4
+1987,Sixtus,90,6,64
+1988,Griffon Brown Ale,38,0,32
+1989,Golden,95,3,97
+1990,Canadian Lager Beer,95,6,58
+1991,Clawhammer,72,5,66
+1992,Canadian Ale,95,0,29
+1994,Brown Fox Ale,26,5,33
+1995,Helles Hefe Weizen,50,7,93
+1996,Stone of Scone Scotch Ale,20,8,3
+1998,Oatmeal Stout,42,8,9
+1999,Nut Brown Ale,38,4,78
+2000,American Pale Ale,26,6,88
+2001,Lion Stout,42,4,88
+2002,Black Earth Porter,25,1,96
+2003,Sprecher Maibock,91,6,6
+2004,Bock,90,4,88
+2005,Original Pils,2,10,71
+2006,Pullman Nut Brown Ale,145,4,45
+2007,Panama Limited Red Ale,26,4,79
+2008,John Barleycorn Barleywine Style Ale,35,12,2
+2009,Steelhead Extra Stout,42,11,77
+2011,Butthead Doppelbock,92,10,42
+2012,Dry Mead,110,9,1
+2013,La Trappe Tripel,61,5,66
+2014,Elephant,90,9,20
+2015,Double Ale,40,5,40
+2016,Big Butt Doppelbock,90,3,44
+2017,Jamaica Brand Sunset IPA,31,1,100
+2018,Petrus Aged Pale,56,5,60
+2019,Jamaica Brand Red Ale,26,9,50
+2020,What the Helles Bock,90,3,11
+2021,Steelhead Scotch Porter,25,6,33
+2022,Titan Porter,25,4,53
+2023,Robert Burns Scottish Ale,102,11,39
+2024,Scotch Ale,15,9,35
+2025,Black Butte Porter,25,10,94
+2026,Heritage Scottish Ale,15,8,85
+2027,Imperial Stout,42,10,49
+2028,Dragonslayer,43,7,30
+2029,4 Reverends Imperial Stout,42,3,36
+2030,Imperial Stout,42,3,9
+2031,Winter Delight,13,6,14
+2032,East India IPA,31,0,0
+2033,Radgie Gadgie,143,6,22
+2034,Racer X,32,8,50
+2035,Black Irish Plain Porter,25,7,77
+2036,Promethean Porter,25,5,8
+2037,Iambic Lambic,70,0,78
+2038,Alpenhof Baltic Porter,25,4,42
+2040,Nut Brown Ale,38,6,74
+2041,Trolleycar Stout,42,1,38
+2042,Caber Tossing Scottish Ale,156,8,70
+2043,Fox Tail Amber Ale,33,12,61
+2044,Winnebago Wheat,50,3,89
+2045,Fox Light,95,11,65
+2046,Trolleycar Stout,42,5,26
+2047,Nut Brown Ale,38,0,91
+2048,Caber Tossing Scottish Ale,64,8,69
+2049,Fox Tail Amber Ale,33,4,6
+2050,Winnebago Wheat,50,4,75
+2051,Fox Light,95,11,77
+2052,Thomas Sykes Barleywine,9,11,38
+2053,Old Knucklehead 1992,61,5,64
+2054,Chessie Cherry,116,10,98
+2055,Roundhouse Raspberry Wheat Ale,116,3,72
+2056,Imperial Eclipse Stout,42,10,91
+2057,Kilt Kicker Wee Heavy,15,1,31
+2058,El Diablo Tripel,175,1,93
+2059,Bavarian Helles,52,9,76
+2060,Zephyr Golden Ale,26,1,79
+2061,Station Master Wheat Ale,95,12,65
+2062,Red,26,11,29
+2063,Harry Baals Stout,42,2,40
+2064,Old Fort Porter,25,10,74
+2065,Big Daddy Brown,38,7,88
+2066,Old Woody Pale Ale,26,5,57
+2067,Auburn,26,12,23
+2068,Lager,95,5,69
+2070,Oyster Stout,42,0,51
+2071,Belgian Style Wit,174,1,57
+2072,Pumpkin Ale,26,2,75
+2073,Lighthouse Ale,26,6,70
+2074,Nut Brown Ale,38,12,4
+2075,Irish Setter Red Ale,33,4,85
+2076,Dierdorfer Gold,62,12,13
+2077,Winter Ale,33,3,39
+2078,Sturgeon Stout,42,3,19
+2079,Buzz Beer,26,0,95
+2080,Pirates Pilsner,33,2,39
+2081,Wheat,95,0,77
+2082,Nut Brown,38,2,37
+2083,London Porter,25,3,69
+2084,Starboard Stout,42,0,65
+2085,Arcadia ESB,166,12,9
+2086,Anglers Ale,26,3,18
+2087,Double Cream Oatmeal Stout,42,9,74
+2088,Midnight Stout,42,2,55
+2089,Ale,3,12,67
+2090,Tornado Ale,26,8,23
+2091,Winter Wheat,95,1,54
+2092,Sunset Red,33,12,47
+2093,Haymarket Ale,26,3,17
+2094,Tripel,140,10,1
+2095,Apple Ale,116,7,33
+2096,Schwarzbier,86,6,65
+2097,Stubbins Stout,42,1,95
+2098,Depot Pils,95,10,88
+2100,Red Lager,95,4,26
+2101,Hefeweizen,50,2,0
+2102,Wasatch Polygamy Porter,25,7,96
+2103,Frostbite,26,12,55
+2104,Cooper River Red,33,10,26
+2105,Winterfest,38,8,80
+2106,Stout,42,2,67
+2107,Raspberry Wheat,116,4,97
+2108,Market Street Wheat,95,2,28
+2109,Low Country Light Lager,95,11,21
+2110,Ruby Red Lager,95,11,85
+2111,Bombay Pale Ale,26,1,46
+2112,East Bay Brown,38,8,16
+2113,Scarlet Ale,33,0,75
+2114,Ironman Wheat,95,3,47
+2115,Blonde,95,0,96
+2116,Blonde Light,95,7,69
+2117,Premium Verum,30,0,2
+2118,47 Bryg,90,5,40
+2119,Stout,42,6,65
+2120,Fest,84,1,0
+2122,Buckeye Brown,38,12,73
+2123,Verich Gold,26,0,67
+2124,Ale,26,0,43
+2125,Befuddelator Doppelbock,90,11,76
+2126,Oatmeal Stout,42,2,55
+2127,Pale Ale,26,11,20
+2128,Amber Lager,95,7,30
+2129,Wheat Ale,95,7,58
+2130,Riverboat Raspberry flavored Beer,116,11,51
+2131,Red Winter Ale,33,6,99
+2132,Old Courthouse Stout,42,3,55
+2133,Missouri Brown Dark Ale,33,3,100
+2134,Red Amber Ale,33,1,6
+2135,Trailblazer Blond Ale,9,2,45
+2136,Schlafly Pale Ale,26,12,73
+2137,Schlafly Altbier,38,12,91
+2138,Schlafly ESB,131,0,37
+2139,Schlafly Tripel,9,8,2
+2140,Schlafly Oatmeal Stout,42,10,46
+2141,Schlafly Smoked Porter,95,7,36
+2142,Schlafly Winter ESB,147,7,7
+2143,Schlafly Pilsner,93,1,74
+2144,Schlafly Hefeweizen,95,7,11
+2145,Schlafly Wheat Ale,95,6,63
+2146,Winter Wheat,99,11,11
+2147,Rambling Raspberry Ale,116,11,30
+2148,Streamline Oatmeal Stout,42,6,70
+2149,Imperial Pale Ale,26,4,15
+2150,River City Red Ale,33,3,79
+2151,Mile Marker Amber Lager,95,9,22
+2152,Lake Shore Light,95,3,46
+2154,Snake Pit Porter,25,12,61
+2155,Indiana Amber,33,6,58
+2156,Stout,42,9,8
+2157,Red,33,11,7
+2158,Extra Special Bitter,66,5,35
+2159,Lawnmower Pale Ale,26,9,82
+2160,Wheat Beer,95,1,5
+2161,Hazelnut Brown,72,0,57
+2163,Rust Belt Porter,25,8,12
+2164,60 Shilling Scotch Ale,169,11,14
+2165,Blind Tiger Pale Ale,26,11,65
+2166,Flat Belly American Wheat,95,6,3
+2168,Pale Ale,26,12,71
+2169,Pilsner,75,8,66
+2170,Traditional Lager,7,8,84
+2171,Barrel Select Pils,141,0,34
+2172,Raspberry Wheat Ale,116,10,30
+2173,INDIAna Pale Ale,26,3,83
+2174,Lake Effect Pale Ale,26,4,80
+2175,Four Horsemen Ale,33,9,1
+2176,Kolsch,123,9,6
+2177,Wall Street Wheat Ale,95,9,21
+2178,Red Lager,95,12,32
+2179,Dark Belgian Wit,162,8,30
+2180,Holiday Ale,51,10,9
+2181,Raftman,33,4,21
+2182,Olde Suffolk,13,6,83
+2184,Beekeepers Honey Ale,173,0,43
+2185,Christmas Ale,11,10,40
+2186,Doppelbock,90,8,22
+2187,Cleary Red,78,10,0
+2188,Whitetail Ale,68,12,43
+2189,Hefeweizen,95,0,58
+2190,Lichthouse Lager,95,5,20
+2192,Cherry Ice,116,4,48
+2193,Oatmeal Stout,42,2,75
+2194,Southport Amber,33,3,64
+2195,Kenosha Gold,51,6,86
+2196,Icemaster,95,2,77
+2197,Porter,25,6,61
+2198,Imperial Delusion,42,0,73
+2199,Five Springs Oatmeal Stout,42,8,85
+2201,Wee Heavy,15,3,80
+2202,Abana Amber Ale,33,0,59
+2203,Wheat Ale,95,4,76
+2204,2 Brothers,26,5,74
+2205,Dingle Dubbel,7,7,86
+2206,American Cream Ale,95,1,66
+2207,Black Forest,86,0,22
+2208,Dublin Dunkelweizenbock,55,6,21
+2209,Fomharfest,84,6,36
+2210,Leprechaun Light,84,8,90
+2211,Shamrock Stout,42,10,39
+2212,Celtic Cream Ale,95,5,52
+2213,Pale Ale,26,8,99
+2214,Belgian Trippel,133,0,80
+2215,Demon Fuel,38,4,19
+2216,Christmas Ale,77,11,56
+2217,Copper,33,4,13
+2218,Honey Blonde Lager,78,4,100
+2219,Old Crustacean Barleywine 1993,56,10,10
+2220,Bigfoot 1994,61,12,77
+2221,Barley Wine 2001,152,1,51
+2222,Belzebuth,37,9,59
+2223,Cow Palace Scotch Ale 2001,15,2,14
+2224,Hog Heaven Barleywine,35,5,79
+2225,old gak strong ale,13,10,91
+2226,IPA,31,10,19
+2227,Ebelweiss,50,0,88
+2228,Capital Kloster Weizen,50,5,44
+2229,Wheat,95,6,55
+2231,Steel Head Stout,42,2,34
+2232,Ruby Red Lager,95,4,5
+2233,Beau Rivage Bock,95,12,51
+2234,Sunset Amber,33,10,71
+2235,Biloxi Blonde,163,7,21
+2236,Biloxi Light,95,1,7
+2237,Immort Ale,12,3,79
+2238,Porter,42,7,34
+2239,James Squire Porter,25,11,49
+2240,Porter,25,8,65
+2241,Taddy Porter,25,1,14
+2242,Mackeson XXX Stout,20,6,56
+2244,Marzenbier,84,9,12
+2245,House Ale,15,8,82
+2247,Scottish Ale,7,11,33
+2248,Kriek,70,4,65
+2249,XXX Porter,111,4,100
+2250,Maduro,38,11,70
+2251,Smooth Oatmeal Stout,42,7,87
+2252,Oktoberfest,84,2,79
+2253,Hex Nut Brown Ale,38,6,93
+2254,Smooth India Pale Ale,26,5,78
+2255,American Pale Ale,26,7,3
+2256,PMD Mild Ale,10,10,48
+2257,Blonde Ale,101,3,72
+2258,Art Schmidt Pilsner,113,6,70
+2259,Harvest Ale 1998,13,3,91
+2260,Harvest Ale 1999,13,7,71
+2261,Old Knucklehead 1997,40,5,29
+2262,Vrak,167,8,57
+2263,Blonde Doppelbock,90,3,88
+2264,Coffee Stout,42,11,12
+2265,Dunkel Doppel Weizen Bock,55,6,38
+2266,Belgian Wheat,168,8,86
+2267,American Blonde,1,8,67
+2268,Pardon Me Porter,25,8,71
+2269,Cortland Wheat,95,6,98
+2271,Storm Ale,38,5,47
+2272,Autumn Strong Lager,84,3,40
+2273,American Wheat,95,11,40
+2274,Chinook Amber,33,7,57
+2276,Eigenberg Smoked Porter,95,8,13
+2277,Guinea Pig Amber Ale,33,7,91
+2278,Copper Wheat,26,10,46
+2279,Oktoberfest,84,5,30
+2281,IPA,31,6,37
+2282,Dunkle Weiss,34,4,16
+2283,Alt,38,4,73
+2284,Harvest Ale 1997,13,2,15
+2285,Tannen Bomb,161,9,8
+2286,Imperial Stout 2001,42,0,56
+2287,5th Anniversary IPA,31,0,29
+2288,Old Fort Howard Pale Ale,26,5,78
+2289,Old LS Barleywine,122,7,10
+2290,Bitter Woman IPA,31,8,44
+2291,Old Man Winter Warmer 2001,160,4,75
+2292,Sir Duluth Oatmeal Stout,42,1,91
+2293,Im Paled Ale,31,5,6
+2295,Grail Ale,33,6,38
+2296,Beast Bitter,5,12,91
+2297,Smoked Porter,95,12,76
+2298,India Pale Ale,26,0,22
+2299,Iditarod Imperial Stout,42,1,30
+2300,IPA,31,7,75
+2301,Black Angus Oatmeal Stout,42,11,64
+2302,Weizen,50,3,69
+2303,English Mild,10,2,25
+2304,Belgian Trippel,122,0,28
+2305,Maibock,90,5,33
+2306,Artist Colony Ale,33,7,62
+2307,Berghoff Oktoberfest Beer,84,3,47
+2308,Original ESB,159,4,8
+2309,Belgian Trippel,165,4,3
+2310,ESB,66,9,44
+2311,India Pale Ale,31,4,84
+2312,Bandit Brown,38,2,48
+2313,Schwartzbier,86,4,16
+2314,Newmarket Pale Ale,26,1,98
+2315,Porter From Hell,25,2,20
+2316,Shantytown Doppelbock,92,0,14
+2317,Abbot Pennings Grand Cru,134,4,26
+2318,Best Bull,135,10,90
+2319,All Saints Belgian White Ale,19,8,80
+2321,Dam Straight Lager,95,8,74
+2322,Weiss,50,4,24
+2323,Old Peculier,175,3,95
+2324,Alexander,53,4,49
+2325,Goudenband 1999,169,5,6
+2326,Chapeau Framboise Lambic,70,9,2
+2328,Mariage Parfait 1995,70,1,52
+2329,Framboise,70,8,51
+2332,La Quintine Blonde,100,11,9
+2333,Hinterland Mild Cask Ale,10,0,57
+2334,Hinterland Weizen Bier,50,9,10
+2335,Colonel Kolsch,35,3,83
+2337,Conquest Ale,13,9,42
+2338,Old Knucklehead 1999,1,12,83
+2339,Old Boardhead 1999,136,12,40
+2340,Old Man Winter Warmer 2000,67,2,59
+2341,Imperial Sasquatch,86,10,40
+2342,Detonator Doppelbock,90,11,67
+2343,Dark Ruby Ale,82,1,70
+2344,Augustijn Ale,111,11,72
+2345,Grand Cru of the Emperor,8,1,17
+2346,Moinette Blonde,62,1,64
+2347,Schwarz Bier,86,6,43
+2348,Ziggy Socky Premium Lager Beer,95,5,18
+2349,Hercule Stout,42,8,4
+2351,Entire Butt English Porter,25,1,86
+2352,Triple Karmeliet,61,10,12
+2353,Gluhkriek,70,3,17
+2354,Elizabethan Ale,125,3,93
+2355,Sheaf Stout,42,11,15
+2357,Belikin Stout,42,6,25
+2358,Traditional,38,12,0
+2359,Golden Pheasant,5,7,10
+2360,Bottle Rocket IPA,31,1,14
+2361,Grumpy Two,42,9,58
+2362,Rye Bock,90,5,85
+2363,Liberty Pale Ale,26,8,47
+2364,How Now,38,5,83
+2365,Lager,95,2,15
+2366,Trailside Wheat,50,6,82
+2367,Scotch Ale,112,10,75
+2368,Wicked Ale,38,1,22
+2369,Pride of Romsey IPA,31,6,30
+2370,Thames Welsh Ale,154,3,58
+2371,Beer,95,7,69
+2372,Red MacGregor,15,1,79
+2373,Duckstein Alt,38,11,100
+2374,Christmas Ale,72,1,65
+2375,Winterhook Robust Winter Ale 2000,124,12,85
+2376,Rugged Trail Ale,38,8,66
+2377,Toil and Trubbel Dubbel,10,9,45
+2378,Enkel Biter,135,10,32
+2380,Blanche de Bruxelles Mannekin Pis,54,12,29
+2381,Organic Ur Pils,53,8,84
+2382,Eganator Doppelbock,90,1,37
+2383,Cow Palace Scotch Ale 2000,15,6,68
+2384,Rare Vos,72,11,91
+2385,Super Natural IPA,31,8,59
+2386,Our Special Ale 1995,81,12,91
+2387,Our Special Ale 1994,92,3,93
+2388,Samuel Adams Triplebock 1994,173,4,70
+2389,Straffe Hendrik Bruin,79,2,46
+2390,Iris 1996,70,7,12
+2391,XP Pale Ale,26,3,8
+2392,Kasteel Bier Brune,69,4,61
+2393,Hefeweissbier,50,2,7
+2394,Dunkles,163,2,62
+2395,Pilsner,98,1,51
+2396,Export,66,10,1
+2397,Helles,117,2,83
+2398,Leicht,147,12,69
+2399,Valhalla Ale,95,2,2
+2400,Continental Pilsner,25,6,5
+2401,Empyrean Oktoberfest,84,3,21
+2402,Straffe Hendrik Brugse,18,6,4
+2403,Black Bear Ale,38,0,5
+2404,Old Elephant Foot IPA,31,6,38
+2405,Cherokee Red Ale,33,0,8
+2406,Golden Eagle Helles,19,4,26
+2407,Big Bark Amber Lager,95,10,2
+2408,IPA,31,10,61
+2409,Anniversary Ale,26,3,38
+2410,Choc American Lager,95,4,75
+2411,Double Chocolate Porter,25,10,65
+2412,Mueller Doppelbock,90,4,39
+2413,Bombardier Brown,38,1,73
+2414,High Seas IPA,31,11,6
+2415,Deluxe Cream Stout,42,6,68
+2416,Point Defiance IPA,31,3,57
+2417,Extra Special Bitter,147,8,64
+2418,Kalamath Basin IPA,31,7,89
+2419,Penitentiary Porter,25,0,20
+2420,Russian Imperial Stout,42,7,68
+2421,India Pelican Ale,26,9,28
+2422,Y2KIPA,31,9,96
+2423,Pacific Pale,26,7,30
+2425,Fancy Lawnmower Beer,80,3,66
+2427,India Pale Ale,26,8,33
+2428,Old Redwood Porter,25,11,22
+2429,Cloud Nine Witbier,66,5,3
+2430,Doppel Bock,90,2,92
+2431,Cyclops Barleywine,15,7,51
+2432,Heavenly Hefe,50,5,43
+2433,Climax California Classic,107,4,88
+2434,Ironside Best,117,1,70
+2435,Double Chocolate Stout,42,1,1
+2436,Black Chip Porter,25,2,52
+2437,Hop Daddy IPA,31,11,75
+2438,Jackpot Pale,26,6,70
+2439,Stuft Pizza Torrey Pines IPA,31,1,52
+2440,Hard Woods Pale,26,11,65
+2441,Mother of All Beers,88,5,46
+2442,Cuvee de Tomme,6,12,80
+2443,Gunslinger Imperial Stout,42,3,25
+2444,Pale,26,6,12
+2445,Hefeweizen,50,8,18
+2447,Big Eye IPA,31,10,92
+2448,Stout,42,7,45
+2449,Colorado Belle Dark,114,6,64
+2450,Lincolnshire Mild,10,0,17
+2451,Aztec Amaranth Ale,138,8,31
+2452,Red Lady Ale,129,9,1
+2453,Steam Engine Steam,65,7,37
+2454,Pick Axe IPA,31,5,91
+2455,Porter,25,12,36
+2456,Angry Monk,104,3,14
+2457,Red Alert Ale,33,7,50
+2458,Steamer,115,4,23
+2459,Extra Special Bitter,36,12,12
+2460,Powder Keg Raspberry Porter,146,4,26
+2461,Where The Helles Albuquerque,164,11,56
+2462,Fly Fisher Red,33,8,1
+2463,Empire Builder Stout,42,7,4
+2464,Uno Mas,95,7,11
+2465,Amber Ale,33,6,26
+2466,Dead Horse Ale,153,7,54
+2467,Chazz Cat Rye,95,8,66
+2468,Winter Warlock Oatmeal Stout,42,1,4
+2469,Plaza Porter,25,8,82
+2470,Whiskey Stout,42,7,65
+2471,Blind Side Pale Ale,26,3,97
+2472,5280 Roadhouse Ghost Town Brown,38,9,64
+2473,Pig Iron Porter,25,7,22
+2474,Bad Boy Oktoberfest,84,11,65
+2475,Pale Ale,26,5,21
+2476,Lucknow India Pale Ale,26,4,3
+2477,Double Ice Bock,90,0,89
+2478,High Desert Imperial Stout,42,7,93
+2479,Oyster Stout,42,10,34
+2480,Old 420 Wheat Wine,36,9,81
+2481,Thunder Pup Pale,26,3,2
+2482,Mesa Cerveza Schnorzenboomer,90,1,18
+2483,Wenceslas,25,8,74
+2484,Solitaire Stout,42,0,88
+2485,Uncle Dunkel,133,0,37
+2486,Angel Amber,33,1,97
+2487,Platte Valley Pale Ale,26,9,39
+2488,Wazee Wheat,95,1,33
+2489,Gael Force Scottish Export,125,12,76
+2490,Dark Star ESB,22,3,78
+2491,Rainbow Trout Stout,42,2,77
+2492,Porcupine Porter,25,2,98
+2493,Derailer ESB,101,10,29
+2494,Daze Scottish Ale,76,9,48
+2495,Backpacker IPA,31,5,33
+2496,Amber Daze,33,6,43
+2497,Heavenly Hefeweizen,50,12,0
+2498,El Rey Cerveza,95,10,41
+2499,Hoptoberfest,84,1,16
+2500,Thoroughbred Red,33,4,59
+2501,Alligator Ale,33,2,85
+2502,Lightning Bold Gold,95,6,39
+2503,Clearwater Light,95,11,79
+2504,Barleywine,124,9,94
+2505,Yuel Fuel,32,9,32
+2506,Stonehenge Stout,42,4,16
+2507,Big Ben Brown,38,2,99
+2508,Fall Fest,84,11,55
+2509,Royal Arms IPA,31,10,24
+2510,Tower ESB,45,2,13
+2511,Portsmouth Pale,26,1,84
+2512,Hefeweizen,50,4,98
+2513,Allgood Amber Ale,33,9,72
+2514,Cream,95,2,53
+2516,Stubborn Mule Barleywine,23,2,38
+2517,Extra Stout,42,9,24
+2518,Robust Porter,25,1,93
+2519,Peckiomen Pils,95,11,33
+2520,Hops Explosion IPA,31,4,43
+2521,English Pale Ale,80,0,90
+2522,Big Bear Stout,42,1,68
+2523,Prohibition Porter,25,6,97
+2524,Framingham Maibock,90,3,8
+2525,Wilmington Roggen Beer,95,7,82
+2526,Excalibur Barleywine,117,8,56
+2527,Queen of Clubs Schwarzbier,86,10,84
+2528,Wilsteraner Altbier,38,0,46
+2529,Berghoff Genuine Dark,95,2,0
+2530,Gubna Imperial IPA,32,10,62
+2531,Dunkel,26,8,56
+2532,Altbier,38,5,24
+2533,4th Anniversary IPA,31,10,19
+2534,Sunday River Alt,38,0,53
+2535,Altmans Alt,38,8,31
+2536,Black Forest Schwarzbier,86,0,44
+2537,Altbier,38,6,74
+2538,Old 8444 Alt,38,3,66
+2539,Lone Mountain Altbier,38,9,3
+2540,Thunderhead Schwarz Bier,86,6,27
+2541,Ad Astra Ale,38,2,29
+2542,Oktoberfest,84,11,81
+2543,Barleywine,111,1,22
+2544,Oktoberfest,84,3,80
+2545,Mister Hoppy IPA,31,1,85
+2546,Hopyard IPA,31,0,57
+2547,1634 Urtyp Hell,82,2,14
+2548,Gueuze,70,10,91
+2549,Brain Damage,13,12,89
+2550,Old Nick,112,2,39
+2551,Super Natural ESB,30,9,65
+2552,Foret Saison,160,6,23
+2553,Joseph Spelt Ale,166,9,37
+2554,Montagnarde,62,7,24
+2555,Blanche des Honnelles,12,12,84
+2557,Belgian Burgundy Ale,151,2,88
+2558,Samson Crystal Diplomat Dark Beer,16,8,40
+2559,1845 Celebration Ale,116,3,65
+2560,London Porter,25,3,94
+2561,Dark Island,7,0,4
+2562,Premium,59,6,6
+2563,Brigand,2,7,83
+2564,Krakus,170,2,18
+2565,Kriek,70,8,89
+2566,Small Beer,10,4,60
+2567,Clovis,52,7,31
+2568,Black Cat,10,10,72
+2569,Oats and Barley Stout,42,2,79
+2570,Oktoberfest,84,6,4
+2571,Irish Red,33,6,12
+2572,Old World Oktoberfest,84,3,62
+2573,Pale Ale,26,12,3
+2574,Amber,33,6,11
+2575,Bavarian Weiss Beer,50,7,33
+2576,Pils,16,11,46
+2577,Honey Lager Light,95,8,83
+2578,Celtic Cross Stout,42,11,45
+2579,Taverner Nut Brown Ale,38,12,9
+2580,Underground IPA,31,3,20
+2581,Yodeler Weisse,50,9,18
+2582,The Yank Cream Ale,95,0,72
+2583,Stronghold Pilsner,154,9,76
+2584,Imperial Stout,42,5,79
+2585,Eldridge Grade White Knuckle Ale,26,2,20
+2586,Jasper Brown Ale,38,2,75
+2587,Red Earth Pale Ale,26,11,13
+2588,Iron Red Ale,33,4,43
+2589,Jasper Lyte,26,10,45
+2590,Plank Road Pale Ale,26,10,79
+2591,Amber Ale,33,10,42
+2592,Canadian Blonde Ale,61,3,9
+2593,Stump Sitter Stout,42,2,94
+2594,Peninsula Porter,25,12,69
+2595,Cleary Red,33,7,43
+2596,Wolverine Wheat Beer,50,5,27
+2597,Lichthaus Lager,95,0,72
+2598,Whitetail Ale,26,11,23
+2599,Moylannium Ale,54,11,52
+2600,Point Reyes Porter,25,1,26
+2602,Albion Amber Ale,38,3,4
+2604,Hefe Weiss,95,5,59
+2605,Kuronama,25,7,61
+2606,Kirkland Ale,26,12,48
+2607,Weizen,50,4,32
+2608,Hitachino Nest Beer,50,11,7
+2610,Catfish Cream Ale,95,9,90
+2611,Splitfinger Stout,42,1,91
+2612,Noch Einmal Dunkel,22,3,95
+2613,Kolsch,40,8,66
+2614,Abbaye de Floreffe Double,35,7,10
+2615,Redback Original Malt Wheat Beer,166,0,30
+2616,Dunkel,163,2,65
+2617,Busby Stout,42,9,6
+2619,Sweet Betty Classic Blonde Ale,115,0,44
+2620,Cream Ale,10,9,86
+2621,Highlander Stout,42,12,72
+2622,Beer Works Ale Golden,11,10,6
+2623,Flying Armadillo Porter,25,7,21
+2624,Golden Harvest Weizenbier,50,11,10
+2625,Premium Lager,161,11,88
+2626,Premium Lager,95,9,23
+2627,Regia Extra,95,4,21
+2628,Suprema,95,7,18
+2629,Happy Heron Pale Ale,26,1,88
+2630,Mud Puppy Porter,25,9,69
+2631,Oatmeal Stout,42,10,29
+2632,Rye,95,12,63
+2633,Old Scratch Barleywine 2000,45,10,86
+2634,Uber APA,26,7,75
+2635,Capital Weizen Doppelbock,55,7,20
+2636,Old 3rd Street XXX Belgian Strong Ale,85,8,73
+2637,Fighting Finches Bock,91,1,66
+2642,Kinmount Willie Stout,42,0,46
+2643,Kapuziner Gold,50,10,41
+2644,Worthington White Shield,92,7,44
+2645,Symposium Eisbock,90,8,85
+2647,Stillwater Stout,42,8,10
+2648,Honey Creek Pale Ale,26,2,8
+2649,Edelweiss Dunkel Weissbier,54,11,38
+2650,Pilsner of El Salvador,95,10,79
+2651,Premier,95,2,45
+2652,Eighty Shilling Export Ale,152,9,82
+2653,Vondel,162,9,6
+2654,Lager Beer,95,5,77
+2655,Schild Brau Amber,95,9,33
+2656,India Pale Ale,26,8,62
+2657,Refreshing Summer Ale,120,6,54
+2658,Old Izaak,165,12,54
+2659,Imperial Stout,42,12,29
+2660,Hefeweissbier Dunkel,17,0,27
+2661,Dunkles Hefe Weizen,115,12,50
+2662,Kristall Weizen,43,1,13
+2663,Big Ale,13,2,42
+2665,Flag Porter 1825 Original,25,0,28
+2666,Classic Special Brew,95,7,23
+2667,Norvig Ale,155,8,29
+2668,Millennium Ale,90,4,87
+2669,Premium Dark,154,11,62
+2670,Premium Lager,151,5,52
+2671,McLennium,92,10,53
+2672,Pale Ale,26,6,47
+2673,Oktoberfest,84,11,58
+2674,Hempen Ale,33,3,9
+2676,Sod Off,25,11,89
+2677,Hop Hearty IPA,31,10,48
+2678,Iron Range Amber Lager,95,9,45
+2679,Festive Ale 2000,26,3,68
+2680,Belgian Brown,82,7,53
+2681,Hefeweizen,50,10,68
+2682,Honey Lager,95,1,71
+2683,Saison,19,12,34
+2684,Double Enghien Bruin,43,5,39
+2685,Vlas Kop,56,0,64
+2686,Double Enghien Blonde Ale,72,0,73
+2687,Black Douglas,46,2,70
+2689,Fuerte,95,1,46
+2691,Hopfenstange Pils,112,5,66
+2692,Pewaukee Porter,25,7,8
+2693,Amber,33,10,0
+2694,Dock Light Golden Ale,41,1,75
+2695,Gold Ale,26,8,96
+2696,Pride of De Pere,65,4,98
+2697,Chesapeake Amber Ale,33,11,56
+2698,Barleywine,70,1,16
+2699,Big Bad Dog Old English Ale,13,5,65
+2700,River Back Jack IPA,31,1,93
+2701,Bourbon Barleywine,9,11,0
+2702,Mahogany Ale,26,9,18
+2703,Flying Horse Pale Ale,26,0,14
+2704,Wingdam Wheat,50,5,84
+2705,Pale,26,8,15
+2706,Red,33,5,15
+2708,Hops and Glory American Ale,26,10,73
+2709,Hopfenteufel Alt Bier,38,4,65
+2710,Saison,167,0,54
+2711,Lake Superior ESB,138,5,22
+2712,The Only Oat Malt Stout In The World,42,9,15
+2713,Pale Rider,26,9,15
+2714,Steenbrugge Tripel Blond,2,8,95
+2715,Blonde Ale,171,9,81
+2716,Original Lager,32,7,74
+2717,Korbinian,90,11,88
+2719,All Saints Belgian Golden Ale,93,12,70
+2720,Porter,25,11,26
+2721,Sara Buckwheat Ale,131,7,90
+2722,Samson Crystal Lager Beer,136,7,62
+2723,White,96,9,4
+2724,Raspberry,116,10,18
+2725,Belgian Wit,127,9,42
+2726,Groovy Beer,38,2,48
+2727,Beer,45,4,23
+2728,High Noon Wheat Beer,50,5,5
+2729,White Fathers Witbier,139,5,86
+2730,Bigfoot 1999,55,1,29
+2732,Mythical White Grand Cru,153,7,1
+2733,Wild Boar Wild Wheat,95,5,38
+2734,Beacon Barleywine,4,10,37
+2735,Surefire Stout,42,10,57
+2736,Moll Dubh Irish Ale,10,8,94
+2737,Nitro Pale,26,6,78
+2739,Very Special Pale Golden Ale,26,5,87
+2740,Golden Ale,26,6,100
+2742,Wallace,132,0,79
+2743,Alpha King Pale Ale,26,6,86
+2744,High Gravity Lager,95,12,71
+2745,Bornem Triple,72,5,35
+2746,Bornem Double,72,10,23
+2747,Bruegel Amber Ale,33,6,82
+2748,1888 Bock,90,1,96
+2749,Northwoods Lager,95,11,75
+2750,Pale Ale,26,4,80
+2751,Apple Bach,116,0,15
+2752,Star Big Muddy Brown,95,12,3
+2753,What the Gent on the Floor is Having 1997,176,3,33
+2754,Capital Wisconsin Amber,95,5,61
+2755,Hollandia,95,11,97
+2756,Original,39,11,71
+2757,Capital Munich Dark,7,4,69
+2758,Capital Special Pilsner,77,3,93
+2759,Maple Wheat,40,10,47
+2760,Pale Ale,26,1,1
+2761,Auburn Ale,33,9,56
+2762,London Pride,165,2,8
+2763,Framboise 1997,70,12,40
+2764,Ale,19,7,73
+2766,Hatuey Beer,95,8,53
+2767,Henley Ale,111,0,82
+2768,Original Oktoberfest,84,5,50
+2769,Jade,29,2,47
+2770,Autumn Ale,10,2,30
+2771,Chestnut Brown Ale,38,6,6
+2772,Affligem Dobbel,138,2,17
+2773,Genesee Cream Ale,95,1,41
+2784,Smokey the Beer,121,11,92
+2785,Snowshoe Ale,38,1,100
+2786,Special Amber Lager,95,1,51
+2787,Holland Beer,160,6,25
+2788,Samuel Adams Spring Ale,24,5,50
+2789,Special Beer,95,11,60
+2790,Alt Munich Dark,12,2,63
+2791,Lager Beer,95,1,50
+2792,Calumet Bock,90,2,1
+2793,Oderbolz Bock,90,5,54
+2794,Piper Down Scottish Ale,79,3,54
+2795,Peninsula Pirate Pilsner,149,8,76
+2796,Last Stop Stout,42,7,99
+2797,Rye I Oughta,95,6,78
+2798,Duggie Meyer Wee Heavy,15,1,35
+2799,Barleywine,145,12,58
+2800,Jack Stout,42,10,38
+2801,Porter,25,4,37
+2802,Dunkelweiss,21,0,90
+2804,Capital Dark Doppelbock,92,8,29
+2805,Old Kentucky Stout,42,7,19
+2806,Nocturn,13,2,87
+2807,Amber Ale,33,1,41
+2808,Weissenheimer Wheat,50,11,3
+2809,Porter,25,0,96
+2810,Transcendental Wheat Beer,95,3,21
+2811,Hinterland Packerland Pilsner,27,6,56
+2813,Irish Style Ale,152,4,84
+2814,Amber Rye Lager,95,11,100
+2815,Alt,38,6,36
+2816,Samuel Adams Coastal Wheat,50,0,3
+2817,Fuel Cafe,81,9,19
+2818,Dousman Street Wheat,50,3,55
+2819,Raspberry Pilsner,110,11,50
+2821,Railroad Street Porter,25,0,22
+2822,Nut Brown,38,11,35
+2823,Red Ale,33,2,76
+2824,Blonde,76,5,71
+2825,Amber,33,1,97
+2826,Czech Pilsner,17,3,54
+2827,Traditional Brackett,71,6,1
+2828,Firestarter Smoked Lager,68,12,58
+2830,Bohemian Pilsner,96,7,5
+2831,Amber,33,4,80
+2832,Wheat,95,3,47
+2833,Light,97,11,14
+2834,Singletrack Copper Ale,26,12,34
+2835,Weizen Bier,50,10,60
+2836,Broke Spoke Pilsner,45,4,4
+2837,London Porter,25,2,63
+2838,Shakedown Nut Brown,38,1,82
+2839,Bacchanal Blonde,26,9,12
+2840,Klisch,115,10,36
+2841,Blonde Ale,10,2,93
+2842,Freys Weizen,50,8,71
+2843,Anniversary Ale,116,2,66
+2844,IPA,31,7,43
+2845,Pumpkin Lager,31,8,21
+2846,Sheepshead Stout,42,12,84
+2847,Pull Chain Pail Ale,26,0,76
+2848,Downtown Lites Honey Ale,95,12,22
+2849,Session Ale,10,0,8
+2850,English Brown Ale,38,12,1
+2851,Pale Ale,26,3,34
+2852,Old World Oktoberfest,84,9,45
+2853,Amber,33,6,59
+2854,Bavarian Weiss Beer,50,12,26
+2855,Honey Lager Light,95,11,89
+2856,Pils,95,2,3
+2857,Main Street Brown Ale,38,9,25
+2858,Post Washington Octoberfest,84,12,28
+2859,Old Port Porter,25,4,39
+2860,Amber Ale,33,10,16
+2861,Pier 96 Lager,95,4,91
+2862,1916 Irish Stout,42,9,26
+2863,Solstice Wheat,50,11,73
+2866,Silver Cream,95,0,73
+2868,Steinworthy Oktoberfest,84,5,21
+2869,Rauch Ale,139,7,43
+2870,Staghorn Oktoberfest,84,5,48
+2871,Frozen Tundra,26,0,53
+2872,Duinen Tripel,79,6,66
+2873,Hefeweizen,50,4,42
+2874,Oktoberfest,84,10,16
+2875,Sesquicentennial Light Ale,77,7,44
+2876,Foxtoberfest,84,7,68
+2877,Fox River Golden Ale,108,4,53
+2878,Raspberry Ginger Mead,87,2,62
+2879,Abbot Pennings Trippel,127,0,65
+2880,Princess of Darkness Porter,25,7,8
+2881,Premium Pilsener,12,8,74
+2882,Lindener Spezial,151,2,81
+2883,Pilsener,56,5,98
+2884,IPA,31,10,96
+2885,IPA,31,1,22
+2886,Robertus,95,10,39
+2887,Lager,95,10,99
+2888,Columbus Bock,90,10,39
+2889,Columbus Pils,77,11,19
+2890,Lager,95,8,15
+2891,Traditional Welsh Ale,50,8,44
+2892,White Ale,4,11,31
+2893,New Century Beer,98,10,9
+2895,Schlafly Witbier,70,9,37
+2896,Bullseye Bitter ESB,80,1,87
+2897,Steamboat Oatmeal Stout,42,10,19
+2898,Iowa Pale Ale,26,12,38
+2899,Framboise,70,3,25
+2901,Bourbon County Stout,43,9,81
+2902,Lake Effect Stout,42,4,81
+2903,Alt,38,9,41
+2905,Dunkel,95,2,26
+2907,Wheat,50,11,36
+2908,Pilsner,62,5,56
+2909,Witbier,61,10,21
+2910,Raspberry,116,4,25
+2911,Peninsula Porter,25,4,13
+2912,Lighthouse Light,159,12,94
+2913,Door County Cherry Wheat,116,8,7
+2914,Bayside Blonde Ale,130,2,15
+2915,Lighthouse Amber Lager,95,3,92
+2916,Highway to Helles,41,5,30
+2917,Summer Wheat,95,4,66
+2918,Cherry Rail,116,2,81
+2919,Raspberry Beer,116,1,76
+2920,Poorter,79,8,38
+2922,Chapeau Tropical Lambic,70,0,58
+2924,Chapeau Fraises Lambic,70,10,69
+2925,Berkshire Springs Stock Ale,38,10,28
+2927,Barbary Coast Brand Gold Rush Style Beer,64,0,91
+2928,Chapeau Mirabelle Lambic,70,1,49
+2930,Chapeau Exotic Lambic,70,2,14
+2931,Wisconsin Belgian Red Brand,95,2,42
+2932,Bokrijks Kruikenbier,143,7,85
+2933,Piedmont Porter,25,7,4
+2934,Black Honey Ale,95,9,81
+2935,Castelain Blond Biere de Garde,135,12,26
+2936,Rock River Lager Beer,95,9,20
+2937,Blue Moon Abbey Ale,159,2,43
+2938,Cream Ale,95,1,6
+2939,Copper Kettle Weiss,50,4,39
+2940,Raspberry Ale,116,0,14
+2941,Drop Anchor Steam,168,6,73
+2942,Old Glory American Pale Ale,26,5,26
+2943,Black Wolf Ale,26,12,8
+2945,Crop Circle Wheat,50,12,60
+2946,Landmark Gold,26,5,77
+2947,Mad Badger Barley Wine,41,5,20
+2948,Pinckney Street Pale Ale,26,3,3
+2949,Raspy Raspberry Weiss,116,9,90
+2950,Triple Treat,65,8,63
+2951,Black Diamond Porter,25,9,72
+2952,Heartland Weiss,50,8,91
+2953,Badger Red Ale,33,4,16
+2954,Goldenshine,26,6,8
+2955,1798 Revolution,10,2,1
+2958,Hinterland Maple Bock,135,5,18
+2959,Norski Honey Bock,95,6,71
+2960,Black and Tan,95,5,51
+2961,Apple Ale,116,8,14
+2962,Bishops Finger Kentish Strong Ale,28,11,55
+2963,Hinterland Honey Wheat,95,2,11
+2964,Hinterland Pale Ale,26,7,80
+2965,Flaming Crane Chili Beer,117,5,20
+2966,Zoo Brew 25,26,12,71
+2967,Carhenge Wheat,90,4,94
+2968,Honey Ale,95,3,97
+2969,Zwickel,95,2,21
+2970,Golden Rail,172,5,75
+2972,Woody Creek White,67,6,45
+2973,Big Horn Total Disorder Porter,25,4,22
+2974,Big Horn Fort Collins Stout,42,9,26
+2975,Big Horn Big Red Ale,26,8,16
+2976,Big Horn Buttface Amber,33,5,40
+2977,Big Horn Wyoming Blonde,84,1,37
+2978,Big Horn Hefeweizen,50,10,26
+2979,Big Horn Bluesberry,116,6,74
+2980,Big Horn Light,95,0,57
+2981,Tundrabeary Ale,116,0,70
+2982,Black Powder Stout,42,2,70
+2983,Bottom Up Wit,67,4,74
+2985,Obliteration VI,32,0,4
+2986,Dragon Stout,42,12,55
+2987,Red Eye Lager,95,3,55
+2988,Wild West Beer,26,10,78
+2989,Doppelbock,90,1,24
+2990,Jack Whacker Wheat Ale,116,9,28
+2991,Grizzly Wulff Wheat,72,8,68
+2992,Wild Wyo Wheat,95,4,53
+2993,Dark,169,6,6
+2994,Oil Can Stout,42,12,1
+2995,Red Line Amber,33,7,48
+2996,Smoke Jump Stout,42,9,94
+2997,Firehouse Red,26,3,43
+2998,Brown Cow Ale,38,9,56
+2999,Barely Blond,151,6,48
+3000,Wilderness Wheat,95,0,52
+3001,Buffalo Stout,42,7,96
+3002,Ringneck Red Ale,33,5,47
+3003,Midnight Star Ale,26,6,85
+3004,Canary Wheat,50,11,99
+3005,Belgian Summer Ale,158,2,64
+3006,Black Hawk Stout,42,9,70
+3007,ESB,13,0,77
+3008,Pointer Brown Ale,38,0,91
+3009,Topping Pale Ale,26,2,56
+3010,Capital Raspberry Wheat,116,4,58
+3011,Vimalt Wheat,95,5,93
+3017,Schierlinger Roggen,95,1,7
+3018,Master Brew Bitter,175,5,36
+3019,Victory Ale,64,2,12
+3020,Spitfire Premium Kentish Strong Ale,148,4,86
+3021,Hinterland Amber Ale,33,10,23
+3022,Weisse,50,11,64
+3023,Classic American Pale Ale,26,6,27
+3024,Irish Stout,42,0,75
+3025,Hefeweizen,50,1,76
+3026,Irish Ale,10,5,18
+3027,Hinterland Pub Draught,26,1,37
+3028,Fort Edward Augustus 1770 Scottish Ale,148,2,47
+3030,Hopping Turtle Pale Ale,26,6,83
+3031,Railyard Ale,33,10,74
+3033,Old Broadway Cream Ale,95,6,67
+3034,Helles Honey Bock,90,2,28
+3035,Summer Alt,38,9,53
+3036,Dunkelweisse,156,7,7
+3037,Ribleymeister Light,95,11,67
+3038,Black Cobra Stout,42,11,23
+3039,Red Rocket Amber Ale,33,10,53
+3040,Flying Aces Ale,26,5,31
+3041,Golden Hawk Wheat Beer,95,2,85
+3042,Arkham Stout,42,3,19
+3043,Red Toad Amber Ale,33,5,18
+3044,Off The Rail Pale Ale,26,7,26
+3045,Wigged Pig Wheat,95,6,68
+3046,Bucktown Stout,42,11,9
+3047,Raging River Ale,151,7,80
+3048,Cherry Ale,116,6,72
+3049,Hefeweizen,50,0,98
+3050,Old Davenport Gold,26,3,44
+3051,Stonecutter Stout,42,4,65
+3052,Bandit IPA,31,7,53
+3053,Railyard Ale,38,1,35
+3054,Maibock,90,11,37
+3055,Vanilla Creme Ale,64,9,31
+3056,Barnstormer Pale Ale,26,6,60
+3057,Tallgrass Prairie Gold,143,0,46
+3058,Ramrod Special Bitter Ale,128,1,8
+3059,Ten Penny American Bitter,26,11,98
+3060,German Premium Dark,38,0,85
+3062,Goose Shit Ale,38,8,83
+3063,Alt,38,10,91
+3066,Stone Beer,16,10,24
+3067,Hex Nut Brown Ale,38,8,97
+3068,Red Raspberry,116,5,38
+3069,Spiced Porter,52,12,77
+3070,Nut Brown,38,11,0
+3071,Berliner Weisse,31,8,45
+3072,Railroad Stout,42,9,85
+3073,Doubledecker Doppelbock,90,5,94
+3075,Light,43,11,42
+3076,India Pale Ale,26,7,93
+3077,Red Fox Amber,33,3,36
+3078,Bullfrog Bitter ESB,54,6,70
+3079,Maibock,90,7,35
+3080,Whistle Stop Weiss Beer,50,10,78
+3081,Windy City Pilsner,77,6,30
+3082,Calumet Dark,25,0,32
+3083,Calumet Amber,33,2,44
+3084,Calumet Pils,162,11,12
+3086,Calumet Wheat,95,3,17
+3087,Honey Double Maibock,91,1,18
+3089,Old Foghorn 1998,174,4,33
+3090,Double Dark,99,11,88
+3091,Original Lager,84,1,59
+3092,Original,95,3,27
+3093,Old Style,95,0,40
+3094,Paddywhack IPA,31,5,35
+3095,Kriek,70,12,58
+3096,Badger Porter,25,5,46
+3097,Old Backus Barleywine 1997,35,2,46
+3098,Dempsey Stout,42,6,81
+3099,Berghoff Original Lager Beer,95,4,68
+3100,Berghoff Hefeweizen,50,9,71
+3101,Stout,42,5,0
+3102,Shiner Kosmos Reserve,95,7,34
+3104,Grand Cru,103,1,9
+3105,Dubbel Ale,149,6,0
+3106,Saint Arnold Brown Ale,38,12,74
+3107,Rainbow Red Ale,33,11,20
+3108,Skullsplitter Ale,15,9,74
+3109,Fraoch Heather Ale,100,5,18
+3110,Great Lakes Amber Ale,33,2,56
+3111,Balboa Cerveza Pilsner,95,4,13
+3112,Atlas Lager,95,6,26
+3113,Killer Beer Dark Honey Ale,25,10,44
+3114,Koff Special III,129,11,97
+3115,Schlitz,95,8,51
+3116,Hefe Weissbier,50,9,26
+3117,Kozel Premium,16,9,38
+3118,Golden Rose,38,11,98
+3119,Beer,95,5,18
+3120,Paddy Pale Ale,26,1,22
+3121,Old Speckled Hen,1,9,41
+3122,Capital Maibock,91,11,56
+3124,Port Clinton Porter,25,4,5
+3125,5 Malt Ale,33,1,95
+3126,Brown Ale,38,3,91
+3128,Pertotale Faro,63,6,57
+3129,Monk Brown Ale,149,2,74
+3130,Goudenband 1996,111,7,10
+3131,Blanche de Bruges,111,9,71
+3132,Brockton Black Lager,86,4,44
+3133,Traditional Ale,38,6,55
+3134,Premium Lager,95,12,30
+3135,Kings Pilsener,45,6,56
+3136,Locomotive Stout,42,7,83
+3137,Golden Pale,42,0,64
+3139,Dunkel Weizen,52,9,0
+3140,Extra Pale Ale,26,10,69
+3141,Chubby Brown,38,5,13
+3142,Prairie Path Golden Ale,98,0,29
+3143,Nut Brown,38,7,37
+3145,Black Forest Dunkelweizen,165,4,15
+3146,Red,33,7,76
+3148,Blacksmith Stout,42,7,38
+3149,Hidden River Red Ale,26,5,79
+3150,Heritage Wheat,95,12,73
+3151,Founders Light,26,12,74
+3152,Dark Satin,86,9,40
+3153,Palpitations Porter,25,6,2
+3155,Very Pale Ale,26,8,9
+3156,Weisen,50,7,7
+3157,Sweeney Stout,42,10,89
+3158,Aurora Amber Ale,26,2,80
+3159,Honey Wheat Ale,95,2,39
+3160,Golden Light,26,4,11
+3161,Payton Pilsner,100,4,12
+3162,Triple Nickel Irish Stout,42,1,13
+3163,Honey Brown Ale,38,1,66
+3164,Old Glory American Pale,26,5,52
+3165,Vanilla Creme Ale,124,8,71
+3166,Ale,26,8,16
+3167,Prairie Light,139,3,72
+3168,South Barrington Stout,42,6,55
+3169,Wheat Honey Ale,95,10,80
+3170,Dark Star,25,1,11
+3171,Panther Ale,26,0,41
+3172,Prairie Inn Pilsner,29,6,59
+3173,Country Ale,26,10,77
+3174,Harvest Amber Ale,33,7,11
+3175,Olde Orchard Ale,116,9,71
+3176,Bockbier,90,11,12
+3177,Eighty Shilling Ale,68,6,75
+3178,Prairie Wheat Beer,95,12,21
+3179,Main Street Raz,116,10,42
+3180,Scapegoat Doppelbock,90,4,25
+3181,Scapegoat Bock,90,12,75
+3183,Original Pils,79,12,61
+3184,Burton Porter,25,3,14
+3185,Saison 1900,166,10,48
+3186,Brandywine Valley Lager,108,12,54
+3187,Strong Brown Ale,13,12,65
+3188,Kilgubbin Irish Ale,33,8,38
+3189,Stockyard Stout,42,11,98
+3190,Prohibition Smokehouse Porter,95,5,71
+3191,Blacksmith Bitter Ale,170,10,15
+3192,Chicago Fire,26,12,32
+3193,Haymarket Pilsner,95,11,97
+3194,Magnificent Mild,10,12,62
+3195,Alt,38,10,9
+3196,Dublin Stout,42,0,64
+3197,Rye Stout,95,7,37
+3198,Porter,25,0,33
+3199,Geordie Brown Ale,38,5,64
+3200,Ruby Mild,10,11,26
+3201,Dusseldorfer Doppelbock,90,7,20
+3202,Dublin Stout,42,4,31
+3203,Amber Ale,33,9,59
+3204,Nut Brown Ale,38,7,40
+3205,ESB,58,12,81
+3207,Berliner Weisse,89,8,26
+3208,Pilsner,95,8,24
+3209,Wee Heavy,15,12,50
+3210,Bavarian Weiss,50,0,10
+3211,Kristall Weiss,128,8,43
+3212,Black Jack Stout,42,5,94
+3213,Eccentric Ale,38,3,49
+3214,Zig Zag Lager,70,11,2
+3215,Red Top Rye,95,1,36
+3217,Old Market Stout,42,2,10
+3218,Heartland Hefeweizen,50,8,52
+3219,Strong Scotch Ale,15,7,87
+3220,Raspberry Porter,63,0,60
+3221,Oatmeal Stout,42,11,21
+3222,India Pale Ale,26,12,60
+3223,Avalanche Amber,33,3,22
+3224,Mountain Wheat,95,6,60
+3225,Nut Brown Ale,38,8,34
+3226,Watermelon,25,9,77
+3227,1337 Pale Ale,61,12,77
+3228,Blackberry,116,6,100
+3229,Light,131,12,93
+3230,Hazelnut Stout,31,0,40
+3231,Sasquatch Stout,42,12,19
+3232,Blackbird Porter,25,10,59
+3233,Bubbaganoush Pale Ale,26,6,47
+3234,Agassiz Amber,33,9,57
+3235,Original Munich Premium Lager,50,0,96
+3236,Bock,90,11,70
+3237,Sly Fox Christmas Ale,141,5,23
+3238,Winterhook Robust Winter Ale 1993,174,6,66
+3239,Wee Heavy,15,10,78
+3240,Spiced Ale,131,12,35
+3241,Doppelbock,90,12,35
+3243,Blond Barleywine,98,0,18
+3244,Bombay by Boat IPA,31,6,81
+3245,ESB,135,2,62
+3246,Sir Francis Stout,42,10,90
+3248,Export,145,9,22
+3249,Wheat Hook,95,4,93
+3250,Pacific Porter,25,11,25
+3252,Bigfoot 1991,58,0,39
+3253,India Pale Ale,26,5,29
+3254,Imperial Stout,42,2,47
+3255,Horn of the Bear Barleywine,170,10,68
+3256,Our Special Ale 1992,121,3,96
+3257,Red Nose,113,0,41
+3258,Winter Solstice Seasonal Ale 1992,94,0,76
+3259,Hoppy Holidaze,112,9,15
+3260,Hammerhead Barleywine 1990,165,4,64
+3261,Celebration Ale 1992,26,12,70
+3262,Jolly Roger,36,10,75
+3263,Holiday Wheat Bock,90,7,8
+3264,Wintertime Ale 1992,38,9,13
+3265,Hibernator Winter Ale,160,5,89
+3266,Dunkel Hefeweizen,166,6,22
+3267,Hefeweizen,95,7,30
+3268,Pale Ale,26,8,53
+3269,Dark,25,3,14
+3270,Amber,33,11,39
+3271,Pale,26,5,43
+3272,Aviator Doppelbock,90,4,13
+3273,Honest Stout,42,7,61
+3274,Christmas Ale,23,1,85
+3275,Hornet Tail IPA,31,3,54
+3276,Magic Brew,38,2,45
+3277,Red Rock,33,3,76
+3278,Harvest Gold,41,5,33
+3279,Independence Ale,26,3,48
+3280,Klout,42,2,65
+3281,Klassic,26,12,51
+3282,Krystal,95,2,31
+3283,Stout,42,7,61
+3284,Storm Cellar Porter,25,7,0
+3285,Redwood Amber,33,8,58
+3286,Red Nectar,33,12,64
+3287,Gold Rush,26,8,100
+3288,Honey and Ginger Ale,55,4,16
+3289,Coal Porter,25,11,47
+3290,Gold Rush Ale,26,1,3
+3291,Wicked Springfest,91,6,35
+3292,Peaches and Cream,116,8,23
+3293,Special Export,95,3,13
+3295,Bock Dark,90,12,64
+3296,Wheat,95,8,1
+3297,Red Ale,33,4,13
+3298,American Pilsner,33,8,99
+3302,Beer,100,12,17
+3304,Extra Special Bitter Ale,77,2,33
+3305,Noche Buena Special Holiday Amber Beer,95,0,32
+3306,Moss Bay Extra,142,0,62
+3307,Brown Ale,38,6,23
+3308,Walnut Buffalo Gold Premium Ale,140,0,46
+3309,Tripppleberry Wheat,116,8,34
+3310,Bighorn IPA,31,12,86
+3311,Kickstart Oatmeal Stout,42,3,14
+3312,Beachballs Red Ale,38,7,39
+3313,Blonde Ale,68,1,62
+3314,34th Street Porter,25,8,55
+3315,Bourbon Street Stout,42,5,6
+3316,Irish Red,26,5,99
+3317,Summer Wheat,95,6,29
+3318,Double ZZ Raspberry Wheat,116,8,34
+3319,Voluptuous Blonde,154,11,92
+3320,VHB,26,7,96
+3321,Pale Ale,26,9,23
+3322,Hemp Ale,48,7,92
+3323,Barleywine,148,11,3
+3324,Auld Lang Syne,158,1,23
+3325,India Pale Ale,26,2,75
+3326,Prohibition Pale Ale,26,11,89
+3327,Stout of Circumstance,42,10,90
+3328,Cole Porter,25,11,94
+3329,Prescription Pale,26,5,3
+3330,Golden Bitter,1,4,5
+3332,Frambosia,116,3,38
+3333,Buffalo Nutty Brown,38,1,34
+3334,Celebration Red,33,3,53
+3335,Four Sheets Cream Ale,95,9,38
+3336,Amber Lager,95,11,47
+3337,Gray Whale,26,11,24
+3338,Bigfoot 1997,11,5,25
+3339,Holiday Scottish Strong Ale,15,1,21
+3340,Bigfoot 1996,175,11,31
+3341,Grozet Gooseberry and Wheat Ale,116,6,28
+3342,Cascadian Dark Ale,14,11,70
+3343,Edomae,8,8,96
+3344,Amber Ale,33,8,54
+3345,Drawbridge Blonde,135,6,60
+3346,India Ale,26,10,12
+3347,Kona Coffee Stout,42,9,97
+3348,Kuaipa,31,9,46
+3349,XXXXX Stout,42,8,44
+3350,Jubelale,141,9,72
+3351,Cross of Gold,37,4,62
+3352,Harvest Ale,26,4,65
+3353,East India Pale Ale,26,2,63
+3354,Jacobite Ale,10,6,94
+3355,Alba Scots Pine Ale,30,11,32
+3356,Wicked Winter Brew,121,6,63
+3357,Wassail Winter Ale,13,6,15
+3358,Oatmeal Stout,42,7,85
+3359,Our Special Ale 1997,113,8,98
+3360,Road Dog Ale,25,10,49
+3361,Jack Frost Winter Doppelbock,90,11,54
+3362,Doggie Style Ale,26,12,40
+3363,Frolic Shipwreck 1850 Ale,13,7,19
+3364,Rauchbier,19,9,69
+3365,Frambozen,70,3,69
+3366,Christmas Ale,38,1,67
+3367,Sweaty Betty Blonde,116,8,53
+3368,Gingerwheat,11,1,55
+3369,Grapefruit IPA,75,4,40
+3370,Pale Ale,26,0,32
+3371,Stealth Dark Ale,25,5,27
+3372,Red Eye Amber,33,11,78
+3374,Porter,25,9,74
+3375,Scotch,26,1,91
+3376,Rauchbier,16,1,54
+3377,Great White Beer,49,0,87
+3378,Beer,95,12,8
+3379,Eisbock,90,8,30
+3380,Kriek,116,0,70
+3381,Apple Ale,116,6,68
+3382,Weisse Beer,95,3,2
+3383,Saaz Pilsner,163,4,75
+3384,Premium Light,26,9,31
+3385,Best Bitter,134,5,37
+3386,Old Jack,13,1,16
+3387,Nut Brown Ale,38,6,52
+3388,Brown Ale,38,7,91
+3389,Saint Arnold Texas Weat,103,8,89
+3390,Amarossa,40,0,64
+3391,Amber,95,10,49
+3392,Pecan Street Lager,95,7,95
+3394,Scottish Ale,7,11,34
+3395,Buffalo Ale,33,2,95
+3396,Dunkel Weizen,153,11,57
+3397,Oktoberfest,84,11,98
+3398,Rodeo Red,26,11,70
+3399,Red Lager,95,1,36
+3400,Shawnee Amber Ale,33,0,86
+3401,Windmill Wheat Ale,50,3,45
+3402,Yellow Rose Cream Ale,95,7,68
+3403,Blueberry Blonde,116,7,20
+3404,Cask Scotch Ale,51,9,9
+3405,Icehaus Pale Ale,26,2,62
+3406,Oktoberfest,84,7,100
+3407,White Rock Red,33,9,54
+3408,Golden Wheat,95,5,96
+3409,Big Black Stout,42,6,28
+3410,Classic Pale,26,6,17
+3412,Brown,38,6,100
+3413,Oktoberfest,84,3,43
+3414,Light Ale,157,6,43
+3415,Bavarian Wheat,50,4,11
+3416,Pilsner,95,12,3
+3417,Rainbow Trout Stout,42,6,60
+3418,Vail Pale Ale,26,6,7
+3419,Dunkelweizen,40,0,11
+3420,Downtown Brown,38,2,55
+3421,Oktoberfest,84,11,36
+3422,Pegasus Pilsner,103,3,30
+3423,Ranger Red,33,1,20
+3424,Shiner Blonde,95,4,70
+3425,Honey Bock,90,3,3
+3426,Black Dog Yellowstone Ale,26,8,83
+3427,Samuel Adams Golden Pilsner,88,9,46
+3428,Hard Core Crisp Apple Cider,151,2,72
+3430,Classic Pale Ale,26,12,29
+3431,Rhubarb,116,11,19
+3432,Apricot,116,8,80
+3433,Hefeweizen,50,1,25
+3434,Northwest Pale Ale,26,2,62
+3435,Satin Stout,42,3,2
+3436,Bull Town Brown,38,2,63
+3437,Melon Head Red,33,7,7
+3438,Honey Wheat,95,3,33
+3439,Double Eagle Scotch Ale,12,2,99
+3440,Double Eagle Brown Ale,38,8,24
+3441,Double Eagle Golden Ale,26,4,93
+3442,Davie Poplar IPA,31,1,67
+3443,Blackwood Mountain Stout,42,7,95
+3444,Bitter,110,12,91
+3445,Iron Mine Pale Ale,26,6,56
+3446,Big Bertha Brown,38,5,93
+3447,IPA,31,5,94
+3448,Stout,42,1,79
+3449,Amber,33,1,9
+3450,Lager,95,8,31
+3451,Stout,42,1,85
+3452,Nut Brown Ale,38,11,80
+3453,Greenshields Pale Ale,26,5,52
+3454,Munich Summer Fest,84,10,22
+3455,Amber,33,10,24
+3456,Pilsner,47,12,67
+3457,Tornado Ale,26,2,99
+3458,Hoppy Claus Holiday Ale,141,7,97
+3459,Black Hawk Stout,42,5,52
+3460,Yuletide Porter,25,5,56
+3461,Total Eclipse Black Ale,42,1,87
+3462,Rosed Porter,25,2,76
+3463,Saranac Winter Wassail,141,0,19
+3464,Traditional ESB,61,4,86
+3465,Amber Ale,33,2,23
+3466,Golden Gate Copper Ale,33,2,38
+3467,Desperado Pale Ale,26,4,7
+3468,Sun Fest,95,5,51
+3469,Our Special Ale 1996,138,11,83
+3470,Best Bitter Ale,78,5,0
+3471,HighFalls Indiaman Trader India Pale Export Ale,26,7,5
+3472,Cask ESB,138,6,26
+3473,Golden Bear Lager,95,7,0
+3474,India Pale Ale,26,8,31
+3475,Pacific Ridge Pale Ale,26,0,20
+3476,Hefe Weizen,50,1,42
+3477,Blue Heron Pale Ale,26,4,92
+3478,Abbot Ale,50,8,53
+3479,Affligem Tripel,81,6,36
+3480,Liquid Sunshine Blonde Ale,37,8,95
+3481,High Rollers Wheat Beer,95,6,31
+3482,Red Tail Ale,26,5,3
+3483,Hoppy Face Amber Ale,31,8,61
+3484,Brown Bear Brown Ale,38,2,99
+3485,Raccoon Red Ale,33,8,12
+3486,Stillwater Stout,42,0,41
+3487,Boulder Creek Pale Ale,26,2,100
+3488,Pilsner,95,7,28
+3489,Faller Wheat,95,6,93
+3491,California Blonde Ale,127,3,31
+3492,Thompson Pale Ale,26,10,47
+3493,Kozlov Stout,42,12,19
+3494,Thirsty IPA,31,5,49
+3495,Meyer ESB,58,5,34
+3496,Brown Bear Ale,38,0,62
+3497,Polar Ale,95,9,47
+3498,Golden Vanilla Ale,157,0,56
+3499,Valencia Wheat,100,0,4
+3500,Fleishhacker Stout,42,8,71
+3502,Playland Pale Ale,26,5,24
+3503,Alexander Alt,38,5,54
+3504,Endless Summer Cream Ale,95,8,31
+3505,Snow Cap Ale,13,1,97
+3506,Thomas Kemper HefeWeizen,50,3,17
+3507,Oktoberfest,84,4,78
+3508,Amber Lager,95,12,70
+3509,Stout,42,9,58
+3510,Pale,26,0,21
+3511,Thomas Kemper Porter,25,12,47
+3512,ESB,3,0,67
+3513,HefeWeizen,95,1,63
+3514,IPA,31,5,15
+3515,Porter,25,3,85
+3516,Best Brown,38,12,38
+3517,DPA,26,6,78
+3518,Apricot Wheat,116,6,71
+3519,Summer Brau,95,4,79
+3520,Sun Fest,95,2,21
+3521,Thomas Kemper Belgian White,65,6,62
+3522,Wheaten Ale,95,9,42
+3523,Weizenberry,116,2,99
+3524,Honey Weizen,95,10,41
+3525,Nitro Stout,42,12,90
+3526,Baritone Red,33,10,100
+3527,4868 Dark Wheat,25,4,17
+3528,Copper Wheat,95,12,80
+3529,Summer Nectar Wheat Ale,41,5,37
+3530,Atta Boy IPA,31,1,53
+3531,Honey Wheat,95,7,76
+3532,Stout,42,2,44
+3533,Alt Bier,38,7,80
+3534,Pale Ale,26,8,21
+3535,Burton Pale Ale,117,5,17
+3536,Best Bitter,20,7,47
+3537,Hefe Weizen,50,12,72
+3538,Golden,26,0,49
+3540,Stout,42,3,45
+3541,Weizen,95,12,50
+3542,Hammerhead Red,26,11,93
+3544,Tilted Kilt Ale,15,2,81
+3545,Special Reserve Oatmeal Ale,26,4,33
+3546,Pau Hana Porter,25,10,79
+3547,Special Reserve Anniversary Porter,25,0,71
+3548,Royal Oak Pale Ale,53,5,74
+3549,AK Original Bitter,79,6,68
+3550,Golden Ale,26,0,89
+3552,Port Royal Export,95,4,57
+3553,Lone Star,95,12,29
+3554,Crno Pivo,75,2,31
+3555,Cabro Extra,95,8,90
+3556,Dry Pear Hard Cider,112,6,68
+3557,Brown Ale,38,8,35
+3558,Brooklyn Lager,58,9,71
+3559,Base Camp Golden Ale,37,0,61
+3561,Carta Blanca,95,4,99
+3562,Flying Horse Royal Lager Beer,95,1,13
+3563,Bumbucha Stout,42,2,66
+3565,Ehu Ale,38,12,47
+3566,Affligem Dubbel,60,1,38
+3567,Mort Subite Gueuze Lambic,70,4,9
+3568,Old Knucklehead 2000,103,7,61
+3569,Black Lava Lager,86,3,56
+3570,Red Sky Amber Lager,95,11,24
+3571,Paradise Pale Lager,16,2,94
+3572,Moonset Lager,95,4,18
+3573,Porteris,90,7,49
+3574,Luksusa,140,6,75
+3575,Zelta,143,10,49
+3576,Ice,95,12,44
+3577,Hefeweizen,50,11,57
+3578,Double Black Stout,42,3,100
+3579,Michelob Pale Ale,26,1,22
+3580,Singha Gold,21,8,79
+3581,Macadamia Nut Brown Ale,24,1,86
+3582,Amber Ale,33,2,59
+3583,Old Crustacean Barleywine 1996,56,6,4
+3584,IPA Pale Ale,31,10,87
+3585,Ironhorse Not Brown,38,9,15
+3586,Anchorage Ale,26,5,16
+3587,Mirrorpond Pale Ale,26,8,17
+3588,Porter,25,2,18
+3589,Stout,42,5,59
+3590,Big Kahuna Brown,38,3,53
+3591,Amber,33,12,1
+3592,Poi Dog Wheat,95,3,16
+3593,Hula Girl Pale Ale,107,10,24
+3594,Scotch brand Ale,15,6,82
+3595,Red Barrel,137,2,53
+3596,Macadamia Nut Brown,103,6,44
+3597,Acme California Brown Ale,38,1,50
+3598,Oktoberfest,84,7,12
+3599,No Doubt Stout,42,10,27
+3600,Red Ale,33,3,96
+3601,Dark Wheat,95,5,22
+3602,Samuel Adams Cranberry Lambic,70,3,30
+3603,Ace Pear Cider,132,2,15
+3604,Lilikoi Wheat Ale,116,10,86
+3605,Summer Wheat,95,12,90
+3606,Hula Berry,116,8,36
+3607,Paniolo Ale,33,8,69
+3608,Draft,95,12,5
+3609,Stout,42,5,11
+3610,Three Stooges Beer,95,4,22
+3611,Thyme of the Saison,147,3,17
+3612,The Lonely Guy India Pale Ale,26,4,6
+3613,Organic Porter,25,8,35
+3614,Copperhead Premium Ruby Lager,84,5,30
+3615,Beer,31,1,76
+3616,Storm Super Premium Malt Liquor,95,7,33
+3617,Old Australia Stout,42,0,31
+3619,Rye,95,5,13
+3620,Bohemian Pilsner,119,8,4
+3621,Snow Cap,13,3,50
+3622,Obsidian Stout,42,2,44
+3623,Blacksmith Porter,25,11,7
+3624,Cascade Golden Ale,26,8,56
+3625,Honey Weizen,95,8,26
+3626,Raspberry Weizen,116,6,57
+3627,Steam Lager,15,11,63
+3628,Lion Lev Export Lager Beer Double Bock,90,9,66
+3629,Bachelor ESB,5,8,3
+3630,Black Lion Lev Czech Premium Dark Beer,76,10,61
+3631,Black Jack Black and Tan,95,9,19
+3632,Barking Fish Porter,25,4,64
+3633,ESB,131,6,70
+3634,Route 66 Amber Ale,33,12,96
+3635,Bulldog Brown,38,0,21
+3636,Osage Golden Wheat Ale,95,1,65
+3637,Honey Blonde Light Pale Ale,152,6,94
+3638,Texas Special 101 Porter,25,0,8
+3639,Black Rock Bock,90,6,12
+3640,Buffalo Ale,26,6,98
+3641,Special Old Ale,13,2,95
+3642,Golden Ale,26,0,24
+3643,Famous Porter,25,6,82
+3644,Classic Stout,42,2,91
+3645,Amber Ale,33,5,74
+3646,Wheaten Ale,95,2,32
+3647,Tall Tale Pale Ale,26,4,97
+3648,Regatta Golden,92,3,87
+3649,Charles River Porter,25,5,97
+3650,Cambridge Amber,33,0,84
+3652,IPA,31,9,56
+3653,Hercules Stong Ale,4,1,49
+3654,Buckeye Oatmeal Stout,42,6,51
+3655,Boston Red,33,10,20
+3656,Oktoberfest,84,11,14
+3657,Pale Bock,90,10,70
+3658,Maibock,90,12,24
+3659,Porter,25,1,75
+3660,Amber,33,9,41
+3661,Independence Ale,26,12,68
+3662,Red Oak Ale,26,2,66
+3663,Sunset Red,33,10,93
+3664,Rudolf Red Barleywine,22,3,81
+3665,Over The Line Stout,42,6,86
+3666,Blonde,40,2,83
+3667,Crystal Pier Pale Ale,26,2,74
+3668,Sealane Steam,97,10,98
+3669,Red Roost Ale,33,10,12
+3670,Little Point Pale,26,8,25
+3671,Blitzen,53,8,13
+3672,Oktoberfest,84,8,72
+3673,Rodeo Red,26,5,0
+3674,Shawnee Amber Ale,26,12,91
+3675,Mesa Pale Ale,26,4,26
+3676,Christmas Ale,83,0,100
+3677,Red,33,4,91
+3678,Porter,25,5,10
+3679,Pale,26,9,90
+3680,Amber,33,7,20
+3681,Harvest Wheat,95,6,60
+3682,Twist of Fate Bitter,96,10,71
+3683,Spring Bock,90,9,6
+3684,Red Rooster,26,4,0
+3685,Yellow Rose Cream Ale,95,11,0
+3686,Golden Eagle,129,10,53
+3687,Windmill Wheat Ale,50,4,48
+3688,Bad Bear Brown,38,0,63
+3689,Peregrine Pale Ale,26,8,26
+3690,Lion Lev Export Lager,116,1,3
+3691,Hefe Weizen,95,11,72
+3692,Red Stripe Lager Beer,95,10,84
+3693,Ngoma Awooyo Special,91,6,51
+3694,Da Bier Altbier,38,11,14
+3696,Falcon Lagrad Gammelbrygd,13,12,53
+3697,Romakloster,71,8,6
+3699,Gold Nectar,26,0,71
+3700,Cass Fresh,95,12,4
+3701,Belgian Wit,148,6,23
+3702,German Pilsner,69,0,47
+3704,Red Jack,33,10,85
+3705,Athenian,143,10,74
+3706,Deep Enders Dark,25,2,68
+3707,Imported Black Stout Draft,86,9,90
+3708,Ace Fermented Honey Cider,140,11,19
+3709,Wintertime Ale,38,1,17
+3710,Hinano,95,1,96
+3711,Longshot Black Lager,21,10,42
+3712,Longshot Hazelnut Brown,44,11,87
+3713,Longshot American Pale Ale,26,12,76
+3714,Sunset Ale,26,8,4
+3715,Hart Espresso Stout,42,9,26
+3716,Amber Ale,33,7,73
+3717,Hefeweizen,95,4,6
+3718,Rainbow Trout Stout,42,0,73
+3719,Schlafly IPA,31,7,60
+3721,Avalanche Amber,33,11,38
+3722,Pale Ale,26,8,79
+3723,Weizen,95,3,86
+3724,Rat Beach Red Ale,33,10,7
+3725,Pier Pale Ale,26,9,6
+3726,Blonde,4,1,77
+3727,Maple Nut Brown,38,11,59
+3728,Porter,25,3,59
+3729,Oktoberfest Ale,84,12,84
+3730,Good Life Stout,42,8,20
+3731,Platte Valley ESB,84,1,74
+3732,Homestead Pale Ale,26,2,8
+3733,Sod House Altbier,38,1,72
+3735,Whooping Wheat,96,2,3
+3736,Overcast Ale,26,2,34
+3737,Bitter Amber,33,10,33
+3738,Beaver Tail Brown Ale,38,9,93
+3739,Mountain Wheat,95,6,51
+3740,Railyard Ale,84,10,93
+3744,Champions Clubhouse Classic,10,3,81
+3746,Evil Eye Ale,63,10,7
+3747,HopBack Amber Ale,33,5,91
+3748,Troegenator Double Bock,92,11,78
+3749,Dreamweaver,116,4,51
+3750,Dead Reckoning Porter,25,0,86
+3751,Oatmeal Stout,42,8,90
+3752,Bavarian Lager,95,0,76
+3753,ESB,5,12,92
+3756,Troegs Pale Ale,26,3,10
+3757,Nugget Nectar,33,7,85
+3758,The Mad Elf,38,12,16
+3759,Snake Dog IPA,31,5,18
+3760,Blackbird Oatmeal Stout,21,0,93
+3761,Trout Slayer,116,12,33
+3762,Moose Drool Brown Ale,25,8,0
+3763,Scape Goat Pale Ale,26,11,41
+3764,Powder Hound Winter Ale,13,5,2
+3765,Summer Honey Seasonal Ale,95,9,78
+3766,IPA,31,10,21
+3767,Totally Naked,95,6,20
+3769,Fat Squirrel Nut Brown Ale,38,9,36
+3770,Spotted Cow,33,12,24
+3771,Mad Hatter IPA,31,7,27
+3772,Black Tulip,61,7,20
+3773,Z Lager,95,1,69
+3775,Classic Pale Ale,26,8,42
+3777,Miller Chill,96,9,34
+3778,Miller High Life,96,11,88
+3779,Miller Genuine Draft,96,12,6
+3781,Icehouse,96,2,18
+3782,Milwaukees Best,96,4,41
+3783,Budweiser,96,10,86
+3784,Bud Light,96,7,15
+3785,Budweiser Select,96,9,0
+3786,Abbey Triple,61,4,27
+3787,Golden Monkey Tripel,61,9,59
+3788,Broad Street Barleywine,35,8,39
+3789,Water Gap Wheat,116,6,32
+3790,Mountain Lager,95,2,3
+3791,Volks Weizenbock,55,9,9
+3792,Purist Pale Ale,26,5,98
+3793,Jolly Scot Scottish Ale,15,3,83
+3794,Hoppy Trails India Pale Ale,31,12,97
+3795,Susquehanna Stout,42,4,90
+3796,Zoigl Star Lager,95,4,56
+3797,Abbey Roade Belgian Ale,72,0,52
+3798,Celtic Knot Irish Red,33,1,79
+3799,Peregrine Pilsner,77,3,10
+3800,Anniversary Maibock,91,6,52
+3801,Hinterland Hefe Weizen,50,10,34
+3803,Kipona Fest,84,11,98
+3804,Trail Blaze Organic Brown Ale,38,1,80
+3805,Pennypacker Porter,25,0,37
+3808,Coconut Porter,25,10,28
+3809,Wildflower Honey Wheat,116,0,70
+3810,Lucky Kat,31,6,0
+3811,Miller Lite,96,1,57
+3812,Yuengling Lager,95,1,5
+3813,Yuengling Lager Light,96,4,26
+3814,Yuengling Porter,25,9,38
+3815,Yuengling Black and Tan,73,0,35
+3816,Lord Chesterfield Ale,26,9,92
+3817,Yuengling Premium Beer,95,8,7
+3818,Yuengling Premium Light,96,6,71
+3819,Throwback Lager,95,5,7
+3820,Prima Pils,77,3,15
+3821,Victory Lager,95,0,7
+3823,Sunrise Weissbier,50,0,32
+3824,Whirlwind Wit,67,7,64
+3825,Festbier,84,9,67
+3826,Hop Wallop,32,11,100
+3827,Moonglow Weizenbock,55,12,33
+3828,Old Horizontal,35,5,67
+3830,Storm King Imperial Stout,43,5,0
+3832,Hop Devil India Pale Ale,31,8,68
+3833,Coors Original,96,3,31
+3834,Coors Light,96,0,99
+3835,Coors Extra Gold Lager,95,8,69
+3836,Molson Canadian,95,12,61
+3837,Harvest Moon Pumpkin,123,12,74
+3838,Zima Clear,31,9,83
+3839,Blue Moon Belgian White,67,3,85
+3841,Sunshine Pils,77,12,54
+3843,Apricot Wheat,116,12,36
+3844,Spruce Creek Lager,95,3,15
+3845,Spring Creek Lager,95,8,55
+3846,Red Mo Ale,26,10,81
+3848,Double D IPA,32,8,65
+3849,Black Mo Stout,42,4,4
+3850,Tripel Ale,61,10,68
+3851,Dubbel Ale,60,9,11
+3853,Labatt Blue,95,5,0
+3854,Labatt Ice,95,7,84
+3855,Labatt Blue Light,96,5,70
+3856,Labatt Bleue Dry,77,12,65
+3857,Labatt Crystal,95,0,90
+3858,Labatt Extra Dry,95,2,6
+3859,Labatt 50,26,1,44
+3860,Genuine Lager,95,3,64
+3861,Genuine Honey Lager,95,8,72
+3862,Labatt Wildcat,95,8,85
+3863,Labatt Sterling,96,8,92
+3864,Original White Ale,48,12,34
+3865,Penn Pilsner,77,3,92
+3866,Penn Gold,95,6,28
+3867,Penn Dark,76,7,16
+3868,Penn Weizen,50,2,81
+3869,Penn Marzen,98,5,95
+3870,PENNdemonium,90,10,32
+3871,Penn Oktoberfest,84,10,56
+3872,Augustiner,95,5,38
+3873,Straub,35,1,61
+3874,Straub Light,32,2,58
+3877,Scarlet Lady Ale,5,1,80
+3879,Amish Four Grain,26,11,12
+3880,Lancaster Strawberry Wheat,116,3,77
+3881,Lancaster Milk Stout,42,4,13
+3882,Hop Hog IPA,31,3,64
+3883,Pabst Blue Ribbon,96,4,34
+3884,Pabst Blue Ribbon Light,96,6,4
+3885,Old Milwaukee,95,6,98
+3886,Piels Draft,96,8,15
+3887,Piels Light,96,10,35
+3888,St Ides,172,5,41
+3889,Colt 45,66,12,95
+3890,IC Light,96,6,47
+3891,Rare Rooster Summer Rye Ale,26,5,70
+3892,Lancaster Winter Warmer,13,11,100
+3893,Spring Bock,95,1,67
+3894,Lancaster Oktoberfest,84,1,95
+3895,Doppel Bock,90,0,58
+3896,Lancaster Hefe Weizen,50,12,89
+3897,Gold Star Pilsner,77,12,84
+3898,Shark Attack Double Red Ale,33,5,66
+3899,Wipeout IPA,31,6,81
+3900,Amigo Lager,95,5,17
+3901,Hop 15 Ale,32,4,44
+3902,Old Viscosity,13,4,78
+3904,Wild Rice Lager,95,5,62
+3905,Pale Ale,26,4,31
+3906,Nut Brown Ale,38,9,38
+3907,Red Ale,33,10,49
+3908,Rye Porter,25,11,10
+3909,Brueghel Blonde,61,9,28
+3910,Citra,61,3,35
+3911,Toppy Header,60,10,35
+3912,Honey Amber Ale,37,10,97
+3914,Samuel Adams Boston Lager,95,11,11
+3915,Samuel Adams Double Bock,90,10,5
+3916,Samuel Adams Summer Ale,116,7,77
+3917,Samuel Adams Boston Ale,26,5,63
+3918,Samuel Adams Black Lager,86,10,3
+3919,Samuel Adams Winter Lager,90,7,6
+3920,Merry Monks,61,12,98
+3921,Winter Ale,141,5,33
+3922,AutumnFest,84,9,67
+3923,Black Hole,25,1,63
+3924,Blanche,67,2,90
+3925,Blasphemy,62,1,25
+3926,Blithering Idiot,35,6,38
+3927,Decadence,33,10,85
+3928,Oatmeal Stout,21,8,46
+3929,Double Simcoe IPA,32,7,69
+3930,Eleven,61,11,25
+3931,Heresy,43,8,66
+3932,Hops Infusion,31,9,9
+3933,House Ale,33,11,38
+3934,Imperial Pumpkin Ale,123,9,75
+3935,Insanity,35,7,47
+3936,Muse Farmhouse Ale,74,6,12
+3937,Old Heathen,43,8,0
+3938,Prophecy,61,7,100
+3939,Quad,62,1,88
+3940,Raspberry Imperial Stout,43,2,80
+3941,Twelve,35,7,41
+3942,Samuel Adams OctoberFest,84,11,32
+3943,Samuel Adams Scotch Ale,15,11,99
+3944,Garde Dog,63,6,33
+3945,Rising Moon Spring Ale,33,5,68
+3946,Natural Ice,96,12,10
+3947,Natural Light,96,9,43
+3948,Harp Lager,95,12,39
+3949,HIPA,31,4,18
+3950,120 Minute IPA,32,6,10
+3951,90 Minute IPA,32,0,43
+3952,60 Minute IPA,31,10,26
+3953,Imperial Espresso Porter,25,5,11
+3954,Duchesse de Bourgogne,5,0,86
+3955,Farmhouse Summer Ale,72,2,69
+3956,HopFish IPA,31,6,95
+3957,Belgian Abbey Dubbel,60,11,61
+3958,ESB Ale,4,9,66
+3959,Extra Pale Ale,26,12,77
+3960,OktoberFish,84,10,50
+3961,Grand Cru Winter Reserve,72,12,8
+3962,Scotch Ale,15,10,84
+3964,Nut Brown Ale,38,7,10
+3965,Kenziger,26,6,43
+3966,Newbold IPA,31,6,79
+3967,Rowhouse Red,74,10,49
+3968,Walt Wit,67,1,84
+3969,Samuel Adams Pale Ale,26,2,68
+3970,Full Moon Belgian White Ale,67,9,99
+3971,Baltic Thunder,42,3,82
+3972,UpRiver Lager,96,5,2
+3973,Skyline Stout,14,12,5
+3974,Scorpion Amber Ale,33,7,0
+3975,Dry Heat Hefeweizen,50,10,28
+3976,Wild Blue Blueberry Lager,70,5,21
+3977,Shock Top,67,10,73
+3978,South Park Blonde,37,1,38
+3979,Bitter American,4,2,48
+3980,Watermelon Wheat,70,1,19
+3981,Amendment Pale Ale,26,8,33
+3982,Potrero ESB,4,6,48
+3983,North Star Red,33,0,92
+3985,21A IPA,31,2,66
+3986,Oyster Point Oyster Stout,42,9,34
+3987,563 Stout,42,6,40
+3988,Double Trouble IPA,32,1,45
+3989,Below Decks,35,5,0
+3990,Hang Ten,55,3,30
+3991,Holy Sheet,72,11,8
+3992,Loose Cannon Hop3 Ale,31,3,47
+3993,Peg Leg Stout,43,0,47
+3994,Red Sky at Night,74,0,2
+3995,Small Craft Warning,77,5,75
+3996,Winter Storm,5,8,25
+3998,Bock Beer,90,4,38
+3999,Genuine Pilsner,77,3,28
+4000,Gull Classic,95,8,19
+4001,Gonzo Imperial Porter,25,3,73
+4002,Old Scratch Lager,33,7,9
+4003,Broadside Ale,5,10,51
+4004,Adnams Explorer,3,9,8
+4006,Nut Brown Ale,38,3,74
+4007,Adnams Fisherman,33,9,14
+4008,Adnams Tally Ho,35,10,81
+4009,Oude Geuze,70,9,3
+4010,Stella Artois,95,7,26
+4011,Rolling Rock,96,2,53
+4012,Midas Touch Golden Elixir,91,7,63
+4013,Indian Brown Ale,38,11,75
+4014,Shelter Pale Ale,26,12,48
+4015,Chicory Stout,42,10,17
+4016,Ipswich IPA,31,6,15
+4017,Ipswich Original Ale,26,4,8
+4018,Ipswich Oatmeal Stout,21,8,5
+4019,Ipswich Dark Ale,38,4,44
+4020,Ipswich Nut Brown,38,0,66
+4021,Ipswich Porter,25,10,7
+4022,Ipswich Summer,37,8,56
+4023,Ipswich Harvest,33,11,9
+4024,Ipswich Winter,13,5,90
+4025,1084 Barleywine,35,1,41
+4026,Gold Coast Blonde Ale,37,4,12
+4027,Firehouse ESB,5,0,28
+4029,American Wheat,116,12,22
+4030,Dundee Scotch Ale,15,4,51
+4032,Capitol Premium Pale Ale,26,0,58
+4033,India Pale Ale,31,9,30
+4034,Blackstone Stout,42,7,26
+4035,1000 Barley Wine,45,9,15
+4036,Railyard Ale,26,12,87
+4037,Irish Red,157,12,82
+4039,Southern Tier IPA,31,11,5
+4040,Double Dog Double Pale Ale,32,4,77
+4041,Blind Pig IPA,31,1,98
+4042,Imperial March,26,0,36
+4043,Don De Dieu,61,7,19
+4044,Maudite,66,5,4
+4045,Trois Pistoles,29,0,75
+4046,Celtic Rose,22,5,92
+4048,Samuel Adams White Ale,67,4,11
+4049,Sam Adams Light,96,0,83
+4050,Samuel Adams Old Fezziwig Ale,35,5,58
+4051,Samuel Adams Holiday Porter,25,10,2
+4052,Samuel Adams Cherry Wheat,10,12,63
+4053,8th Street Ale,4,0,37
+4056,Hefeweizen,50,2,33
+4057,Hop Knot IPA,31,12,20
+4059,The Raj India Pale Ale,31,2,57
+4060,Oatmeal Stout,21,9,93
+4061,Arizona Peach,70,2,27
+4062,Abbey Normal Ale,72,1,88
+4064,Alt Ball and Chain,57,0,26
+4066,Belgian Wit,67,8,7
+4067,Blind Date Ale,52,7,59
+4068,Black Betty Schwartzbier,86,7,69
+4070,Raspberry Porter,25,10,82
+4071,Raspberry Wheat,116,1,66
+4074,Samuel Adams Cream Stout,42,5,98
+4075,Samuel Adams Hefeweizen,50,7,66
+4076,Samuel Adams Brown Ale,38,3,6
+4077,Samuel Adams Honey Porter,25,10,26
+4078,Samuel Adams Irish Red,22,9,64
+4079,Alaskan Amber,13,10,83
+4080,Alaskan Pale,37,3,88
+4081,Alaskan Stout,21,8,93
+4082,Alaskan ESB,5,7,50
+4083,Alaskan IPA,31,2,11
+4084,Alaskan Smoked Porter,25,10,96
+4085,Winter Ale,141,0,86
+4086,Alaskan Summer Ale,48,11,45
+4087,Alaskan Barley Wine Ale,35,3,58
+4088,Breakup Bock,90,10,0
+4089,Old 55 Pale Ale,26,11,7
+4090,Kodiak Brown Nut Brown Ale,38,5,61
+4091,Arctic Rhino Coffee Porter,25,0,100
+4092,Sockeye Red IPA,31,9,12
+4093,Panty Peeler Tripel,61,8,92
+4094,La Maitresse du Moine,29,7,89
+4095,Arctic Devil Barley Wine,18,10,72
+4096,CoHoHo Imperial IPA,32,7,27
+4097,Meltdown Double IPA,32,5,63
+4098,Old Whiskers,50,7,86
+4099,Fur Rondy,141,11,47
+4100,Fallen Angel,65,2,22
+4101,Conspiracy,29,10,62
+4102,Obliteration III,32,10,56
+4103,Colonel Paris Pale Ale,26,3,99
+4104,Scotch Ale,15,9,19
+4105,Pig Pen Pilsener,77,1,100
+4107,Steelgaarden Wit,67,2,25
+4108,Hop Explosion,31,11,13
+4109,Pawn Shop Porter,25,11,54
+4110,Apricot Ale,116,5,9
+4111,Pumpkin Ale,123,6,8
+4115,Arc Weld Alt,57,7,66
+4116,Billtown Blonde,99,1,97
+4117,Fast Eddies Pale Ale,26,6,87
+4118,Susquehanna Oatmeal Stout,21,9,46
+4120,Inspiration Red,33,8,45
+4121,Smoked Porter,25,7,61
+4122,Hands Off Maibock,91,3,95
+4124,Headbangerz Brown Ale,38,3,20
+4125,Weldspatter IPA,31,9,53
+4126,Square Feet Wheat,41,8,20
+4127,Oberon Ale,116,11,29
+4128,Porter,25,10,94
+4129,Lager Beer,95,8,28
+4130,Third Coast Old Ale,13,4,70
+4131,Third Coast Beer,37,0,50
+4132,Pale Ale,26,11,76
+4133,Two Hearted Ale,31,6,22
+4134,Kalamazoo Stout,20,0,20
+4135,Winter White Ale,67,11,40
+4136,Amber Ale,33,2,2
+4137,Best Brown Ale,38,3,75
+4139,Consecrator Doppelbock Beer,92,6,67
+4140,Special Double Cream Stout,20,11,89
+4141,Expedition Stout,43,6,40
+4142,Hell Hath No Fury Ale,29,12,33
+4143,Hopslam Ale,32,7,53
+4144,Java Stout,43,9,30
+4145,Octoberfest Beer,84,7,90
+4146,Batch 8000,67,12,90
+4147,Batch 7000,43,8,72
+4149,Liberty White Ale,67,5,99
+4150,Capitol Kolsch,8,10,90
+4151,Amber Waves,33,7,54
+4152,Irish Red Ale,22,4,52
+4153,Kerberos,61,1,54
+4154,Circus Boy,50,9,96
+4155,Odd Notion Winter 07,3,12,88
+4156,Odd Notion Spring 08,22,12,33
+4157,Odd Notion Summer 08,172,1,59
+4158,Single Chair Ale,26,2,76
+4159,Roxy Rolles,33,11,35
+4160,Jinx,15,6,37
+4161,Feast of Fools,121,0,32
+4162,Chaotic Chemistry,35,7,99
+4163,Braggot,98,3,88
+4164,Thumbsucker,43,10,58
+4165,Yards Saison,74,1,81
+4166,General Washington Tavern Porter,25,4,30
+4167,Samuel Adams Hallertau Imperial Pilsner,91,5,23
+4168,Westmalle Trappist Dubbel,55,1,32
+4169,Acme California Pale Ale,26,1,0
+4170,Scrimshaw Pilsner Style Beer,77,9,48
+4172,Dead Guy Ale,91,1,81
+4173,American Amber Ale,33,12,67
+4174,Artisan Lager,95,7,71
+4175,Brutal Bitter,5,5,13
+4176,Charlie 1981,163,3,84
+4177,Chipotle Ale,114,3,10
+4178,Chocolate Stout,42,12,40
+4179,Hazelnut Brown Nectar,38,3,31
+4180,Honey Cream Ale,113,6,69
+4182,Juniper Pale Ale,126,4,9
+4185,Mogul Ale,10,4,66
+4186,Monk Madness Ale,38,7,84
+4187,Morimoto Black Obi Soba Ale,121,9,48
+4188,Morimoto Imperial Pilsner,107,12,64
+4189,Old Crustacean Barleywine 2004,35,3,45
+4190,Morimoto Soba Ale,121,5,62
+4191,Oregon Golden Ale,37,5,2
+4192,Santas Private Reserve,33,9,88
+4193,Shakespeare Stout,42,12,78
+4194,Red Fox,33,12,34
+4195,Roughstock Ale,26,11,72
+4196,Ten Thousand Brew Ale,32,12,5
+4197,XS Imperial Stout,42,4,72
+4199,Issaquah Bullfrog Ale,116,11,48
+4200,Chamomellow,26,2,43
+4202,Frosty Frog,141,4,92
+4203,Golden Frog,72,7,51
+4204,Honey Orange Wheat,116,9,73
+4205,Hoppy Frog,31,12,89
+4206,Imperial Red,33,4,90
+4207,Jittery Frog,3,12,63
+4208,Kells Irish Style Lager,95,10,90
+4209,Menage Frog,61,11,55
+4210,Rogue Smoke,128,0,6
+4211,Tracktown IPA,31,5,39
+4212,Trafalgar IPA,31,11,11
+4213,Youngers Special Bitter,5,9,21
+4214,Dark Mild,10,12,56
+4215,Irish Stout,42,4,47
+4216,Airship Light,37,11,58
+4217,Hoppus Maximus,33,7,73
+4218,Siberian Night Imperial Stout,43,9,32
+4219,Old Leghumper Porter,25,12,4
+4220,Rasberry Ale,121,8,62
+4221,Twisted Kilt Scotch Ale,15,6,9
+4222,Cerberus 10 Dog Ale,61,10,16
+4223,Orthus Belgian Dubbel,60,2,100
+4224,Labrador Lager,95,10,89
+4225,Stud Service Stout,42,5,23
+4226,Maibark,91,0,64
+4227,Barktoberfest,84,8,45
+4228,Spiced Pumpkin Ale,123,12,78
+4229,12 Dogs Christmas Ale,172,11,89
+4231,Fat Tire Amber Ale,33,3,67
+4233,Upland Wheat Ale,116,12,40
+4235,Balashi,77,2,100
+4237,Pale Ale,26,10,15
+4238,Avenue Ale,26,8,77
+4239,Copper Head Ale,33,12,56
+4241,Aecht Schlenkerla Rauchbier Urbock,90,8,68
+4242,Grolsch Amber Ale,57,6,92
+4243,Grolsch Premium Weizen,116,5,88
+4244,Grolsch Dunkel Weizen,116,6,46
+4245,Grolsch Pilsner Speciale,77,8,66
+4246,Grolsch Premium Pilsner,77,11,27
+4247,Sneck Lifter,29,9,96
+4250,La Trappe Dubbel,60,5,91
+4251,Rodenbach,40,3,62
+4252,Grand Cru,67,0,55
+4253,Leffe Blonde,37,7,64
+4254,Newcastle Brown Ale,38,8,73
+4255,Abbey Dubbel,60,1,33
+4256,Domaine DuPage French Country Ale,74,8,74
+4257,The Bitter End Pale Ale,26,0,12
+4258,Maximus Ale,31,7,97
+4259,Bar Harbor Real Ale,34,1,4
+4260,Honey Brown,95,11,28
+4261,Apricot Weizen Ale,50,0,80
+4264,Tecate,95,8,93
+4265,Corona Extra,95,0,8
+4266,Club Colombia,121,8,66
+4268,Boulevard Unfiltered Wheat,116,9,20
+4269,Bison Chocolate Stout,138,11,39
+4270,Porter,25,7,42
+4271,Sierra Nevada Pale Ale,26,12,20
+4272,Unfiltered Wheat Beer,116,4,25
+4273,Stout,42,2,54
+4275,Summerfest,77,11,82
+4276,Anniversary Ale 2007,31,4,9
+4277,Celebration Ale,31,8,96
+4278,Bigfoot,35,4,25
+4281,Sharkbite Red,33,9,94
+4282,Allagash White,67,4,38
+4283,Pils Legende,77,8,26
+4284,Burton Baton,26,12,77
+4285,World Wide Stout,88,9,43
+4286,Black Chocolate Stout,42,2,57
+4288,Pilsener Bier,77,8,49
+4289,Caldera IPA,31,0,53
+4290,Dry Hop Orange,151,6,74
+4291,Ashland Amber,33,1,50
+4292,Dry Hop Red,129,4,91
+4293,Pilot Rock Porter,25,4,76
+4294,Dark Lager,95,5,34
+4295,Pale Ale,26,2,24
+4296,Cerveza Sol,95,6,61
+4297,Purple Haze,116,11,99
+4298,Great Northern Porter,25,2,92
+4299,Red Oak Amber Lager,95,10,61
+4300,Battlefield Bock,90,9,60
+4301,Hummin Bird,96,5,65
+4302,Eisenbahn Weizenbock,55,7,4
+4303,Dreher Classic,77,9,71
+4304,Soproni,77,10,65
+4305,Borsodi,77,7,34
+4306,Celebrator,92,8,96
+4307,Dos Equis Amber Lager,95,6,68
+4308,Dos Equis Special Lager,95,11,78
+4309,Iron City,95,10,94
+4310,Optimator,92,5,55
+4311,Pilsner Urquell,77,4,98
+4312,Widmer Hefeweizen,50,11,12
+4313,Broken Halo IPA,31,4,6
+4314,Drop Top Amber Ale,33,4,36
+4315,Grasshopper,116,9,16
+4317,Vetter 33,116,7,28
+4319,Cumberland Pale Ale,26,8,75
+4320,RedLegg Ale,33,10,69
+4321,Star Beer,156,1,29
+4322,Wachusetts IPA,31,4,66
+4323,Narragansett Lager,95,8,16
+4325,Gordon Biersch Marzen,120,4,48
+4326,Duvel,72,5,53
+4327,San Miguel 1516,29,5,85
+4328,Arrogant Bastard Ale,26,12,63
+4329,Maredsous 10 Tripple,72,8,86
+4332,Guinness Extra Stout,42,0,62
+4337,Keystone Light,96,5,94
+4338,Eye of the Hawk,13,9,35
+4339,Heineken,95,3,48
+4340,Duchy Originals Organic English Ale,5,6,12
+4341,Gordon Biersch Schwarzbier,86,3,54
+4342,Gordon Biersch Czech Lager,77,0,55
+4343,Gordon Biersch Hefeweizen,50,0,89
+4344,Skopsko,95,11,54
+4345,Copper Ale,38,11,94
+4346,Oktoberfest,84,2,23
+4347,Barney Flats Oatmeal Stout,42,3,26
+4348,Pale Ale,33,5,81
+4349,Stovepipe Porter,25,10,98
+4350,White Sail,67,12,60
+4351,Vermont Lager,95,3,13
+4352,Long Trail Ale,57,4,97
+4353,Traditional IPA,31,5,51
+4354,Double Bag Ale,60,12,61
+4355,Long Trail Hefeweizen,50,8,36
+4356,Harvest,38,7,21
+4357,Hibernator,15,11,80
+4358,Blackbeary Wheat,116,3,20
+4359,Steamwhistle Lager,95,0,32
+4360,Belgian White,67,8,33
+4361,La Fin Du Monde,61,0,45
+4362,Lone Star Light,96,3,11
+4363,Commodore Perry IPA,31,10,72
+4364,Dortmunder Gold,14,12,84
+4365,Edmund Fitzgerald Porter,25,2,63
+4366,Eliot Ness Amber Lager,95,4,79
+4367,Burning River Pale Ale,26,12,82
+4368,Holy Moses,72,1,56
+4369,Christmas Ale,65,3,73
+4370,Ohio City Oatmeal Stout,42,10,9
+4371,Negra Modelo,95,11,41
+4372,Birra Moretti La Rossa,90,6,33
+4373,Stockyard Oatmeal Stout,21,12,76
+4374,Lone Star,95,7,99
+4375,Thomas Hooker Irish Red Ale,22,10,39
+4376,Bud Extra,130,11,39
+4377,Bud Dry,96,2,90
+4378,Warsteiner Premium Verum,77,12,1
+4379,Bud Light Lime,96,11,6
+4380,Warsteiner Premium Dunkel,118,10,85
+4381,Bare Knuckle Stout,42,9,83
+4382,Caguama,77,9,63
+4383,Bud Ice,95,2,8
+4384,Bud Ice Light,95,3,55
+4385,Michelob Amber Bock,95,9,16
+4386,Michelob Ultra Amber,95,9,13
+4387,Michelob Beer,95,3,0
+4390,Michelob Light,96,0,58
+4391,Michelob Golden Pilsner,77,0,7
+4392,Michelob Honey Lager,95,8,3
+4393,Michelob Ultra,95,0,47
+4394,Redhook Long Hammer IPA,31,7,33
+4395,Gulden Draak,73,10,11
+4396,Asahi Super Dry,95,10,92
+4397,Anchor Steam,19,4,70
+4398,Goldstar,144,12,52
+4399,stella,68,10,15
+4400,Kasteel Blonde,37,7,17
+4401,Schlafly Barleywine,35,11,0
+4403,Hobgoblin,29,8,42
+4405,SuperBock,90,0,42
+4406,Toasted Lager,95,0,40
+4407,Goose Island IPA,31,11,47
+4409,Schlappeseppl Export,95,3,70
+4410,Waldo attempt,92,8,31
+4412,Rockslide IPA,31,2,97
+4413,420 Extra Pale Ale,26,3,59
+4414,Riverwest Stein Beer,95,6,73
+4415,Kennebunkport IPA,31,0,8
+4416,Abita Jockamo IPA,31,3,80
+4417,Bass Pale Ale,1,12,47
+4418,Three Philosophers,62,6,71
+4419,Harpoon IPA,31,6,95
+4420,Harpoon UFO Hefeweizen,50,2,22
+4421,Harpoon Ale,26,1,32
+4422,Hoegaarden,116,3,88
+4423,Stone 11th Anniversery Ale,29,6,70
+4424,Gumballhead,116,8,30
+4427,Primo,95,9,16
+4428,Anchor Summer Beer,116,12,36
+4429,Double Chocolate Stout,20,1,2
+4430,Blue Bell Bitter,4,9,16
+4431,Staggering Elk,95,10,41
+4432,Lions Gate Lager,95,2,48
+4433,Cascadia Cream Ale,95,1,52
+4434,Signature Pale Ale,33,12,82
+4435,Nirvana Nut Brown Ale,92,0,16
+4436,Empress India Pale Ale,32,2,26
+4437,Heroica Oatmeal Stout,21,12,38
+4438,Pilsner,77,9,1
+4439,Skinny Tire Hefeweizen,50,3,10
+4440,Coal Porter,25,9,7
+4441,The Great Pumpkin Ale,123,9,2
+4442,Sour Cherry Ale,121,0,62
+4443,Ipanema Summer White,67,3,53
+4444,Frambozen,121,11,62
+4445,Blitzen Christmas Ale,121,4,49
+4447,Black Plague Stout,42,1,64
+4448,Highland Scottish Ale,15,0,80
+4449,Precipitation Pilsner,77,4,13
+4450,Fruit Lambics,121,12,30
+4451,Fat Dog Stout,21,3,91
+4453,Blanche de Chambly,67,11,37
+4455,Seigneuriale,33,5,21
+4456,Chambly Noire,29,10,21
+4457,Dos Perros,29,3,67
+4458,Sly Rye Porter,25,5,47
+4459,Pale Ale,26,1,41
+4460,Onward Stout,42,10,71
+4461,ESB,5,5,4
+4462,Hefeweizen,50,0,57
+4463,Gaelic Ale,33,7,47
+4464,Oatmeal Porter,25,7,78
+4466,Kashmir IPA,31,8,63
+4467,Black Mocha Stout,42,2,63
+4468,Cold Mountain Winter Ale,141,10,12
+4469,Salvator,92,9,81
+4470,Paulaner Oktoberfest,84,12,56
+4471,Hefeweizen,50,5,47
+4472,Cappuccino Stout,42,12,4
+4473,Guinness Draught,42,2,57
+4474,Cocoa Loco,43,4,69
+4475,Fall Fest,84,12,19
+4476,Strawberry Harvest Lager,121,3,55
+4477,Lucky 13 Anniversary Release,22,2,22
+4478,Blackberry Ale,26,1,56
+4479,Oil Change Oatmeal Stout,21,3,75
+4480,Hell,95,3,80
+4481,Boont Amber Ale,33,11,80
+4482,Hop Ottin IPA,31,7,49
+4483,Woodchuck Granny Smith Varietal Draft Cider,121,7,21
+4484,Woodchuck Amber Draft Cider,121,6,32
+4485,Delirium Tremens,65,8,12
+4486,Delirium Nocturnum,66,12,52
+4487,Palo Santo Marron,38,1,85
+4488,Shiner Bock,95,8,73
+4489,Misfit Red,33,5,47
+4490,Hellrazer,31,8,15
+4491,Bad Moon Porter,25,12,27
+4492,Blackout,86,4,62
+4493,Snake Oil,165,1,0
+4494,Venom,26,10,88
+4495,Ozzy,72,7,29
+4496,Resurrection,60,0,34
+4497,Proletary,130,12,53
+4498,Damnation,72,10,48
+4499,Pliny the Elder,32,6,18
+4500,Pliny the Younger,32,1,63
+4501,OVL Stout,132,0,67
+4502,Aud Blonde,37,8,45
+4503,Oliver ESB,5,5,95
+4504,Oliver Irish Red,22,5,14
+4505,Oliver Pagan Porter,25,12,41
+4506,Thunderhead IPA,31,6,54
+4507,Strongbow Cider,121,11,95
+4508,Summer Solstice Cerveza Crema,113,7,78
+4509,IPA,31,1,8
+4510,Imperial Eclipse Stout,43,9,12
+4511,Blue,121,2,17
+4512,Georgia Brown,38,4,87
+4513,Hummer,67,1,89
+4514,Ziegenbock Amber,90,3,27
+4515,Maharaja,3,9,31
+4516,Reverend,5,10,74
+4518,Erdinger Weizen,116,8,4
+4521,Orlio Seasonal India Pale Ale,31,0,85
+4522,Orlio Common Ale,78,1,39
+4523,Orlio Seasonal Black Lager,86,7,1
+4524,Woodchuck Dark and Dry Draft Cider,121,1,90
+4525,Cider Jack,121,3,70
+4526,Creamation Ale,113,0,84
+4529,Station 33 Firehouse Red,22,7,46
+4530,Amber Waves of Grain,33,7,12
+4531,Paddlers Pale Ale,26,0,52
+4532,Paleo IPA,31,12,79
+4533,Double Vision IPA,31,2,96
+4535,Stone House Stout,21,4,87
+4538,Hopmouth Double IPA,32,12,26
+4539,Red Dog,96,11,17
+4541,Amstel Light,96,4,46
+4542,Olde English 800,73,0,31
+4543,Copper Hill Kolsch,28,7,26
+4544,Abijah Rowe IPA,31,0,44
+4545,Alt,57,7,31
+4546,Old Mill Pond ESB,5,0,5
+4547,Three Steve Stout,42,8,89
+4548,North Pleasant Pale Ale,26,11,40
+4549,Massatucky Brown,38,1,77
+4550,Two Sisters Imperial Stout,43,4,51
+4551,Heather Ale,126,5,61
+4552,Lewmeister Oktoberfest,84,8,3
+4553,Raspberry Brown Ale,38,6,66
+4555,Righteous Red,33,7,63
+4556,Graduation Ale,26,3,65
+4557,Patriots Pilsner,77,11,84
+4558,Amherst ESB,5,1,65
+4559,Honey Pilsner,77,1,5
+4560,Puffers Smoked Porter,25,9,61
+4561,Boltwood Bock,90,2,37
+4562,Bankers Gold,37,10,93
+4563,Half in the Bagpipe,15,1,40
+4564,Cascade IPA,31,4,69
+4566,Premium Beer,77,1,83
+4569,Bavarian Dark Wheat Beer,45,7,13
+4570,Honey Moon Summer Ale,116,6,4
+4571,Staropramen,77,5,85
+4572,Bad Penny,38,7,69
+4573,Angry Angel,165,0,67
+4574,Antler Brown Ale,38,1,76
+4575,Navigator Golden Ale,37,12,17
+4576,Cliffhanger Light Ale,96,8,81
+4577,Angler Black Lager,86,4,84
+4578,Rescue IPA,31,11,61
+4579,Iron Arm Belgian Style Wheat,67,1,11
+4580,Mountaineer Maibock,91,8,57
+4583,Schneider Weisse,116,0,89
+4584,Saranac Adirondack Lager,95,11,77
+4585,Organic Ale,37,8,9
+4586,Founders Imperial Stout,43,9,81
+4587,Founders Pale Ale,26,12,98
+4588,Founders Black Rye,119,12,7
+4589,Founders Breakfast Stout,43,7,16
+4590,Rubaeus,121,9,63
+4591,Curmudgeon,13,8,43
+4592,Founders Kentucky Breakfast,43,4,24
+4593,Founders Devil Dancer,32,0,86
+4595,Saranac Pale Ale,26,6,63
+4596,Saranac Brown Ale,38,11,66
+4597,Saranac India Pale Ale,31,12,45
+4598,Saranac Black Forest,86,1,78
+4600,Saranac Lager,95,10,82
+4601,Pomegranate Wheat,121,3,69
+4602,Saranac Kolsch,49,12,49
+4603,Saranac Belgian White,67,5,12
+4604,Saranac Summer Ale,116,9,31
+4605,Saranac Golden Pilsner,77,1,33
+4606,Saranac Octoberfest,84,12,60
+4607,Saranac Pumpkin Ale,123,1,17
+4609,Saranac Caramel Porter,25,6,79
+4610,Saranac Black Diamond Bock,90,8,31
+4611,Saranac Oatmeal Stout,21,12,63
+4612,Roggen Bock,90,4,40
+4613,Saranac Marzenbier,49,11,49
+4614,Saranac Nut Brown Ale,38,11,44
+4615,Saranac Mocha Stout,42,11,14
+4616,Saranac Single Malt,15,7,50
+4617,Saranac Belgian Ale,72,7,67
+4618,Saranac Mountain Ale,121,4,85
+4619,Saranac Chocolate Amber,39,6,29
+4620,Saranac Bock,90,2,19
+4621,Saranac Rachbier,146,12,51
+4622,Saranac Extra Special Bitter,5,12,1
+4623,Saranac Imperial IPA,32,6,100
+4624,Saranac Imperial Stout,43,10,87
+4625,Saranac Scotch Ale,15,4,5
+4626,Stony Face Red Ale,33,5,28
+4627,Humbles Blond Ale,37,4,33
+4628,Heat Seeker Hefe,50,12,29
+4629,Catalina Common Lager,95,9,33
+4630,Spitfire Best Bitter,3,2,77
+4631,Afterburner IPA,31,12,20
+4632,Hop Henge Imperial IPA,32,4,81
+4633,First Flight Amber Ale,33,8,88
+4634,Barnstormer Brown Ale,38,10,87
+4635,Peacemaker Porter,25,6,91
+4636,Sick Duck Imperial Stout,43,12,72
+4638,Beewolf Braggot,107,8,96
+4651,Sundown Wheat,116,11,90
+4652,Atlas IPA,31,0,84
+4653,Oaked Arrogant Bastard Ale,30,8,54
+4654,Hansa Imported Dortmunder,95,4,61
+4655,Hoppy Hefe,50,1,40
+4656,Bourbon Barrel Smoked Porter,25,7,76
+4657,Bar Harbor Blueberry Ale,169,8,21
+4658,Cask Hefe,50,1,17
+4660,Fort,121,8,17
+4661,Lawnmower,26,9,16
+4662,Theobroma,2,2,2
+4665,Aprihop,121,1,0
+4667,Kirin Ichiban,80,2,55
+4668,Kirin Light,96,0,61
+4669,Chateau Jiahu,126,7,2
+4670,Pipe Organ Pale Ale,26,12,30
+4671,Pious Monk Dunkel,154,7,100
+4672,Millennium Trippel,61,8,48
+4673,Celestial Gold,77,10,100
+4674,Blast Furnace Oatmeal Stout,21,6,35
+4675,Church Brew Oktoberfest,84,2,81
+4676,Mad Brewer Maibock,91,8,46
+4677,Heavenly Hefeweizen,50,4,10
+4679,Jupiler,77,11,3
+4680,Trappist Westvleteren 12,62,2,82
+4681,Trappist Westvleteren Blonde,72,7,1
+4682,Kate The Great Russian Imperial Stout,43,0,37
+4683,Dark Lord Russian Imperial Stout,43,7,48
+4684,Light Weight,37,8,52
+4687,Holy Cow IPA,31,1,23
+4688,Alena,32,8,65
+4689,Broken Spoke,26,11,20
+4690,El Jefe,31,8,3
+4691,Heady Topper,32,6,98
+4692,Heathen,31,6,33
+4693,Hellbrook,33,5,9
+4694,Holy Moly,32,5,100
+4695,Mortal Sin,31,2,22
+4696,Piston Bitter,5,9,53
+4697,Rapture,16,11,37
+4698,Revitalization Rye,119,0,49
+4699,Shut The Hell Up,10,12,32
+4701,Petite Orval,72,4,90
+4707,Achel Trappist Extra,14,7,20
+4708,The Abyss,43,9,36
+4709,Green Lakes Organic Ale,33,4,18
+4710,Bachelor Bitter,3,2,29
+4711,Twilight Ale,26,3,6
+4712,Brocken Top Bock,90,11,20
+4713,Brugse Zot,72,2,40
+4714,Brugse Zot Double,72,12,26
+4715,Tongerlo Dubbel Bruin,72,1,80
+4716,Tongerlo Dubbel  Blond,72,5,70
+4717,Tongerlo Tripple,61,1,0
+4718,Tongerlo Christmas,72,3,72
+4719,Black Albert,43,9,18
+4720,MonkeyBoy Ale,116,5,53
+4721,Landshark Lager,96,6,34
+4722,Middle Ages Apricot Ale,121,5,49
+4723,Black Heart Stout,42,10,15
+4724,Druid Fluid,35,5,18
+4726,Kilt Tilter,15,6,54
+4727,Old Marcus Ale,5,3,69
+4728,Middle Ages Raspberry Ale,121,8,17
+4729,Swallow Wit,67,3,5
+4730,Syracuse Pale Ale,26,10,47
+4731,Tenth Anniversery Ale,32,2,37
+4732,The Duke of Winship,15,0,33
+4733,Wailing Wench,46,12,93
+4734,Winter Wheat,116,3,100
+4736,East Coast lager,95,6,95
+4737,Circket Hill American Ale,33,10,90
+4738,Cricket Hill Hopnotic,31,0,35
+4739,Spring Fling,26,4,1
+4740,Brown Shugga,145,5,73
+4741,Gordon,32,0,48
+4743,Old Chub,15,1,72
+4744,Ten Fidy,43,0,2
+4745,One Nut Brown Ale,38,4,39
+4746,Remarkable Vanilla Porter,25,9,51
+4747,White Ale,67,1,96
+4748,Samichlaus Bier 2006,154,10,64
+4749,Big Porch Ale,33,2,69
+4750,Palm Speciale,33,1,54
+4751,Pilsener Lager,77,10,56
+4754,Old Fugget,35,4,97
+4757,Dixie Crystal,61,12,56
+4758,Orange Blossom Pilsner,121,10,73
+4759,Road Trip Hard Cider,121,7,40
+4760,Wild Wacky Wit,67,8,12
+4761,Savannah Fest,91,11,24
+4762,Swamp Fox IPA,31,0,43
+4763,The Captains Porter,25,4,50
+4764,Dock Street Amber,33,11,84
+4765,Bohemian Dock Street Pilsner,77,11,16
+4766,Rye IPA,31,3,32
+4767,Summer Session,116,4,82
+4768,Satellite Stout,42,7,22
+4769,Bubbly Wit,67,5,16
+4770,Hedonism Ale,33,10,42
+4771,Midnight Wit,67,9,33
+4772,Hoptimus Prime,32,12,0
+4773,Brown Aged Girl,57,8,59
+4774,Mermaids Red Ale,33,0,73
+4775,Nutter Brown,38,12,66
+4776,Outlet Stout,42,0,100
+4777,Idiot IPA,31,3,95
+4778,Islandweizen,50,2,58
+4782,West Coast IPA,31,4,81
+4783,Railbender Ale,15,5,7
+4784,Presque Isle Pilsner,77,11,85
+4786,Misery Bay IPA,31,7,68
+4787,Heritage Alt Beer,57,1,12
+4788,Golden Fleece Maibock,91,4,26
+4789,Fallenbock,84,3,88
+4790,Sunshie Wit,67,1,87
+4793,Union Barrel Works Kolsch,175,12,80
+4794,Union Barrel Works Lager,95,0,40
+4796,Union Barrel Works Pale Ale,26,5,29
+4797,Round Boy Stout,42,3,37
+4798,Wobbly Bob Dopplebock,92,0,50
+4799,Acme California IPA,31,5,74
+4800,Stone 12 Anniversery Bitter Chocolate Oatmeal Stout,155,2,34
+4801,Stone 10th Anniversery IPA,32,11,90
+4802,Amber Ale,33,3,82
+4803,Full Circle,125,8,88
+4804,Sundog,33,8,64
+4805,The Poet,21,3,82
+4806,Russian Imperial Stout,43,11,67
+4807,Mackinac Pale Ale,26,5,14
+4808,Modelo especial,96,0,34
+4809,Nut Brown Ale,38,10,33
+4810,Sunset Amber Lager,95,1,70
+4811,Peninsula Porter,25,12,11
+4812,Wheatland Wheat,26,8,60
+4813,Celis Raspberry,72,4,29
+4814,Celis Pale Bock,72,1,65
+4815,Celis Grand Cru,72,1,16
+4816,Big Mac,95,5,63
+4817,Bavarian Dark,38,3,13
+4818,Hamtramck,95,4,8
+4819,Superior Stout,42,4,92
+4820,Hite,95,1,30
+4821,OB Lager,95,11,97
+4822,Noblesse,37,4,13
+4823,Bravoure,33,0,14
+4824,Russian River IPA,31,0,96
+4825,Dead Leaf Green,4,7,84
+4826,Lap Dance Pale Ale,26,5,32
+4827,Parking Violation,26,4,35
+4828,Beer Esteem,95,7,77
+4829,Vienna Red Lager,95,10,8
+4833,Lust,66,4,53
+4834,Pride,65,7,81
+4835,Sloth,43,8,93
+4836,Wrath,72,2,37
+4837,Greed,64,6,23
+4838,Envy,93,3,0
+4839,Gluttony,32,12,1
+4840,King Lager,96,6,42
+4841,Red Tulip,43,9,73
+4843,Blue Goat,136,12,83
+4844,Existential,35,2,78
+4846,Cabin Fever,38,6,74
+4847,Ichabod,35,3,14
+4848,Zoomer,116,2,55
+4849,Night Tripper,43,3,84
+4852,Grateful Red,33,9,58
+4853,Lost Sailor,31,6,19
+4856,Marzen,95,4,29
+4858,Strong Arm Ale,38,9,76
+4862,Green Flash Imperial India Pale Ale,32,5,11
+4863,Wailua,116,3,62
+4864,Buck Naked,96,1,1
+4865,Big Buck Beer,26,2,86
+4866,Raspberry Wheat,116,10,36
+4868,Apricot Wheat,116,5,99
+4869,Nut Brown,38,8,43
+4870,Cascazilla,33,5,80
+4871,Flower Power India Pale Ale,31,12,32
+4872,Partly Sunny,116,2,58
+4873,Rye Squared,32,11,33
+4874,Southern Tier Porter,25,0,74
+4875,Southern Tier Tripel,61,12,84
+4876,Old Man Winter Ale,57,12,2
+4877,Southern Tier Harvest Ale,5,8,88
+4878,Hop Sun,116,8,98
+4879,Oktoberfest,39,10,2
+4880,Chautauqua Brew,33,3,26
+4881,Fireside Nut Brown,38,12,16
+4882,Heavy Weizen Imperial Unfiltered Wheat Ale,50,12,68
+4883,Big Red Imperial Red Ale,33,11,15
+4884,Unearthly Imperial India Pale Ale,32,10,22
+4885,Jahva Imperial Coffee Stout,43,3,93
+4886,Pumking Imperial Pumpkin Ale,123,4,53
+4887,Creme Brulee Imperial Milk Stout,20,5,52
+4888,Choklat,43,1,95
+4889,Imperial Cherry Saison,74,9,53
+4892,Bam Noire,74,10,60
+4893,Madrugada Obscura,42,10,39
+4894,Fuego del Otono,33,5,99
+4895,Noel de Calabaza,132,12,91
+4897,Carling,95,11,85
+4901,Waterloo Dark,95,11,30
+4902,Dirty Blond,116,6,83
+4903,Vanilla Java Porter,25,8,59
+4904,Voodoo Vator,92,6,75
+4905,Salvation,31,12,20
+4906,Rost,33,9,86
+4908,Erik the Red,33,8,14
+4909,Nagelweiss,116,6,18
+4910,Final Absolution,72,6,17
+4911,Armageddon Grand Cru,72,7,5
+4912,Bronze Griffin,72,10,31
+4913,Dead Monk Abbey Ale,72,9,4
+4914,Broken Paddle,31,10,37
+4915,Crooked Door,33,4,25
+4917,Breath of the Dragon English Bitter,1,5,76
+4918,Righteous Ale,119,7,49
+4919,Liberty Nut Brown Ale,38,12,9
+4920,Miss Liberty Lager,95,3,66
+4921,Liberty Unfiltered Wheat Ale,116,9,94
+4922,Liberty Pale Ale,26,3,51
+4923,Liberty Raspberry Wheat Ale,121,9,71
+4924,Patriot Porter,25,12,22
+4925,Amber Waves,33,12,100
+4926,Lone Palm Ale,38,0,48
+4927,Beach Bum Blonde Ale,37,4,80
+4928,Longboard Lager,95,10,26
+4929,Coopers Premium Lager,95,6,47
+4930,Coopers Sparkling Ale,1,6,10
+4931,Coopers Original Pale Ale,1,0,35
+4932,Coopers Mild Ale,10,4,49
+4933,Coopers Best Extra Stout,42,5,81
+4934,Coopers Premium Light,96,1,12
+4935,Birell,96,2,38
+4938,Christoffel Blond,37,11,80
+4939,Sebewaing Beer,26,3,10
+4940,Golden Pheasant,95,9,11
+4941,Budweiser American Ale,33,7,15
+4942,Pyramid Hefe Weizen,50,9,1
+4943,Curve Ball,67,2,23
+4944,Pyramid Apricot Weizen,121,8,68
+4945,Pyramid Amber Weizen,116,6,42
+4946,Pyramid Thunderhead IPA,31,10,44
+4947,Hoptical Illusion,31,8,39
+4951,Thunderstorm,116,10,54
+4952,Smoked Helles Lager,95,11,80
+4953,Redbridge,95,11,34
+4956,Midnight Sun Kolsch,27,9,42
+4957,Oosik Amber Ale,33,1,4
+4958,Full Curl Scotch Ale,15,10,27
+4959,Mammoth Extra Stout,42,0,59
+4960,Bengali Tiger,31,11,0
+4961,Ridgeline Amber,33,9,71
+4963,Wild Raspberry Ale,121,0,63
+4964,Hades,65,1,57
+4965,Le Freak Belgian Style IPA,72,6,23
+4967,Mount Hill Pale Ale,1,4,72
+4968,Saison De Brooklyn,74,8,97
+4970,Yards Brawler,1,11,20
+4971,Yards Philadelphia Pale Ale,26,2,27
+4972,Yards Extra Special Ale,33,6,91
+4973,Yards India Pale Ale,31,5,2
+4974,Yards Love Stout,42,12,64
+4975,Ranger India Pale Ale,31,10,52
+4978,UFO Raspberry Hefeweizen,121,3,75
+4979,Harpoon Brown Session Ale,38,6,75
+4980,Glissade Golden Bock,91,10,97
+4981,Harpoon Munich Dark,38,7,55
+4982,Shouboushi Ginger Pilsner,77,4,25
+4984,Halligan IPA,31,2,94
+4985,The Big O Oktobefest,84,5,97
+4986,Pompier,7,6,84
+4988,Engine 5,33,3,76
+4989,Pozharnik,43,9,33
+4991,Feuerwehrmann Schwarzbier,86,10,37
+4992,High Tide IPA,31,7,96
+4993,Yellow Snow IPA,31,10,94
+4994,Double Dead Guy Ale,92,5,89
+4995,Abita Purple Haze,116,1,9
+4996,Punkin Ale,123,5,60
+4997,Torpedo Extra IPA,31,4,93
+4998,Foggy Goggle Belgian White,67,7,6
+4999,Sierra Nevada Imperial Stout,43,0,61
+5002,Sun Dog Amber Wheat,116,12,68
+5003,Oat Imperial Oatmeal Stout,43,4,86
+5004,Three Beaches Honey Blonde Ale,37,4,13
+5005,Headless Man Amber Alt,57,1,48
+5007,Fargo Brothers Hefeweizen,50,12,72
+5008,Gemuetlichkeit Oktoberfest,84,3,93
+5009,HopWhore Imperial India Pale Ale,32,1,29
+5011,Hop Hed Red Ale,33,11,95
+5012,Nectar IPA,31,2,71
+5013,Ugly American,61,1,6
+5014,East End Witte,67,11,30
+5015,Big Hop IPA,31,4,59
+5020,Radeau Red Ale,22,12,42
+5021,Sagamore Stout,42,12,64
+5022,Wet Hop Requiem IPA,31,3,83
+5024,Blonde Lager,95,11,31
+5026,Buffalo Butt,33,5,29
+5027,Ugly Pug,86,7,77
+5028,Stormcould IPA,31,0,18
+5029,Blind Salamander Pale Ale,26,1,50
+5034,Bourbon Barrel Aged Winter Warmer,141,8,84
+5035,Pecker Wrecker,69,0,62
+5036,Avant Garde,74,2,82
+5037,Lost and Found Abbey Ale,72,7,52
+5038,Red Barn Ale,74,10,85
+5039,Judgement Day,62,5,36
+5040,Devotion,64,12,44
+5041,Serpents Stout,43,8,50
+5042,Oktoberfest,95,12,72
+5043,Daas Organic Blond,72,11,60
+5044,Daas Organic Witte,67,7,58
+5045,Saison Athene,74,6,9
+5046,Lectio Divina,72,4,2
+5047,Turbodog,29,3,53
+5048,Local 1,65,0,58
+5049,Pipeline Porter,25,2,89
+5052,Havre Stout,21,9,14
+5058,Krampus Imperial Helles Lager,16,1,12
+5059,Slab Cabin IPA,31,2,9
+5060,Warsteiner Premium Oktoberfest,84,1,18
+5061,Shiner Bohemian Black Lager,95,3,2
+5062,Jolly Roger Imperial Stout,43,5,32
+5064,Port Panzer Imperial Pilsner,97,7,36
+5065,Chico Estate Harvest Ale,31,12,98
+5066,Southern Hemisphere Harvest Fresh Hop  Ale,26,7,30
+5067,Pays du Soleil,72,6,56
+5068,Alpha,64,1,18
+5069,Bravo,116,10,30
+5072,Shade Mountain Oatmeal Stout,21,7,45
+5073,Lobster Ale,33,3,56
+5075,Sea Dog Apricot Wheat,121,0,82
+5076,Sea Dog Blue Paw Wheat,121,7,95
+5077,Pyramid Broken Rake,33,1,51
+5078,Elk Creek Copper Ale,33,6,4
+5079,Great Blue Heron Pale Ale,26,5,71
+5080,Winkleblink Ale,116,1,54
+5081,Brookie Brown Ale,38,3,81
+5082,Poe Paddy Porter,25,5,54
+5083,Double Rainbow IPA,2,5,63
+5085,Locke Mountain Light,96,6,7
+5086,Highway 22 Wheat,116,1,62
+5087,Avalanche IPA,31,3,4
+5088,Patchway Pale Ale,26,12,65
+5089,Stone Mason Stout,42,6,43
+5090,60 Shilling,15,8,92
+5091,Golden Light,96,12,95
+5092,Canvas Back American Pale Ale,26,5,91
+5093,Iron Horse Stout,42,5,77
+5094,Greensburg Lager,95,3,66
+5095,Strawberry Honey Amber Ale,33,7,49
+5096,Red Star Pilsner,77,12,92
+5099,Melting Pot Pale Ale,26,5,35
+5101,Wells Bombardier English Bitter,4,0,13
+5102,Rauchbock,47,11,81
+5103,Wild Mild Ale,10,11,3
+5105,Cyser,143,11,36
+5106,Harpoon Celtic Ale,22,7,75
+5107,Baron Pilsner,77,7,65
+5108,Baron Schwarzbier,86,5,76
+5109,Baron Oktoberfest,84,2,61
+5110,Baron Helles Bock,91,4,3
+5112,Red Seal Ale,33,4,74
+5114,Imperial Chocolate Pumpkin Porter,123,3,51
+5115,Obliteration IV,32,10,87
+5116,Samuel Adams Blackberry Witbier,67,4,58
+5117,Pumpkinhead Ale,123,4,66
+5118,Darkness,43,0,58
+5121,Workingman Mild,10,3,9
+5122,B3K Schwarzbier,86,8,17
+5123,Wixa Weiss,116,11,66
+5125,Two Guns Pilsner,77,1,61
+5126,Light Rail Ale,37,1,34
+5127,Sagebrush Stout,42,6,56
+5128,Obamanator Maibock,91,10,21
+5129,Angry Planet Pale Ale,26,7,18
+5131,Michelob Dunkel Weisse,29,12,74
+5132,Yellowtail Pale Ale,158,10,67
+5133,Calico Amber Ale,33,0,53
+5134,Black Marlin Porter,25,12,86
+5135,Wahoo Wheat Beer,67,0,8
+5137,Yakima Twilight,167,11,94
+5138,Delta Ale,126,2,70
+5139,Weyerbacher Fireside Ale,15,3,64
+5140,Little Creatures Pilsner,77,6,6
+5141,Phoenix,18,7,8
+5142,Phuket Lager,95,10,40
+5146,Epic Pale Ale,26,3,96
+5147,Seven Gates Pale Ale,26,9,24
+5148,Two Front Teeth Holiday Ale,74,2,54
+5149,Baltika 6 Porter,25,0,88
+5150,Red Dragon Xtreme,95,10,1
+5151,Estrella Damm,95,10,67
+5152,Sprecher Pub Ale,38,10,47
+5153,Sprecher Irish Stout,42,9,2
+5155,Altbier,57,12,79
+5156,Smuttynose Winter Ale,60,12,58
+5157,Shoals Pale Ale,26,6,98
+5158,Old Brown Dog Ale,38,5,6
+5159,Portsmouth Lager,154,9,2
+5160,Smuttynose Finestkind IPA,31,11,30
+5161,Robust Porter,25,12,13
+5164,Black Mountain Bitter,3,3,16
+5165,Ale To The Chief,32,11,78
+5166,White Horse Hefeweizen,50,2,3
+5169,Truly Honest Ale,33,5,95
+5171,Daddy Fat Sacs Imperial IPA,32,2,12
+5172,Late Harvest Fest Lager,84,9,34
+5173,Liberty Ale,26,4,61
+5175,Organic Hefewizen,50,10,95
+5176,embrasse,66,12,92
+5177,Oak Aged Unearthly Imperial Pale Ale,32,5,34
+5178,Odd Notion Winter 08,161,11,26
+5179,Iniquity Imperial Black Ale,146,4,7
+5180,Hop Stoopid,32,10,37
+5182,Zwaanend,11,8,44
+5183,Moylans Hopsickle Imperial Ale,32,3,51
+5184,Baracktoberfest,84,11,41
+5185,Obamagang Inauguration Ale,42,11,74
+5186,Hop Obama,33,12,6
+5189,Konig Ludwig Weissbier,50,10,29
+5190,Espresso Oak Aged Yeti,43,12,69
+5191,Claymore Scotch Ale,15,2,71
+5192,Trifecta Belgian Style Tripel,61,2,24
+5193,Oak Creek Micro Light,77,12,97
+5195,Horseshoe Hefeweizen,50,8,24
+5197,Oak Creek Amber Ale,33,11,90
+5198,Village Nut Brown Ale,38,8,78
+5199,Pullman Porter,25,9,15
+5201,Climax IPA,31,7,47
+5202,Climax Extra Special Bitter Ale,5,4,51
+5203,Climax Nut Brown Ale,38,3,55
+5204,Climax Cream Ale,113,1,38
+5206,Climax Helles,91,12,70
+5207,Climax Oktoberfest,84,2,49
+5208,Climax Doppel Bock,92,0,71
+5209,Climax Wheat Ale,116,8,97
+5211,Zeno Black Lager,86,7,71
+5212,Kerplunk Imperial Chocolate Stout,125,10,4
+5213,Beyond The Gates Double IPA,32,1,92
+5214,Baltic Porter,25,3,96
+5216,Lancaster Limited Triple,61,12,88
+5217,Market Alley,33,12,87
+5218,Wild Devil Ale,31,6,18
+5219,Helios,74,12,1
+5220,Rondy Brew 2009,26,1,31
+5222,Brewtality Espresso Black Bier,160,6,74
+5223,Smooth Hoperator,92,3,95
+5224,Michelob Hop Hound Amber Wheat,116,6,43
+5225,Haywords 5000,95,1,51
+5226,Lakefront IPA,31,7,75
+5228,Richbrau Oatmeal Stout,21,4,6
+5230,Richbrau Barleywine,35,7,53
+5231,Richbrau India Pale Ale,31,7,45
+5232,Big Nasty Porter,25,6,84
+5233,Old Nick Pale Ale,26,6,52
+5234,Griffin Golden Ale,37,11,37
+5235,Apache Trout Stout,20,1,77
+5236,Wapiti Amber Ale,33,12,16
+5237,Superstition Pale Ale,26,9,90
+5238,Heffevonom Bavarian Wheat,50,2,3
+5239,Horny Toad IPA,31,7,6
+5240,Farm Girl Saison,74,7,34
+5241,Lift Bridge Pale Ale,26,11,48
+5242,Biscotti,66,7,77
+5244,Double Mountain Kolsch,144,8,75
+5245,Double Mountain Pale Ale,26,0,47
+5247,Hop Lava,31,2,33
+5248,Double Mountain Altbier,57,4,41
+5249,Yuengling Bock Beer,90,6,29
+5250,Abbey Extra,64,8,10
+5251,Abbey IPA,72,3,35
+5252,Barristers Bitter,5,12,85
+5253,Sacramento Bock,90,6,31
+5254,Brewhouse Lager,95,11,34
+5255,Sacramento Nut Brown Ale,38,9,18
+5256,Hellsmoke Porter,25,0,46
+5257,Wheatley Hills Weizenbock,50,2,73
+5258,Long Island Potato Stout,42,8,55
+5259,Old Walt Smoked Wit,67,1,84
+5260,Harborfields HefeWeizen,50,4,63
+5261,Samuel Adams Imperial Stout,43,3,81
+5262,Samuel Adams Imperial White,67,6,14
+5263,HUB Lager,77,2,57
+5264,Hopworks IPA,31,4,10
+5265,Velvet ESB,5,12,54
+5266,Crosstown Pale Ale,26,1,0
+5267,Deluxe Organic Ale,30,12,30
+5268,Survival Stout,21,11,33
+5269,Hop Juice Double IPA,32,3,12
+5270,Renegade IPA,31,8,50
+5272,Stinger Wild Honey Wheat,116,0,31
+5273,Estes Park Porter,25,7,22
+5274,Estes Park Gold,37,6,8
+5275,Samson Stout,42,6,8
+5276,Trail Ridge Red,33,1,62
+5277,Border Gold Oranic Ale,37,12,51
+5278,Flying Mouflan,35,5,77
+5279,Live Oak Hefeweizen,50,8,94
+5280,Live Oak Pilz,77,3,82
+5281,Live Oak Pale Ale,26,8,57
+5282,Oaktoberfest,84,6,95
+5283,Liberation Ale,31,4,58
+5284,Sexual Chocolate,43,7,30
+5286,Uberhoppy Imperial IPA,32,1,83
+5287,Black Cat Stout,42,5,7
+5288,Hitman Gold,26,2,53
+5289,Valley Brewing London Tavern Ale,10,3,6
+5290,Indian Red Ale,33,11,79
+5292,Valley Brew Pale Wheat,116,9,86
+5293,Ports Pale Ale,26,8,94
+5294,Valley Brewing Apricot Ale,121,1,15
+5295,Valley Berry Wheat,121,8,25
+5296,Fat City Ale,37,5,46
+5297,Thunder Hole Ale,38,9,31
+5300,Boulevard Irish Ale,22,6,83
+5301,Boulevard Maibock,91,11,79
+5304,Hoppe Imperial Extra Pale Ale,32,2,21
+5305,Gemini Imperial Blended Ale,32,1,18
+5306,Victorian IPA,31,3,78
+5307,Burning Bird Pale Ale,26,5,76
+5308,Lionshead,77,6,38
+5309,Lionshead Light,96,11,58
+5310,Dubble Fantasy,72,0,31
+5311,Flensburger Pilsner,77,3,63
+5312,Dundee Pale Bock Lager,91,6,58
+5313,Dundee Porter,25,0,94
+5314,Dundee Wheat Beer,116,5,99
+5315,Dundee Pale Ale,26,5,69
+5316,Dundee India Pale Ale,31,4,47
+5317,Dundee Festive Ale,141,12,63
+5318,Dynamo Copper Lager,92,6,100
+5319,Flywheel Bright Lager,95,3,58
+5321,Saint Arnold Amber Ale,33,12,75
+5322,Elissa IPA,31,2,41
+5323,Saint Arnold Spring Bock,90,2,22
+5324,Jasparilla,13,3,0
+5325,Jever Pilsener,77,1,76
+5327,Fauerbach Amber Lager,117,1,46
+5328,Gran Met,65,6,57
+5329,White Magick of the Sun,116,11,80
+5330,Voodoo Love Child,61,3,3
+5331,Black Magick,43,10,100
+5332,4 Seasons IPA,31,11,79
+5333,Big Black Voodoo Daddy,43,5,49
+5334,PILZILLA,74,2,21
+5336,Fauerbach Export,95,6,94
+5339,Hannen Alt,57,6,1
+5340,Capital Bavarian Lager,110,10,41
+5341,Potbelly Porter,25,2,71
+5342,Celebration Wheat,116,5,57
+5343,Lucky 393 Grand Cru,66,9,27
+5344,Eislin Dubbel,60,3,75
+5346,Anne Bonny Irish Stout,165,1,88
+5347,Capital Island Wheat,116,9,60
+5348,Capital Rustic Ale,33,7,51
+5349,Capital Oktoberfest,84,7,1
+5350,Capital Prairie Gold,72,4,18
+5352,American Brown Ale,38,0,18
+5353,McGilligans IPA,31,6,90
+5355,The Livery Dunkel Weizen,116,9,68
+5356,Double Paw,32,2,39
+5357,Ginger Tom,126,6,64
+5358,Yorkshire Brown,97,8,45
+5360,Hoppy Chick,2,3,72
+5361,Cousin Jax,32,12,79
+5362,Bourbon Barrel Aged Cousin Jax,32,8,74
+5363,The Livery Hefe Weizen,50,8,56
+5364,Thoms Special Ale,33,6,7
+5365,Old Cedar,157,11,75
+5366,Laughing Dragon,33,6,3
+5367,Herb Superb,2,6,78
+5368,Bluejackets Best,2,9,69
+5369,The Livery Kilt Tilter,15,7,31
+5370,Maillot Jaune,74,5,61
+5371,555 IPA,31,3,0
+5372,Verchuosity,66,8,88
+5373,Imperial Czech Premium Lager,95,7,68
+5374,Sierra Nevada Kellerweis,50,9,8
+5375,Local 2,66,8,75
+5376,Barrel Aged Synapse ESB,5,7,4
+5377,Hopfen Weisse,50,6,48
+5378,South County American Ale,33,11,23
+5379,South County Munich Dunkel Lager,22,12,74
+5380,Brigantine Smoked Porter,25,1,12
+5381,Planet Bean Coffee Stout,150,10,55
+5382,Big Swell IPA,31,1,12
+5383,Maui Coconut Porter,25,11,17
+5384,Bikini Blonde Lager,89,2,23
+5386,Round Barn Amber Ale,33,1,9
+5387,Round Barn Cocoa Stout,20,7,88
+5389,Round Barn Summer Wheat,116,5,82
+5390,Round Barn Winter Wheat,12,7,81
+5391,75 Minute IPA,31,4,86
+5392,Six Rivers IPA,31,11,87
+5394,3 Monts,131,5,34
+5395,Back Road Ale,26,6,11
+5396,Belle Gunness Stout,42,6,87
+5397,Back Road American Pale Ale,26,11,8
+5398,Midwest IPA,31,7,44
+5399,Millennium Lager,77,1,39
+5400,Maple City Gold,84,8,23
+5401,LaConner Pilsener,77,12,31
+5897,Estrella Levante Clasica,106,6,38
+5403,Goose Island Imperial IPA,32,0,71
+5404,Goose Island Midway IPA,31,2,5
+5405,Night Stalker,43,0,83
+5406,Crooked Tree IPA,31,0,51
+5407,El Toro Negro Oatmeal Stout,21,11,29
+5408,Tumbleweed IPA,31,4,67
+5409,Behemoth Barley Wine,35,9,99
+5410,Broodoo,31,5,1
+5411,Alpha Klaus Xmas Porter,25,6,19
+5412,Munsterfest,84,6,55
+5413,Drunk Monk Hefeweizen,50,3,65
+5414,Timmermans  Faro,155,10,40
+5415,Timmermans Forest Fruit,70,7,29
+5416,Timmermans Framboise,70,2,15
+5418,Timmermans Gueuze,110,11,43
+5419,Timmermans lambicus Blanche,74,1,70
+5420,Timmermans Kriek,70,7,13
+5422,Descent Imperial Abbey Ale,72,11,98
+5423,Anchor Witbier with Brettanomyces,67,8,98
+5425,Harpoon Winter Warmer,126,2,45
+5426,Imperial Mokah Blended Stout,21,6,78
+5427,Firestole Pale 31,26,2,23
+5428,Union Jack India Pale Ale,31,9,2
+5429,Great Divide Belgica,72,1,4
+5430,Great Divide Dunkel Weiss,83,0,13
+5431,Great Divide Saison,74,11,4
+5432,Restoration Pale Ale,26,6,52
+5433,Atomic Raygun Imperial Red,33,7,67
+5434,Head Trip,72,4,70
+5435,Flashback Anniversary Ale,38,6,37
+5436,Cerise,121,4,25
+5437,Double Trouble Imperial IPA,32,7,50
+5438,Orlando Blonde Ale,26,4,79
+5439,Steel Toe Stout,20,7,97
+5440,Moosehead Lager,95,12,7
+5446,Back Burner Imperial Barley Wine Style Ale,35,2,45
+5448,422 Pale Wheat Ale,116,10,64
+5449,Holy Mackerel Special Golden Ale,65,4,54
+5450,Holy Mackerel Mack In Black,30,1,8
+5451,Huckleberry Ale,121,6,93
+5452,Sea Dog Raspberry Wheat Ale,116,3,95
+5453,Wacko,121,1,99
+5454,Black Ops,43,6,21
+5456,Schlafly Oktoberfest,84,10,64
+5457,Standing Stone Lager,95,1,3
+5458,Standing Stone India Pale Ale,31,1,98
+5459,Standing Stone Double India Pale Ale,32,11,9
+5460,Standing Stone Amber Ale,33,3,12
+5461,Standing Stone Hefeweizen,50,11,33
+5462,Standing Stone Saison,74,1,94
+5463,Standing Stone Nitro Stout,42,12,83
+5465,Summer Blonde,37,5,81
+5466,River Horse Lager,95,12,90
+5467,Hop Hazard,26,0,85
+5468,Belgian Freeze Winter Ale,29,4,74
+5469,Tripel Horse,61,6,45
+5470,River Horse Special Ale,5,6,33
+5471,Orchard White,67,5,80
+5472,Black Orchard,56,5,38
+5473,Saison Rue,74,3,90
+5474,Saison De Lente,74,0,78
+5475,Trade Winds Tripel,61,5,1
+5476,Autumn Maple,123,0,12
+5477,Partridge In A Pear Tree,62,8,48
+5479,Newport Storm Hurricane Amber Ale,33,8,75
+5480,Meantime Coffee,25,3,63
+5485,Old Faithful Ale,26,2,35
+5486,Cottonwood Endo India Pale Ale,31,6,74
+5487,Olde Buzzard Lager,95,10,81
+5488,Second Street IPA,31,12,76
+5489,South Hampton IPA,31,11,78
+5491,Holyoke Dam Ale,26,5,94
+5492,Sky High Rye,26,2,97
+5493,Genesis,26,8,53
+5494,Double White,116,1,87
+5496,Hopnoxxxious,32,12,3
+5497,Bistro Blonde,37,1,49
+5498,Jacobsen Dark Lager,103,5,76
+5499,State Street Oatmeal Stout,21,4,81
+5500,Bee Sting Honey Rye Ale,119,4,27
+5501,Amber Waves,33,11,2
+5502,Padawan Pale Ale,26,7,18
+5503,Pearl Street Porter,25,11,46
+5504,Big Shot Espresso Stout,30,5,18
+5505,Tailgate Amber Wave,33,1,15
+5506,Tailgate Brown Ale,38,6,12
+5507,Tailgate IPA,31,7,64
+5508,Tailgate Sweet Stout,20,4,21
+5509,Tailgate Light,96,4,86
+5510,Tailgate Hefeweizen,50,8,81
+5511,Vintage Ale 2008,13,5,66
+5512,Tribute Premium Cornish Ale,3,1,56
+5513,Proper Job,2,12,35
+5514,HSD Hicks Special Draught,3,2,49
+5515,Haywards 5000,95,8,29
+5516,Peroni Nastro Azzurro,95,7,88
+5518,Haywards Black,95,3,72
+5521,Indus Pride,33,4,43
+5522,Royal Challenge,95,12,6
+5523,Knock Out,95,1,70
+5524,Haywards 2000,95,2,40
+5525,Old Oak Amber Ale,33,1,88
+5526,Lightner Creek Lager,95,8,29
+5527,Iron Horse Oatmeal Stout,21,2,16
+5528,Colorado Trail Nut Brown Ale,38,3,71
+5529,Exodus Porter,25,5,44
+5530,Sante Fe Pale Ale,26,0,24
+5531,Santa Fe Wheat,116,11,18
+5532,Santa Fe Nut Brown,38,8,96
+5533,State Pen Porter,25,6,99
+5534,Santa Fe Stout,107,4,26
+5535,Chicken Killer Barley Wine,35,0,53
+5536,Fiesta IPA,31,0,51
+5537,Freestyle Pilsner,77,10,76
+5538,Viszolay Belgian,60,9,27
+5540,Weizengold Dunkel,153,2,16
+5541,Stiegl Leicht,96,5,15
+5542,Paracelsus Zwickl,170,8,1
+5543,Ottakringer Helles,110,9,86
+5544,Guinness 250th Anniversary Stout,42,6,20
+5545,Fahrwasser Fairway Pilsner,77,2,46
+5547,Wasatch 1st Amendment Lager,95,7,2
+5549,Old Slugger Pale Ale,26,2,77
+5550,Nine Men Ale,37,6,9
+5551,Benchwarmer Porter,25,3,82
+5552,Strike Out Stout,42,3,9
+5553,Backyard India Pale Ale,2,4,35
+5554,Pride of Milford Special Ale,11,8,41
+5555,Apocalypse Cow,32,9,20
+5556,Green Monsta Ale,30,11,85
+5557,Mokah Imperial Blended Stout,43,9,73
+5558,Sculpin India Pale Ale,31,1,28
+5559,Bitter Woman in the Rye,119,4,14
+5560,Glockenspiel,55,8,1
+5562,Black Toad Dark Ale,25,5,48
+5563,Hansa Pils,77,7,74
+5565,Satsuma Harvest Wit,67,9,33
+5566,Miller Genuine Draft 64,96,6,28
+5567,Flo IPA,31,3,74
+5568,Sunna Wit,67,8,79
+5569,Red Rocket Ale,33,7,51
+5571,Brooklyn Summer Ale,37,3,96
+5572,Aviator Red,33,9,0
+5573,Barnstormer Pale Ale,26,6,20
+5574,Buffalo Lager,95,5,4
+5575,Bird of Prey IPA,2,0,70
+5576,Blizzard Bock,90,7,5
+5577,Sky Pilot Scotch Ale,15,6,71
+5579,Pinnacle Peak Pale Ale,26,6,30
+5581,Puget Brown Porter,25,0,23
+5582,Bonaventure Pale Ale,26,6,30
+5584,The Oracle DIPA,32,4,41
+5585,Goofy Foot Summer Wheat,116,5,36
+5587,Old Abominable Barley Wine,76,1,43
+5589,Heavy Seas The Great Pumpkin Imperial Pumpkin Ale,123,3,60
+5590,Hooker Oktoberfest,84,10,94
+5591,Terrapin Rye Pale Ale,26,7,0
+5592,India Style Brown Ale,38,9,81
+5593,SunRay Wheat Beer,116,1,29
+5594,Terrapin Golden Ale,113,4,81
+5595,13th Anniversary Ale,30,7,44
+5596,Manzanita Red,22,4,58
+5597,Pine Tar Stout,42,4,36
+5598,Willow Wheat,116,9,37
+5599,Lodgepole Light,113,6,21
+5600,Prescott Pale Ale,26,6,23
+5601,Ponderosa IPA,31,11,52
+5602,Petrified Porter,25,12,4
+5603,Liquid Amber,33,10,14
+5604,Peroni,95,3,54
+5605,Bud Light Golden Wheat,67,8,13
+5606,Tropical Mango,26,6,87
+5607,Oak Barrel Stout,42,0,64
+5608,Drie Fonteinen Kriek,70,6,75
+5609,Elm City Schwarzbier,86,0,96
+5610,Ramstein Winter Wheat,92,2,64
+5611,Creme Brulee Java Stout,42,11,51
+5612,Lake Placid Frostbite Ale,31,4,22
+5613,Shiva IPA,31,2,42
+5616,Java Head Stout,42,9,28
+5618,Otter Creek Imperial India Pale Ale,32,12,92
+5621,Derailed Black Cherry Ale,121,6,51
+5622,Heavy Seas Big DIPA,32,5,51
+5623,Fairweather IPA,31,9,92
+5624,Bear Tooth Ale,38,9,99
+5625,Wild Country Raspberry Wheat,121,2,11
+5626,Alaskan White Ale,67,8,6
+5627,Andygator,92,0,83
+5628,Red Chair IPA,31,11,90
+5629,Cattail Peak,116,8,85
+5630,Dark Knight,75,9,79
+5631,Urban Wilderness English Pale,1,1,95
+5632,Karma,64,7,83
+5633,Black Butte XXI,25,9,36
+5634,Mirror Mirror,35,11,91
+5635,Obliteration I,32,1,14
+5636,Obliteration II,32,6,96
+5637,Obliteration V,32,5,18
+5638,Black Xantus,43,0,66
+5640,Black Stallion Oatmeal Stout,21,10,29
+5642,50 CAT IPA,31,6,53
+5643,Point Of Rocks Pale Ale,26,12,65
+5644,Imperial Premium Malt Pilsner,31,12,18
+5645,Rock Art IPA,31,5,29
+5646,Gouden Carolus Hopsinjoor,72,12,77
+5647,Black Rye Bock,90,3,45
+5648,Blackened Voodoo,95,1,68
+5649,Terrapin Midnight Project Depth Charge Espresso Milk Stout,20,8,18
+5650,Mythos Hellenic Lager,82,3,30
+5651,Red Brick Double Chocolate Oatmeal Porter,25,12,26
+5653,Tarletons Bitters,3,7,16
+5655,Smuttynose Pumpkin Ale,123,6,78
+5656,Big Slick American Barleywine Ale,35,5,31
+5657,Otter Creek Russian Imperial Stout,43,0,74
+5658,Big Hop Harvest Ale,31,2,25
+5667,Abbaye de St Amand,72,1,2
+5668,Wild Goose Pumpkin Patch,123,12,9
+5671,Rock Art American Red Ale,33,4,38
+5672,The Vermonster,35,9,42
+5673,Toaster Imperial Stout,43,3,75
+5675,Cosmic Black Witbier,67,10,35
+5677,Tournay Black,66,11,11
+5678,Hop Mountain,26,3,43
+5679,Blacksburger Pils,77,6,47
+5680,Big A IPA,32,2,21
+5681,3rd Anniversary Ale,32,11,96
+5683,Berserker Imperial Stout,43,10,99
+5684,Imperial Russian Stout,43,6,1
+5685,Howl,95,4,71
+5686,Whitetail Golden Ale,37,5,43
+5687,DuganA IPA,32,10,45
+5688,Golf,50,1,20
+5689,Old Salt IPA,31,11,20
+5690,Cascade Razberry Wheat,121,8,26
+5691,Celtic Copper Ale,33,10,38
+5692,Ring Tail Pale Ale,26,5,83
+5693,Bad Billy Blond Bock,91,4,13
+5694,Cascade Apricot Ale,70,0,93
+5695,Cascade Kreik Ale,148,1,26
+5697,Cascade Sang Royal,32,0,9
+5699,Cucapa Honey Ale,33,9,19
+5700,Grain Belt,95,1,12
+5702,Punk IPA,31,11,12
+5703,Rip Tide,43,10,93
+5704,Paradox Speyside,43,1,39
+5705,The Physics,5,9,14
+5706,Hop Rocker,95,1,13
+5707,Hardcore IPA,32,3,13
+5708,Trashy Blonde,4,6,98
+5709,77 Lager,77,6,44
+5710,Dogma,126,0,4
+5711,Tokyo,43,5,75
+5713,Tactical Nuclear Penguin,43,3,61
+5714,Hopsecutioner,31,7,90
+5715,Terrapin Coffee Oatmeal Imperial Stout,43,6,74
+5716,BackDraft Chocolate Porter,25,2,65
+5719,Ridge Runner Barley Wine,164,3,46
+5720,King Crimson,22,7,37
+5721,Horizon Red Ale,33,5,32
+5722,Winter Ale,141,0,80
+5723,Stateside Saison,74,9,55
+5724,Jai Alai IPA,31,9,3
+5725,Maduro Oatmeal Brown Ale,38,12,43
+5727,Guava Grove Ale,74,4,88
+5728,Big Sound Scotch Ale,15,3,24
+5729,Modus Hoperandi,31,0,36
+5731,Manheim Stout,42,12,81
+5733,Divine Reserve 9,43,5,83
+5734,Phoenixx Double ESB,5,9,58
+5742,2xIPA,32,5,97
+5743,Samuel Adams Noble Pils,77,9,0
+5745,Captin Lawrence Pale Ale,26,1,28
+5746,Captain Lawrence Xtra Gold,61,2,85
+5747,Captin Lawrence Liquid Gold,64,4,15
+5748,Captin Lawrence Smoked Porter,25,6,3
+5751,Brown Bird Brown Ale,38,3,97
+5753,Golden Delicious,61,2,100
+5754,LeBleu,21,11,85
+5755,Canadian Breakfast Stout,43,5,10
+5756,Raging Bitch Belgian IPA,72,3,14
+5759,RUMBAH Double Rum Bock,92,5,92
+5760,Bathtub Gin Gruit Ale,126,12,83
+5762,Weyerbacher India,31,2,30
+5764,Squall IPA,32,8,85
+5766,Michelob Irish Red,22,4,52
+5767,Lucky 13 Mondo Large Red Ale,33,12,57
+5768,Buried Hatchet Stout,42,3,85
+5769,Vigneronne,70,7,39
+5771,Maximus,31,7,89
+5772,Plead the 5th Imperial Stout,43,6,38
+5773,Southern Pecan,89,10,8
+5774,Unfiltered Double Simcoe IPA,32,3,14
+5775,Supplication,84,9,38
+5776,Arctic Panzer Wolf,32,11,34
+5777,Free Loader Double Red IPA,32,2,74
+5779,Hop Dam Triple IPA,32,10,35
+5780,Frosted Frog Christmas Ale,141,7,77
+5781,Fresh Frog Raw Hop Imperial Pale Ale,26,7,28
+5788,Silk Porter,25,4,72
+5789,Bodacious Black and Tan,133,8,74
+5790,Gulden Fraug Belgian Ale,65,10,72
+5791,Wild Frog Wheat,50,12,93
+5792,Smashing Berry Ale,121,10,13
+5793,Smashing Berry Dark,121,3,28
+5794,Blackout Stout,43,5,26
+5795,Apex,32,3,78
+5796,Old Salty,92,0,14
+5797,Paradise Porter,25,8,13
+5798,Iron Thistle,15,10,12
+5799,Tres Blueberry Stout,42,4,56
+5800,Fore Smoked Stout,42,5,39
+5801,One Oatmeal Stout,21,5,17
+5802,Too Cream Stout,20,6,32
+5803,Three Guy Off The Scale Barley Wine,35,4,30
+5804,Duet,31,1,19
+5805,Nelson,31,12,69
+5807,Humidor Series Jai Alai Cedar Aged India Pale Ale,31,11,87
+5808,Marble India Pale Ale,31,2,68
+5809,Mongo Double IPA,32,10,84
+5810,Hopportunity Knocks Ale,31,12,58
+5811,Legbiter Ale,1,3,67
+5813,Barelegs Brew,1,4,49
+5816,Manheim Red,33,3,87
+5817,Bourbon County Brand Coffee Stout,43,8,68
+5819,Weyerbacher Juliet,57,11,37
+5820,2x4 India Pale Ale,32,0,62
+5821,Brewhouse Coffee Stout,42,0,19
+5823,Dundee Stout,42,1,21
+5824,Simcoe Single Hop IPA,31,2,62
+5825,Kryptonite Imperial IPA,32,3,60
+5826,Pine Belt Pale Ale,26,1,20
+5827,Batch 666,141,10,16
+5828,471 IPA,32,9,58
+5832,Nit Wit,67,12,75
+5834,Harpoon Leviathan,32,4,77
+5835,Full Moon Pale Rye Ale,119,7,14
+5836,Rio Blanco Pale Ale,26,6,14
+5837,Hitachino Nest XH,30,12,100
+5838,Ise Kadoya Stout,42,6,73
+5839,Wells Banana Bread Beer,121,2,53
+5840,Allagash Fluxus 09,74,6,20
+5841,HotRod Red,22,0,41
+5842,Old BullDog Extra Special,30,10,51
+5843,One,65,3,95
+5847,Conundrum Red Ale,33,6,45
+5848,Oasis,31,10,73
+5849,Hudson Pale Ale,26,2,88
+5850,Yakima Glory,41,6,89
+5851,Irish Amber,22,7,95
+5854,Fall Festivus Ale,33,3,4
+5855,Little Scrapper IPA,31,8,86
+5856,Christmas Ale,38,9,34
+5858,Old Jubilation Ale,14,10,20
+5859,Fresh Hops Pale Ale,26,11,97
+5860,Oktoberfest,84,5,48
+5861,Sour Cherry Imperial Stout,43,6,60
+5862,Foreign Extra Stout,24,5,78
+5863,Sweet Action,113,6,18
+5865,Imperial Nut Brown,38,1,97
+5866,Alta Gracia Coffee Porter,46,9,41
+5868,Triple,61,8,83
+5869,Corona Light,96,0,44
+5871,Loakal Red,33,4,5
+5872,Kingfisher Premium,96,10,11
+5874,Coffee Stout,42,5,36
+5875,Pale Ale,26,6,62
+5876,Baltika 6,106,7,89
+5877,Firewater Indian Pale Ale,31,12,72
+5878,Guinness Draught,23,7,96
+5879,Summer Teeth,58,0,65
+5880,Dank,34,10,82
+5881,Dos Perros,38,4,17
+5882,Pale Ale,30,2,34
+5883,Hefeweizen,50,9,46
+5884,Sly Rye Porter,46,10,43
+5885,Onward Stout,42,4,12
+5886,Dark Element,127,12,66
+5887,Finest Bitter,3,10,34
+5888,FA,4,8,2
+5889,IPA,2,7,67
+5890,Dark Mild,11,0,59
+5891,2008 Culture Beer,3,6,56
+5892,Iron Rail IPA,2,10,80
+5893,Black Creek Porter,130,4,76
+5894,Vivant Tripel,61,0,36
+5895,Watershed IPA,30,1,25
+5896,Watershed IPA,30,2,82
+5898,Estrella Levante Especial,106,4,88
+5900,Koshihikari Echigo Beer,132,4,100
+5901,Full Boar,132,6,34
+5902,The Public,26,9,84
+5903,Abita Amber,82,2,68
+5905,Abita Golden,95,3,36
+5906,Abita Light Beer,96,3,70
+5907,Abbey Ale,1,9,23
+5908,Wheat,82,12,38
+5909,Triple Citra Hopped Satsuma Wit,121,8,71
+5910,Honey Rye Ale,128,7,80
+5911,Strawberry,121,10,21
+5912,Satsuma Wit,121,3,77
+5913,Abhi beer,89,8,9
+5914,Ambr,132,5,58
+5915,Corona Extra,28,6,80
+5916,White rabbit,30,1,23
+5917,Winter Warmer,42,10,80
